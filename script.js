@@ -3,6 +3,21 @@
 
   const STORAGE_KEY = "the-locked-hour-reader-v1";
   const VALID_FONT_SIZES = new Set(["small", "medium", "large"]);
+  const SPEAKER_HEADINGS = new Set([
+    "Thomas",
+    "Emily",
+    "Samuel",
+    "The Old Man",
+    "The Girl",
+    "A Survivor",
+    "A Voice",
+    "A Woman",
+    "The Boy",
+    "The Older Woman",
+    "The Man",
+    "The Search Party",
+    "The Runner",
+  ]);
   const state = {
     pageIndex: 0,
     fontSize: "medium",
@@ -83,11 +98,20 @@
     return blocks
       .map((block) => {
         const lines = block.split("\n");
+        const trimmedBlock = block.trim();
+
+        if (SPEAKER_HEADINGS.has(trimmedBlock)) {
+          return `<p class="speaker-heading">${escapeHtml(trimmedBlock)}</p>`;
+        }
 
         if (lines.every((line) => line.startsWith(">"))) {
           const quoteLines = lines.map((line) => line.replace(/^>\s?/, ""));
           return `<blockquote>${quoteLines
-            .map((line) => `<p>${inlineMarkdown(line)}</p>`)
+            .map((line) =>
+              SPEAKER_HEADINGS.has(line.trim())
+                ? `<p class="speaker-heading">${escapeHtml(line.trim())}</p>`
+                : `<p>${inlineMarkdown(line)}</p>`,
+            )
             .join("")}</blockquote>`;
         }
 

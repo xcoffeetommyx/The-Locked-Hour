@@ -40,7 +40,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Eight hours,\" Emily said.\n\n\"Yep.\"\n\n\"Felt like twelve.\"\n\n\"Only because you spent six of them waiting to clock out.\"\n\nShe looked at me like I had personally offended her.\n\n\"I was working.\"\n\n\"Sure you were.\"\n\nShe bumped my shoulder with hers.\n\n\"You know what? Next shift, you can deal with all the customers.\"\n\n\"I already do.\"\n\n\"Exactly. You're getting practice.\""
+    "text": "Emily\n\n\"Eight hours,\" Emily said.\n\nThomas\n\n\"Yep.\"\n\nEmily\n\n\"Felt like twelve.\"\n\nThomas\n\n\"Only because you spent six of them waiting to clock out.\"\n\nShe looked at me like I had personally offended her.\n\nEmily\n\n\"I was working.\"\n\nThomas\n\n\"Sure you were.\"\n\nShe bumped my shoulder with hers.\n\nEmily\n\n\"You know what? Next shift, you can deal with all the customers.\"\n\nThomas\n\n\"I already do.\"\n\nEmily\n\n\"Exactly. You're getting practice.\""
   },
   {
     "id": "ch01-p04",
@@ -62,7 +62,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"You doing anything tomorrow?\" I asked.\n\n\"Sleeping.\"\n\n\"That's not a plan.\"\n\n\"It's absolutely a plan.\"\n\n\"Until noon?\"\n\n\"At least.\"\n\n\"I don't think I've ever seen you awake before lunch on your day off.\"\n\n\"That's because you're always texting me before lunch.\"\n\n\"Fair.\""
+    "text": "Thomas\n\n\"You doing anything tomorrow?\" I asked.\n\nEmily\n\n\"Sleeping,\" Emily said.\n\nThomas\n\n\"That's not a plan.\"\n\nEmily\n\n\"It's absolutely a plan.\"\n\nThomas\n\n\"Until noon?\"\n\nEmily\n\n\"At least.\"\n\nThomas\n\n\"I don't think I've ever seen you awake before lunch on your day off.\"\n\nEmily\n\n\"That's because you're always texting me before lunch.\"\n\nThomas\n\n\"Fair.\""
   },
   {
     "id": "ch01-p06",
@@ -84,7 +84,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "At first, I thought she was lost.\n\nThen we got closer.\n\nHer clothes were wrong.\n\nNot costume wrong.\n\nOlder than that.\n\nA plain dress. Dark shoes. Hair hanging loose around her face.\n\nShe looked cold, but she wasn't shivering.\n\nEmily's voice softened.\n\n\"Sweetie... are you okay?\"\n\nThe girl looked at her.\n\nThen at me."
+    "text": "At first, I thought she was lost.\n\nThen we got closer.\n\nHer clothes were wrong.\n\nNot costume wrong.\n\nOlder than that.\n\nA plain dress. Dark shoes. Hair hanging loose around her face.\n\nShe looked cold, but she wasn't shivering.\n\nEmily's voice softened.\n\nEmily\n\n\"Sweetie... are you okay?\"\n\nThe girl looked at her.\n\nThen at me."
   },
   {
     "id": "ch01-p08",
@@ -95,7 +95,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The girl opened her mouth.\n\nShe spoke.\n\nOr tried to.\n\nI heard the sound of a voice, but none of the words.\n\nIt wasn't another language.\n\nIt wasn't static.\n\nIt was like pieces of the sentence had been removed before they reached us.\n\nI looked at Emily.\n\n\"Did you understand that?\"\n\nShe shook her head.\n\n\"No.\""
+    "text": "The girl opened her mouth.\n\nShe spoke.\n\nOr tried to.\n\nI heard the sound of a voice, but none of the words.\n\nIt wasn't another language.\n\nIt wasn't static.\n\nIt was like pieces of the sentence had been removed before they reached us.\n\nI looked at Emily.\n\nThomas\n\n\"Did you understand that?\"\n\nShe shook her head.\n\nEmily\n\n\"No.\""
   },
   {
     "id": "ch01-p09",
@@ -117,7 +117,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "When we looked back, the girl was gone.\n\nNot running.\n\nNot hiding.\n\nGone.\n\nEmily and I stood there longer than we should have.\n\nI checked between the buildings.\n\nUnder the streetlight.\n\nDown the sidewalk.\n\nThere was nowhere she could have gone that quickly.\n\nEmily finally spoke.\n\n\"That was weird.\""
+    "text": "When we looked back, the girl was gone.\n\nNot running.\n\nNot hiding.\n\nGone.\n\nEmily and I stood there longer than we should have.\n\nI checked between the buildings.\n\nUnder the streetlight.\n\nDown the sidewalk.\n\nThere was nowhere she could have gone that quickly.\n\nEmily finally spoke.\n\nEmily\n\n\"That was weird.\""
   },
   {
     "id": "ch01-p11",
@@ -128,7 +128,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Maybe she ran.\"\n\nEmily looked at me.\n\n\"That fast?\"\n\nI shrugged.\n\nIt was a bad explanation.\n\nWe both knew it.\n\n\"Maybe her parents were close by.\"\n\n\"Thomas.\"\n\n\"What?\"\n\n\"Did that look like a kid messing around to you?\"\n\nI didn't answer.\n\nBecause no.\n\nIt didn't."
+    "text": "Thomas\n\n\"Maybe she ran,\" I said.\n\nEmily looked at me.\n\nEmily\n\n\"That fast?\"\n\nI shrugged.\n\nIt was a bad explanation.\n\nWe both knew it.\n\nThomas\n\n\"Maybe her parents were close by.\"\n\nEmily\n\n\"Thomas.\"\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"Did that look like a kid messing around to you?\"\n\nI didn't answer.\n\nBecause no.\n\nIt didn't."
   },
   {
     "id": "ch01-p12",
@@ -139,7 +139,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "We kept walking.\n\nThe rest of the way felt different.\n\nNot dangerous exactly.\n\nJust quieter.\n\nLike the street had noticed us noticing it.\n\nWhen we reached the place where we normally split up, I stopped.\n\nEmily looked over.\n\n\"What?\"\n\n\"Text me when you get home.\"\n\nShe smiled.\n\n\"I always do.\"\n\n\"I know.\"\n\n\"Then why do you keep saying it?\"\n\nI shrugged.\n\n\"Habit.\""
+    "text": "We kept walking.\n\nThe rest of the way felt different.\n\nNot dangerous exactly.\n\nJust quieter.\n\nLike the street had noticed us noticing it.\n\nWhen we reached the place where we normally split up, I stopped.\n\nEmily looked over.\n\nEmily\n\n\"What?\"\n\nThomas\n\n\"Text me when you get home.\"\n\nShe smiled.\n\nEmily\n\n\"I always do.\"\n\nThomas\n\n\"I know.\"\n\nEmily\n\n\"Then why do you keep saying it?\"\n\nI shrugged.\n\nThomas\n\n\"Habit.\""
   },
   {
     "id": "ch01-p13",
@@ -150,7 +150,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "She started walking backward for a few steps.\n\n\"Night, Thomas.\"\n\n\"Night, Emily.\"\n\nShe turned the corner.\n\nI waited until I couldn't see her anymore.\n\nThen I went home.\n\nLater, my phone buzzed.\n\nEmily.\n\nStill thinking about that little girl.\n\nI typed back:\n\nMe too."
+    "text": "She started walking backward for a few steps.\n\nEmily\n\n\"Night, Thomas.\"\n\nThomas\n\n\"Night, Emily.\"\n\nShe turned the corner.\n\nI waited until I couldn't see her anymore.\n\nThen I went home.\n\nLater, my phone buzzed.\n\nEmily.\n\nStill thinking about that little girl.\n\nI typed back:\n\nMe too."
   },
   {
     "id": "ch01-p14",
@@ -194,7 +194,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "My first thought wasn't that I had traveled somewhere.\n\nIt was that I was dreaming.\n\nI laughed once under my breath.\n\nIt sounded nervous.\n\n\"This is a dream.\"\n\nSaying it out loud helped for exactly three seconds.\n\nThe cold didn't feel like a dream.\n\nWhen I breathed in, my lungs hurt.\n\nWhen I stood up, snow slipped into my shoes.\n\nDreams weren't supposed to remember details like that."
+    "text": "My first thought wasn't that I had traveled somewhere.\n\nIt was that I was dreaming.\n\nI laughed once under my breath.\n\nIt sounded nervous.\n\nThomas\n\n\"This is a dream.\"\n\nSaying it out loud helped for exactly three seconds.\n\nThe cold didn't feel like a dream.\n\nWhen I breathed in, my lungs hurt.\n\nWhen I stood up, snow slipped into my shoes.\n\nDreams weren't supposed to remember details like that."
   },
   {
     "id": "ch02-p04",
@@ -205,7 +205,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Something moved behind me.\n\nI spun around so fast I nearly slipped.\n\n\"Thomas!\"\n\nEmily.\n\nShe was twenty feet away, standing in the middle of the road.\n\nFor the first time in my life, I don't think I'd ever been happier to see another person.\n\nShe ran toward me, stopping just short.\n\n\"You see this too?\"\n\nI stared at her.\n\n\"You remember?\"\n\nHer expression changed immediately.\n\n\"So you remember.\"\n\nNeither of us smiled."
+    "text": "Something moved behind me.\n\nI spun around so fast I nearly slipped.\n\nEmily\n\n\"Thomas!\"\n\nEmily.\n\nShe was twenty feet away, standing in the middle of the road.\n\nI don't think I'd ever been happier to see another person.\n\nShe ran toward me, stopping just short.\n\n\"You see this too?\"\n\nI stared at her.\n\nThomas\n\n\"You remember?\"\n\nHer expression changed immediately.\n\nEmily\n\n\"So you remember.\"\n\nNeither of us smiled."
   },
   {
     "id": "ch02-p05",
@@ -216,7 +216,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "For several long seconds we simply stood there.\n\nNeither of us asked the obvious question.\n\nHow?\n\nInstead Emily looked around.\n\n\"This isn't where we were.\"\n\n\"No.\"\n\n\"It doesn't even...\"\n\nShe turned in a slow circle.\n\n\"...make sense.\"\n\n\"It has to be a dream.\"\n\nShe looked back at me.\n\n\"If it's a dream...\"\n\n\"...why are you here too?\"\n\nI didn't have an answer."
+    "text": "For several long seconds we simply stood there.\n\nNeither of us asked the obvious question.\n\nHow?\n\nInstead, Emily looked around.\n\nEmily\n\n\"This isn't where we were,\" Emily said.\n\nThomas\n\n\"No.\"\n\nEmily\n\n\"It doesn't even...\"\n\nShe turned in a slow circle.\n\n\"...make sense.\"\n\nThomas\n\n\"It has to be a dream.\"\n\nShe looked back at me.\n\nEmily\n\n\"If it's a dream...\"\n\n\"...why are you here too?\"\n\nI didn't have an answer."
   },
   {
     "id": "ch02-p06",
@@ -227,7 +227,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "A church bell echoed somewhere in the distance.\n\nOne slow strike.\n\nThen silence.\n\nEmily flinched.\n\n\"You heard that?\"\n\n\"Yeah.\"\n\n\"It sounded...\"\n\nShe stopped.\n\n\"What?\"\n\n\"I don't know.\"\n\nWe listened.\n\nNothing.\n\nJust the wind.\n\nThen somewhere much farther away...\n\nA wolf howled.\n\nAnother answered.\n\nThen another."
+    "text": "A church bell echoed somewhere in the distance.\n\nOne slow strike.\n\nThen silence.\n\nEmily flinched.\n\nEmily\n\n\"You heard that?\"\n\nThomas\n\n\"Yeah.\"\n\nEmily\n\n\"It sounded...\"\n\nShe stopped.\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"I don't know.\"\n\nWe listened.\n\nNothing.\n\nJust the wind.\n\nThen somewhere much farther away...\n\nA wolf howled.\n\nAnother answered.\n\nThen another."
   },
   {
     "id": "ch02-p07",
@@ -238,7 +238,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"We should move,\" Emily said quietly.\n\n\"Toward the bell?\"\n\n\"It's the only thing that sounds... human.\"\n\nWe started walking.\n\nThe village felt abandoned.\n\nDoors were shut tight.\n\nCurtains covered every window.\n\nNo voices.\n\nNo children.\n\nNo smoke rising from chimneys except one or two in the distance.\n\nEven the snow looked untouched.\n\nUntil I looked down.\n\nFootprints.\n\nHundreds of them.\n\nAll leading the same direction.\n\nToward the bell."
+    "text": "Emily\n\n\"We should move,\" Emily said quietly.\n\nThomas\n\n\"Toward the bell?\"\n\nEmily\n\n\"It's the only thing that sounds... human.\"\n\nWe started walking.\n\nThe village felt abandoned.\n\nDoors were shut tight.\n\nCurtains covered every window.\n\nNo voices.\n\nNo children.\n\nNo smoke rising from chimneys except one or two in the distance.\n\nEven the snow looked untouched.\n\nUntil I looked down.\n\nFootprints.\n\nHundreds of them.\n\nAll leading the same direction.\n\nToward the bell."
   },
   {
     "id": "ch02-p08",
@@ -249,7 +249,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "As we followed the tracks, something caught Emily's attention.\n\n\"Thomas.\"\n\n\"What?\"\n\nShe pointed at my wrist.\n\n\"You still wearing that watch?\"\n\nI looked down.\n\n\"Yeah.\"\n\nShe frowned.\n\n\"Good.\"\n\n\"Why?\"\n\n\"I don't know.\"\n\nShe looked away almost immediately, embarrassed.\n\n\"I just... wanted to make sure.\"\n\nI laughed.\n\n\"That's oddly specific.\"\n\nShe forced a smile.\n\n\"I know.\"\n\nNeither of us understood why she'd asked."
+    "text": "As we followed the tracks, something caught Emily's attention.\n\nEmily\n\n\"Thomas.\"\n\nThomas\n\n\"What?\"\n\nShe pointed at my wrist.\n\nEmily\n\n\"You still wearing that watch?\" she asked.\n\nI looked down.\n\nThomas\n\n\"Yeah.\"\n\nShe frowned.\n\nEmily\n\n\"Good.\"\n\nThomas\n\n\"Why?\"\n\nEmily\n\n\"I don't know.\"\n\nShe looked away almost immediately, embarrassed.\n\n\"I just... wanted to make sure.\"\n\nI laughed.\n\nThomas\n\n\"That's oddly specific.\"\n\nShe forced a smile.\n\nEmily\n\n\"I know.\"\n\nNeither of us understood why she'd asked."
   },
   {
     "id": "ch02-p09",
@@ -271,7 +271,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Before either of us could get closer—\n\n\"Run!\"\n\nThe voice came from somewhere to our left.\n\nThree people emerged from between the buildings.\n\nTheir clothes looked as old as everything else around us.\n\nOne of them grabbed my arm.\n\nAnother reached for Emily.\n\n\"Don't just stand there!\"\n\n\"What's happening?\" I shouted.\n\n\"No time!\"\n\nThey practically dragged us across the square.\n\nBehind us, something barked.\n\nNot a dog.\n\nSomething heavier.\n\nMore voices shouted from inside the church.\n\nThe great doors began to open.\n\nOnly a crack.\n\nJust enough for people to slip through.\n\n\"Move!\"\n\nWe crossed the threshold.\n\nThe doors slammed shut behind us.\n\nOutside...\n\nThe wolves began to gather."
+    "text": "Before either of us could get closer—\n\nA Survivor\n\n\"Run!\"\n\nThe voice came from somewhere to our left.\n\nThree people emerged from between the buildings.\n\nTheir clothes looked as old as everything else around us.\n\nOne of them grabbed my arm.\n\nAnother reached for Emily.\n\n\"Don't just stand there!\"\n\nThomas\n\n\"What's happening?\" I shouted.\n\nA Survivor\n\n\"No time!\"\n\nThey practically dragged us across the square.\n\nBehind us, something barked.\n\nNot a dog.\n\nSomething heavier.\n\nMore voices shouted from inside the church.\n\nThe great doors began to open.\n\nOnly a crack.\n\nJust enough for people to slip through.\n\n\"Move!\"\n\nWe crossed the threshold.\n\nThe doors slammed shut behind us.\n\nOutside...\n\nThe wolves began to gather."
   },
   {
     "id": "ch03-p01",
@@ -282,7 +282,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 1,
     "isChapterStart": true,
     "type": "prose",
-    "text": "The doors slammed shut behind us with a force that shook the floor beneath my boots.\n\nFor a moment, no one moved.\n\nThe only sound was heavy breathing.\n\nMine.\n\nEmily's.\n\nEveryone else's.\n\nThen someone shouted.\n\n\"Bar it!\"\n\nThe room came alive."
+    "text": "The doors slammed shut behind us with a force that shook the floor beneath my boots.\n\nFor a moment, no one moved.\n\nThe only sound was heavy breathing.\n\nMine.\n\nEmily's.\n\nEveryone else's.\n\nThen someone shouted.\n\nA Voice\n\n\"Bar it!\"\n\nThe room came alive."
   },
   {
     "id": "ch03-p02",
@@ -304,7 +304,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Thomas!\"\n\nEmily grabbed my sleeve.\n\n\"They're telling us to help.\"\n\nOne of the older men waved us over.\n\n\"If you're standing, you're pushing.\"\n\nI didn't even think about it.\n\nI put both hands on the freezing iron beside everyone else.\n\nIt felt smooth from years of use."
+    "text": "Emily\n\n\"Thomas!\"\n\nEmily grabbed my sleeve.\n\n\"They're telling us to help.\"\n\nOne of the older men waved us over.\n\nThe Old Man\n\n\"If you're standing, you're pushing.\"\n\nI didn't even think about it.\n\nI put both hands on the freezing iron beside everyone else.\n\nIt felt smooth from years of use."
   },
   {
     "id": "ch03-p04",
@@ -315,7 +315,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Ready.\"\n\nNobody counted.\n\nEveryone simply pushed together.\n\nThe lever groaned.\n\nMetal scraped against metal with a sound so deep I could feel it through my hands.\n\nIt moved.\n\nSlowly.\n\nPainfully.\n\nHalfway.\n\nThree quarters.\n\nAlmost there.\n\nThen...\n\nIt stopped."
+    "text": "A Voice\n\n\"Ready.\"\n\nNobody counted.\n\nEveryone simply pushed together.\n\nThe lever groaned.\n\nMetal scraped against metal with a sound so deep I could feel it through my hands.\n\nIt moved.\n\nSlowly.\n\nPainfully.\n\nHalfway.\n\nThree quarters.\n\nAlmost there.\n\nThen...\n\nIt stopped."
   },
   {
     "id": "ch03-p05",
@@ -326,7 +326,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Everyone kept pushing.\n\nSomeone grunted.\n\nAnother man braced his shoulder against the iron.\n\nI leaned my full weight into it.\n\nNothing.\n\nIt refused to move another inch.\n\nThe old man finally let go.\n\n\"That's enough.\"\n\nI looked at him.\n\n\"...Enough?\"\n\nHe nodded.\n\n\"It won't go any farther.\""
+    "text": "Everyone kept pushing.\n\nSomeone grunted.\n\nAnother man braced his shoulder against the iron.\n\nI leaned my full weight into it.\n\nNothing.\n\nIt refused to move another inch.\n\nThe old man finally let go.\n\nThe Old Man\n\n\"That's enough.\"\n\nI looked at him.\n\nThomas\n\n\"...Enough?\"\n\nHe nodded.\n\nThe Old Man\n\n\"It won't go any farther.\""
   },
   {
     "id": "ch03-p06",
@@ -337,7 +337,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I looked past him.\n\nThe lever hadn't reached the last notch.\n\nIt was close.\n\nPainfully close.\n\nMaybe an inch away.\n\nMaybe less.\n\nIt looked unfinished.\n\n\"Shouldn't it lock all the way?\"\n\nNo one answered immediately.\n\nFinally a woman near the front said quietly,\n\n\"It hasn't... in a very long time.\""
+    "text": "I looked past him.\n\nThe lever hadn't reached the last notch.\n\nIt was close.\n\nPainfully close.\n\nMaybe an inch away.\n\nMaybe less.\n\nIt looked unfinished.\n\nThomas\n\n\"Shouldn't it lock all the way?\"\n\nNo one answered immediately.\n\nFinally, a woman near the front said quietly,\n\nA Woman\n\n\"It hasn't... in a very long time.\""
   },
   {
     "id": "ch03-p07",
@@ -348,7 +348,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I stared at the gap.\n\nMy brain hated it.\n\nEverything about it felt wrong.\n\nDoors were either locked...\n\n...or they weren't.\n\nEmily stepped beside me.\n\n\"It really won't move?\"\n\nThe old man shook his head.\n\n\"It never does.\"\n\n\"You've tried?\"\n\nA tired smile crossed his face.\n\n\"Every night.\""
+    "text": "I stared at the gap.\n\nMy brain hated it.\n\nEverything about it felt wrong.\n\nDoors were either locked...\n\n...or they weren't.\n\nEmily stepped beside me.\n\nEmily\n\n\"It really won't move?\" Emily asked.\n\nThe old man shook his head.\n\nThe Old Man\n\n\"It never does.\"\n\nEmily\n\n\"You've tried?\"\n\nA tired smile crossed his face.\n\nThe Old Man\n\n\"Every night.\""
   },
   {
     "id": "ch03-p08",
@@ -392,7 +392,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily leaned closer.\n\n\"Thomas...\"\n\n\"I hear it.\"\n\n\"It sounds like...\"\n\nShe stopped.\n\nThe scratching became footsteps.\n\nMore than one set.\n\nCircling.\n\nThe old man quietly picked up a lantern.\n\n\"They're early tonight.\"\n\nNo one asked who \"they\" were."
+    "text": "Emily leaned closer.\n\nEmily\n\n\"Thomas...\"\n\nThomas\n\n\"I hear it,\" I said.\n\nEmily\n\n\"It sounds like...\"\n\nShe stopped.\n\nThe scratching became footsteps.\n\nMore than one set.\n\nCircling.\n\nThe old man quietly picked up a lantern.\n\nThe Old Man\n\n\"They're early tonight.\"\n\nNo one asked who \"they\" were."
   },
   {
     "id": "ch03-p12",
@@ -403,7 +403,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I walked toward one of the boarded windows.\n\nA hand caught my arm before I reached it.\n\n\"Don't.\"\n\nThe old man again.\n\n\"Why?\"\n\nHe looked at the boards.\n\n\"Sometimes...\"\n\nHe hesitated.\n\n\"...they know when you're looking.\"\n\nI waited for him to smile.\n\nHe didn't."
+    "text": "I walked toward one of the boarded windows.\n\nA hand caught my arm before I reached it.\n\nThe Old Man\n\n\"Don't.\"\n\nThe old man again.\n\nThomas\n\n\"Why?\"\n\nHe looked at the boards.\n\nThe Old Man\n\n\"Sometimes...\"\n\nHe hesitated.\n\n\"...they know when you're looking.\"\n\nI waited for him to smile.\n\nHe didn't."
   },
   {
     "id": "ch03-p13",
@@ -425,7 +425,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily spoke so quietly I almost didn't hear her.\n\n\"I don't think those are all wolves.\"\n\nBefore I could answer...\n\nSomething heavy brushed against the outside of the church.\n\nThe wall creaked.\n\nDust drifted from the ceiling.\n\nNobody screamed.\n\nNobody ran.\n\nThe people simply waited.\n\nLike this was the most ordinary part of their evening.\n\nI looked back at the unfinished lock.\n\nStill one inch short.\n\nStill...\n\ngood enough."
+    "text": "Emily spoke so quietly I almost didn't hear her.\n\nEmily\n\n\"I don't think those are all wolves.\"\n\nBefore I could answer...\n\nSomething heavy brushed against the outside of the church.\n\nThe wall creaked.\n\nDust drifted from the ceiling.\n\nNobody screamed.\n\nNobody ran.\n\nThe people simply waited.\n\nLike this was the most ordinary part of their evening.\n\nI looked back at the unfinished lock.\n\nStill one inch short.\n\nStill...\n\ngood enough."
   },
   {
     "id": "ch04-p01",
@@ -436,7 +436,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 1,
     "isChapterStart": true,
     "type": "prose",
-    "text": "I woke up in my own bed.\n\nFor one wonderful second...\n\n...everything was normal.\n\nMy room.\n\nMy ceiling.\n\nThe quiet hum of the air conditioner.\n\nMorning sunlight slipping through the blinds.\n\nI laughed.\n\nNot because anything was funny.\n\nBecause I had never been so happy to wake up.\n\n\"It was just a dream.\"\n\nI believed it.\n\nFor about five seconds."
+    "text": "I woke up in my own bed.\n\nFor one wonderful second...\n\n...everything was normal.\n\nMy room.\n\nMy ceiling.\n\nThe quiet hum of the air conditioner.\n\nMorning sunlight slipping through the blinds.\n\nI laughed.\n\nNot because anything was funny.\n\nBecause I had never been so happy to wake up.\n\nThomas\n\n\"It was just a dream.\"\n\nI believed it.\n\nFor about five seconds."
   },
   {
     "id": "ch04-p02",
@@ -447,7 +447,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The cold hadn't left.\n\nMy room wasn't cold.\n\nI was.\n\nIt sat somewhere beneath my skin.\n\nLike I had stood outside too long and my body hadn't realized it was warm again.\n\nI rubbed my hands together.\n\nThey still felt stiff.\n\nAlmost numb.\n\nI shook my head.\n\n\"You're overthinking it.\"\n\nThat sounded reasonable.\n\nUntil I stood up."
+    "text": "The cold hadn't left.\n\nMy room wasn't cold.\n\nI was.\n\nIt sat somewhere beneath my skin.\n\nLike I had stood outside too long and my body hadn't realized it was warm again.\n\nI rubbed my hands together.\n\nThey still felt stiff.\n\nAlmost numb.\n\nI shook my head.\n\nThomas\n\n\"You're overthinking it.\"\n\nThat sounded reasonable.\n\nUntil I stood up."
   },
   {
     "id": "ch04-p03",
@@ -469,7 +469,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"No.\"\n\nI checked the rest of the room.\n\nNothing.\n\nThe carpet was clean.\n\nThe floor was dry.\n\nNo footprints.\n\nNo snow.\n\nJust...\n\nmud in my shoes.\n\nI tried to remember yesterday.\n\nWork.\n\nWalking home with Emily.\n\nThe little girl.\n\nThen...\n\nNothing.\n\nUntil the snow."
+    "text": "Thomas\n\n\"No.\"\n\nI checked the rest of the room.\n\nNothing.\n\nThe carpet was clean.\n\nThe floor was dry.\n\nNo footprints.\n\nNo snow.\n\nJust...\n\nmud in my shoes.\n\nI tried to remember yesterday.\n\nWork.\n\nWalking home with Emily.\n\nThe little girl.\n\nThen...\n\nNothing.\n\nUntil the snow."
   },
   {
     "id": "ch04-p05",
@@ -491,7 +491,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "My phone buzzed.\n\nEmily.\n\nNot a text.\n\nA phone call.\n\nI answered immediately.\n\nNeither of us spoke.\n\nFinally...\n\n\"You remember.\"\n\nIt wasn't a question.\n\n\"No,\" I said automatically.\n\nA pause.\n\nThen I sighed.\n\n\"...Yeah.\""
+    "text": "My phone buzzed.\n\nEmily.\n\nNot a text.\n\nA phone call.\n\nI answered immediately.\n\nNeither of us spoke.\n\nFinally...\n\nEmily\n\n\"You remember.\"\n\nIt wasn't a question.\n\nThomas\n\n\"No,\" I said automatically.\n\nA pause.\n\nThen I sighed.\n\n\"...Yeah.\""
   },
   {
     "id": "ch04-p07",
@@ -502,7 +502,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"You?\"\n\n\"I remember all of it.\"\n\n\"The church?\"\n\n\"Yes.\"\n\n\"The wolves?\"\n\nAnother pause.\n\n\"...Yes.\"\n\n\"The people?\"\n\n\"I remember them too.\"\n\nNeither of us said the word dream.\n\nNot once."
+    "text": "Thomas\n\n\"You?\"\n\nEmily\n\n\"I remember all of it,\" Emily said.\n\nThomas\n\n\"The church?\"\n\nEmily\n\n\"Yes.\"\n\nThomas\n\n\"The wolves?\"\n\nAnother pause.\n\nEmily\n\n\"...Yes.\"\n\nThomas\n\n\"The people?\"\n\nEmily\n\n\"I remember them too.\"\n\nNeither of us said the word dream.\n\nNot once."
   },
   {
     "id": "ch04-p08",
@@ -513,7 +513,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"I checked my shoes,\" I said.\n\nEmily was quiet.\n\n\"So did I.\"\n\nMy stomach dropped.\n\n\"There was mud.\"\n\n\"There was mud.\"\n\nNeither of us laughed.\n\nWe couldn't.\n\nIt wasn't funny anymore."
+    "text": "Thomas\n\n\"I checked my shoes,\" I said.\n\nEmily was quiet.\n\nEmily\n\n\"So did I.\"\n\nMy stomach dropped.\n\nThomas\n\n\"There was mud.\"\n\nEmily\n\n\"There was mud.\"\n\nNeither of us laughed.\n\nWe couldn't.\n\nIt wasn't funny anymore."
   },
   {
     "id": "ch04-p09",
@@ -524,7 +524,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"I keep trying to remember how we got home.\"\n\n\"I know.\"\n\n\"I can't.\"\n\n\"I can't either.\"\n\nSilence.\n\nThen Emily asked something that hadn't occurred to me.\n\n\"Do you remember waking up there?\"\n\nI frowned.\n\n\"Yeah.\"\n\n\"No.\"\n\nShe interrupted gently.\n\n\"I mean...\n\ndo you remember falling asleep here?\"\n\nI opened my mouth.\n\nNothing came out.\n\nI couldn't remember."
+    "text": "Thomas\n\n\"I keep trying to remember how we got home,\" I said.\n\nEmily\n\n\"I know.\"\n\nThomas\n\n\"I can't.\"\n\nEmily\n\n\"I can't either.\"\n\nSilence.\n\nThen Emily asked something that hadn't occurred to me.\n\n\"Do you remember waking up there?\"\n\nI frowned.\n\nThomas\n\n\"Yeah.\"\n\nEmily\n\n\"No.\"\n\nShe interrupted gently.\n\n\"I mean...\n\n\"Do you remember falling asleep here?\"\n\nI opened my mouth.\n\nNothing came out.\n\nI couldn't remember."
   },
   {
     "id": "ch04-p10",
@@ -546,7 +546,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"What if...\" Emily started.\n\nShe stopped herself.\n\n\"What?\"\n\n\"It sounds stupid.\"\n\n\"Try me.\"\n\nAnother long pause.\n\n\"What if...\"\n\nShe took a breath.\n\n\"...what if we weren't dreaming?\"\n\nI looked out my bedroom window.\n\nCars.\n\nBirds.\n\nMorning traffic.\n\nEverything looked perfectly ordinary.\n\n\"It had to be a dream.\"\n\n\"It doesn't feel like one.\"\n\n\"No.\"\n\n\"It doesn't.\""
+    "text": "Emily\n\n\"What if...\" Emily started.\n\nShe stopped herself.\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"It sounds stupid.\"\n\nThomas\n\n\"Try me.\"\n\nAnother long pause.\n\nEmily\n\n\"What if...\"\n\nShe took a breath.\n\n\"...what if we weren't dreaming?\"\n\nI looked out my bedroom window.\n\nCars.\n\nBirds.\n\nMorning traffic.\n\nEverything looked perfectly ordinary.\n\nThomas\n\n\"It had to be a dream.\"\n\nEmily\n\n\"It doesn't feel like one.\"\n\nThomas\n\n\"No.\"\n\nEmily\n\n\"It doesn't.\""
   },
   {
     "id": "ch04-p12",
@@ -557,7 +557,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"We should stay awake tonight.\"\n\nI laughed.\n\nA tired laugh.\n\n\"Seriously.\"\n\n\"I'm serious too.\"\n\n\"We don't know that's what caused it.\"\n\n\"We don't know it didn't.\"\n\nShe had a point.\n\nNeither of us liked it."
+    "text": "Emily\n\n\"We should stay awake tonight,\" Emily said.\n\nI laughed.\n\nA tired laugh.\n\n\"Seriously,\" she said.\n\nThomas\n\n\"I'm serious too,\" I told her.\n\n\"We don't know that's what caused it.\"\n\nEmily\n\n\"We don't know it didn't.\"\n\nShe had a point.\n\nNeither of us liked it."
   },
   {
     "id": "ch04-p13",
@@ -568,7 +568,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"I'll make coffee.\"\n\n\"I already am.\"\n\n\"I'll keep texting you.\"\n\n\"I know.\"\n\n\"If one of us starts getting tired...\"\n\n\"We call.\"\n\n\"No matter how late.\"\n\n\"No matter how late.\"\n\nIt sounded ridiculous.\n\nLike children making rules against monsters.\n\nNeither of us smiled."
+    "text": "Thomas\n\n\"I'll make coffee,\" I said.\n\nEmily\n\n\"I already am.\"\n\nThomas\n\n\"I'll keep texting you.\"\n\nEmily\n\n\"I know.\"\n\nThomas\n\n\"If one of us starts getting tired...\"\n\nEmily\n\n\"We call,\" Emily said.\n\nThomas\n\n\"No matter how late.\"\n\nEmily\n\n\"No matter how late.\"\n\nIt sounded ridiculous.\n\nLike children making rules against monsters.\n\nNeither of us smiled."
   },
   {
     "id": "ch04-p14",
@@ -579,7 +579,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Before we hung up, Emily said my name.\n\n\"Thomas.\"\n\n\"Yeah?\"\n\n\"If we do go back...\"\n\nI waited.\n\n\"...don't let me get separated from you.\"\n\nI swallowed.\n\n\"I won't.\"\n\nAnother pause.\n\nThen she quietly said,\n\n\"I believe you.\"\n\nThe call ended.\n\nI looked down at the dried mud still caught in my shoe.\n\nOutside, the morning sun was bright enough to make me squint.\n\nFor the first time in my life...\n\nI wasn't looking forward to going to bed."
+    "text": "Before we hung up, Emily said my name.\n\nEmily\n\n\"Thomas.\"\n\nThomas\n\n\"Yeah?\"\n\nEmily\n\n\"If we do go back...\"\n\nI waited.\n\n\"...don't let me get separated from you.\"\n\nI swallowed.\n\nThomas\n\n\"I won't.\"\n\nAnother pause.\n\nThen she quietly said,\n\nEmily\n\n\"I believe you.\"\n\nThe call ended.\n\nI looked down at the dried mud still caught in my shoe.\n\nOutside, the morning sun was bright enough to make me squint.\n\nFor the first time in my life...\n\nI wasn't looking forward to going to bed."
   },
   {
     "id": "ch05-p01",
@@ -590,7 +590,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 1,
     "isChapterStart": true,
     "type": "source-note",
-    "text": "Thomas and Emily actively try to stop the cycle by staying awake. Real-world investigation becomes a core part of the story.\n\nRequired beats:\n- Thomas goes through a long, exhausted workday.\n- He studies strangers and starts noticing familiar echoes from the church.\n- Emily comes over after work.\n- They spread notes, maps, phones, coffee, and energy drinks across the kitchen table.\n- Emily has written down more details than Thomas.\n- They discuss the lock stopping one inch short.\n- They research local history, old churches, winter disasters, missing settlements.\n- They try to stay awake together over a video call.\n- Their natural friendship should carry the chapter.\n- They both fail and fall asleep.\n\nRequired ending:\n\n> I blinked.  \n>  \n> The room was gone.  \n>  \n> Snow landed softly on my jacket.  \n>  \n> The cold found me before I could even open my eyes.  \n>  \n> Somewhere nearby...  \n>  \n> Emily whispered,  \n>  \n> \"We're back.\"  \n>  \n> I opened my eyes.  \n>  \n> This time...  \n>  \n> The village was waiting for us."
+    "text": "Thomas and Emily actively try to stop the cycle by staying awake. Real-world investigation becomes a core part of the story.\n\nRequired beats:\n- Thomas goes through a long, exhausted workday.\n- He studies strangers and starts noticing familiar echoes from the church.\n- Emily comes over after work.\n- They spread notes, maps, phones, coffee, and energy drinks across the kitchen table.\n- Emily has written down more details than Thomas.\n- They discuss the lock stopping one inch short.\n- They research local history, old churches, winter disasters, missing settlements.\n- They try to stay awake together over a video call.\n- Their natural friendship should carry the chapter.\n- They both fail and fall asleep.\n\nRequired ending:\n\n> I blinked.  \n>  \n> The room was gone.  \n>  \n> Snow landed softly on my jacket.  \n>  \n> The cold found me before I could even open my eyes.  \n>  \n> Somewhere nearby...  \n>  \n> Emily whispered,  \n>  \n> Emily  \n>  \n> \"We're back.\"  \n>  \n> I opened my eyes.  \n>  \n> This time...  \n>  \n> The village was waiting for us."
   },
   {
     "id": "ch06-p01",
@@ -601,7 +601,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 1,
     "isChapterStart": true,
     "type": "prose",
-    "text": "The cold reached me before I opened my eyes.\n\nFor a brief second I still hoped.\n\nMaybe I'd fallen asleep at my desk.\n\nMaybe I'd dreamed waking up here again.\n\nThen I smelled smoke.\n\nWood smoke.\n\nSnow.\n\nOld timber.\n\nI opened my eyes.\n\nGray sky.\n\nWhite ground.\n\nI didn't even have to look around.\n\n\"Emily.\""
+    "text": "The cold reached me before I opened my eyes.\n\nFor a brief second I still hoped.\n\nMaybe I'd fallen asleep at my desk.\n\nMaybe I'd dreamed about waking up here again.\n\nThen I smelled smoke.\n\nWood smoke.\n\nSnow.\n\nOld timber.\n\nI opened my eyes.\n\nGray sky.\n\nWhite ground.\n\nI didn't even have to look around.\n\nThomas\n\n\"Emily.\""
   },
   {
     "id": "ch06-p02",
@@ -612,7 +612,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"I'm here.\"\n\nHer voice came from somewhere to my left.\n\nI turned.\n\nShe was already standing.\n\nShe looked almost relieved.\n\nNot because we were back.\n\nBecause neither of us had arrived alone.\n\n\"You okay?\"\n\nShe nodded.\n\n\"As okay as someone can be after waking up in another century.\"\n\nI almost smiled.\n\nAlmost."
+    "text": "Emily\n\n\"I'm here.\"\n\nHer voice came from somewhere to my left.\n\nI turned.\n\nShe was already standing.\n\nShe looked almost relieved.\n\nNot because we were back.\n\nBecause neither of us had arrived alone.\n\nThomas\n\n\"You okay?\"\n\nShe nodded.\n\nEmily\n\n\"As okay as someone can be after waking up in another century.\"\n\nI almost smiled.\n\nAlmost."
   },
   {
     "id": "ch06-p03",
@@ -623,7 +623,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Neither of us questioned where we were anymore.\n\nWe simply started walking.\n\nNeither of us said the word church.\n\nWe didn't have to.\n\nThe village was quiet.\n\nToo quiet.\n\nSnow fell steadily around us.\n\nOur footprints were the only fresh ones.\n\nUntil Emily stopped.\n\n\"Thomas.\"\n\n\"What?\"\n\nShe pointed down.\n\n\"They're not.\""
+    "text": "Neither of us questioned where we were anymore.\n\nWe simply started walking.\n\nNeither of us said the word church.\n\nWe didn't have to.\n\nThe village was quiet.\n\nToo quiet.\n\nSnow fell steadily around us.\n\nOur footprints were the only fresh ones.\n\nUntil Emily stopped.\n\nEmily\n\n\"Thomas.\"\n\nThomas\n\n\"What?\"\n\nShe pointed down.\n\nEmily\n\n\"They're not.\""
   },
   {
     "id": "ch06-p04",
@@ -656,7 +656,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The front doors opened before we reached them.\n\nThe old man from before stepped outside.\n\nHe looked directly at me.\n\nThen at Emily.\n\n\"There you are.\"\n\nNot...\n\n\"Who are you?\"\n\nNot...\n\n\"You're alive.\"\n\nJust...\n\n\"There you are.\"\n\nLike we'd simply come home late."
+    "text": "The front doors opened before we reached them.\n\nThe old man from before stepped outside.\n\nHe looked directly at me.\n\nThen at Emily.\n\nThe Old Man\n\n\"There you are.\"\n\nNot...\n\n\"Who are you?\"\n\nNot...\n\n\"You're alive.\"\n\nJust...\n\n\"There you are.\"\n\nLike we'd simply come home late."
   },
   {
     "id": "ch06-p07",
@@ -667,7 +667,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"You remember us?\"\n\nThe old man frowned.\n\n\"'Course I do.\"\n\nEmily and I looked at each other.\n\nThe old man noticed.\n\n\"What?\"\n\n\"You remember yesterday?\"\n\nHis forehead wrinkled.\n\n\"What do you mean yesterday?\"\n\nI opened my mouth.\n\nThen closed it again.\n\nI wasn't sure how to explain."
+    "text": "Thomas\n\n\"You remember us?\"\n\nThe old man frowned.\n\nThe Old Man\n\n\"'Course I do.\"\n\nEmily and I looked at each other.\n\nThe old man noticed.\n\n\"What?\"\n\nThomas\n\n\"You remember yesterday?\"\n\nHis forehead wrinkled.\n\nThe Old Man\n\n\"What do you mean yesterday?\"\n\nI opened my mouth.\n\nThen I closed it again.\n\nI wasn't sure how to explain."
   },
   {
     "id": "ch06-p08",
@@ -700,7 +700,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Where did they go?\"\n\nThe question slipped out before I could stop it.\n\nThe room became very quiet.\n\nNo one looked at me.\n\nFinally...\n\nThe old man answered.\n\n\"They didn't make it.\"\n\nThat was all.\n\nNo explanation.\n\nNo ceremony.\n\nJust...\n\n\"They didn't make it.\""
+    "text": "Thomas\n\n\"Where did they go?\"\n\nThe question slipped out before I could stop it.\n\nThe room became very quiet.\n\nNo one looked at me.\n\nFinally...\n\nThe old man answered.\n\nThe Old Man\n\n\"They didn't make it.\"\n\nThat was all.\n\nNo explanation.\n\nNo ceremony.\n\nJust...\n\n\"They didn't make it.\""
   },
   {
     "id": "ch06-p11",
@@ -711,7 +711,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily touched my arm.\n\n\"Come here.\"\n\nShe was standing near one of the side walls.\n\n\"What?\"\n\nShe didn't answer.\n\nShe simply pointed.\n\nAt first I thought the wood had cracked.\n\nThen I realized they weren't cracks.\n\nSomeone had carved lines into the wall.\n\nFour vertical marks.\n\nThen a fifth crossing them.\n\nTallies.\n\nHundreds of them.\n\nMaybe more.\n\nRunning almost the entire length of the wall."
+    "text": "Emily touched my arm.\n\nEmily\n\n\"Come here.\"\n\nShe was standing near one of the side walls.\n\nThomas\n\n\"What?\"\n\nShe didn't answer.\n\nShe simply pointed.\n\nAt first I thought the wood had cracked.\n\nThen I realized they weren't cracks.\n\nSomeone had carved lines into the wall.\n\nFour vertical marks.\n\nThen a fifth crossing them.\n\nTallies.\n\nHundreds of them.\n\nMaybe more.\n\nRunning almost the entire length of the wall."
   },
   {
     "id": "ch06-p12",
@@ -722,7 +722,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Thomas...\"\n\nEmily's voice barely carried.\n\n\"Look how many.\"\n\nI followed the marks farther down.\n\nThey continued behind benches.\n\nAround doorways.\n\nEven onto support beams.\n\nWhoever made them had been counting...\n\nfor a very long time.\n\n\"Days?\"\n\nI whispered.\n\nEmily slowly shook her head.\n\n\"I don't think so.\"\n\n\"What then?\"\n\nShe looked at me.\n\n\"I don't know.\"\n\nFor the first time since we'd arrived...\n\nEmily looked truly frightened."
+    "text": "Emily\n\n\"Thomas...\"\n\nEmily's voice barely carried.\n\n\"Look how many.\"\n\nI followed the marks farther down.\n\nThey continued behind benches.\n\nAround doorways.\n\nEven onto support beams.\n\nWhoever made them had been counting...\n\nfor a very long time.\n\nThomas\n\n\"Days?\"\n\nI whispered.\n\nEmily slowly shook her head.\n\nEmily\n\n\"I don't think so.\"\n\nThomas\n\n\"What then?\"\n\nShe looked at me.\n\nEmily\n\n\"I don't know.\"\n\nFor the first time since we'd arrived...\n\nEmily looked truly frightened."
   },
   {
     "id": "ch06-p13",
@@ -733,7 +733,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Later that afternoon, one of the survivors carefully pulled back a loose board covering a window.\n\n\"Quick.\"\n\nI stepped beside him.\n\nOutside...\n\nThree rabbits hopped through the snow.\n\nPerfectly ordinary.\n\nA crow landed on a fence post.\n\nNormal.\n\nThen...\n\nSomething moved between the trees.\n\nAt first I thought it was a deer.\n\nThen it stepped into the open.\n\nIts body was too large.\n\nIts legs were too long.\n\nIts neck bent farther than it should have.\n\nIt stood perfectly still.\n\nWatching the church.\n\nIt didn't blink."
+    "text": "Later that afternoon, one of the survivors carefully pulled back a loose board covering a window.\n\nA Survivor\n\n\"Quick.\"\n\nI stepped beside him.\n\nOutside...\n\nThree rabbits hopped through the snow.\n\nPerfectly ordinary.\n\nA crow landed on a fence post.\n\nNormal.\n\nThen...\n\nSomething moved between the trees.\n\nAt first I thought it was a deer.\n\nThen it stepped into the open.\n\nIts body was too large.\n\nIts legs were too long.\n\nIts neck bent farther than it should have.\n\nIt stood perfectly still.\n\nWatching the church.\n\nIt didn't blink."
   },
   {
     "id": "ch06-p14",
@@ -744,7 +744,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The survivor quietly pushed the board back into place.\n\n\"You don't want them knowing you're watching.\"\n\nI looked at him.\n\n\"Why?\"\n\nHe shrugged.\n\n\"They notice.\"\n\nBefore I could ask what he meant...\n\nThe church bell rang once.\n\nEveryone inside stopped what they were doing.\n\nThe old man quietly stood.\n\n\"Night remembers.\"\n\nNo one asked what he meant.\n\nNeither did I.\n\nOutside...\n\nSomething enormous walked through the snow.\n\nIt didn't stop at the church door.\n\nIt stopped...\n\nat the unfinished lock."
+    "text": "The survivor quietly pushed the board back into place.\n\nA Survivor\n\n\"You don't want them knowing you're watching.\"\n\nI looked at him.\n\nThomas\n\n\"Why?\"\n\nHe shrugged.\n\nA Survivor\n\n\"They notice.\"\n\nBefore I could ask what he meant...\n\nThe church bell rang once.\n\nEveryone inside stopped what they were doing.\n\nThe old man quietly stood.\n\nThe Old Man\n\n\"Night remembers.\"\n\nNo one asked what he meant.\n\nNeither did I.\n\nOutside...\n\nSomething enormous walked through the snow.\n\nIt didn't stop at the church door.\n\nIt stopped...\n\nat the unfinished lock."
   },
   {
     "id": "ch07-p01",
@@ -766,7 +766,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily walked beside me between the pews.\n\n\"They really live here.\"\n\nI nodded.\n\n\"I thought they'd be waiting for daylight.\"\n\n\"They are.\"\n\n\"What do you mean?\"\n\nI looked around the church again.\n\nNobody was sleeping.\n\nNobody was relaxing.\n\nThey were simply...\n\nwaiting."
+    "text": "Emily walked beside me between the pews.\n\nEmily\n\n\"They really live here,\" she said.\n\nI nodded.\n\nThomas\n\n\"I thought they'd be waiting for daylight.\"\n\nEmily\n\n\"They are.\"\n\nThomas\n\n\"What do you mean?\"\n\nI looked around the church again.\n\nNobody was sleeping.\n\nNobody was relaxing.\n\nThey were simply...\n\nwaiting."
   },
   {
     "id": "ch07-p03",
@@ -810,7 +810,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"You finally noticed.\"\n\nEmily's voice was quiet.\n\nI looked at her.\n\n\"You knew?\"\n\nShe nodded.\n\n\"I noticed when we woke up.\"\n\n\"You did?\"\n\n\"I was waiting.\"\n\n\"For what?\"\n\nShe looked down at my wrist.\n\n\"For you to say something.\"\n\n\"Why didn't you?\"\n\nShe hesitated.\n\n\"I was hoping I was imagining it.\""
+    "text": "Emily\n\n\"You finally noticed.\"\n\nEmily's voice was quiet.\n\nI looked at her.\n\nThomas\n\n\"You knew?\" I asked.\n\nShe nodded.\n\nEmily\n\n\"I noticed when we woke up.\"\n\nThomas\n\n\"You did?\"\n\nEmily\n\n\"I was waiting.\"\n\nThomas\n\n\"For what?\"\n\nShe looked down at my wrist.\n\nEmily\n\n\"For you to say something.\"\n\nThomas\n\n\"Why didn't you?\"\n\nShe hesitated.\n\nEmily\n\n\"I was hoping I was imagining it.\""
   },
   {
     "id": "ch07-p07",
@@ -821,7 +821,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I looked around the church.\n\nNobody else seemed interested.\n\nNobody else even looked at my wrist.\n\nIt was as if watches simply...\n\ndidn't belong here.\n\n\"I don't understand.\"\n\nEmily shook her head.\n\n\"Neither do I.\"\n\nThen I remembered.\n\n\"There was something else.\""
+    "text": "I looked around the church.\n\nNobody else seemed interested.\n\nNobody else even looked at my wrist.\n\nIt was as if watches simply...\n\ndidn't belong here.\n\nThomas\n\n\"I don't understand.\"\n\nEmily shook her head.\n\nEmily\n\n\"Neither do I.\"\n\nThen I remembered.\n\nThomas\n\n\"There was something else.\""
   },
   {
     "id": "ch07-p08",
@@ -832,7 +832,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I rolled my sleeve back.\n\n\"I felt something.\"\n\nEmily leaned closer.\n\n\"What?\"\n\nI stopped moving.\n\nFor a second...\n\nI couldn't breathe.\n\nThe skin on my forearm wasn't scarred.\n\nIt wasn't bleeding.\n\nIt simply...\n\nhad numbers."
+    "text": "I rolled my sleeve back.\n\nThomas\n\n\"I felt something.\"\n\nEmily leaned closer.\n\nEmily\n\n\"What?\"\n\nI stopped moving.\n\nFor a second...\n\nI couldn't breathe.\n\nThe skin on my forearm wasn't scarred.\n\nIt wasn't bleeding.\n\nIt simply...\n\nhad numbers."
   },
   {
     "id": "ch07-p09",
@@ -854,7 +854,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily stumbled backward.\n\n\"What...\"\n\nShe looked at my arm again.\n\n\"...Thomas...\"\n\n\"I know.\"\n\n\"No...\"\n\nShe shook her head.\n\n\"They just...\"\n\n\"I know.\"\n\n\"They skipped.\"\n\nI nodded slowly.\n\n\"They skipped.\"\n\nFor the first time since we'd entered the village...\n\nEmily looked genuinely frightened."
+    "text": "Emily stumbled backward.\n\nEmily\n\n\"What...\"\n\nShe looked at my arm again.\n\n\"...Thomas...\"\n\nThomas\n\n\"I know.\"\n\nEmily\n\n\"No...\"\n\nShe shook her head.\n\n\"They just...\"\n\nThomas\n\n\"I know.\"\n\nEmily\n\n\"They skipped.\"\n\nI nodded slowly.\n\nThomas\n\n\"They skipped.\"\n\nFor the first time since we'd entered the village...\n\nEmily looked genuinely frightened."
   },
   {
     "id": "ch07-p11",
@@ -865,7 +865,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I rubbed at the numbers.\n\nNothing happened.\n\nI scratched them.\n\nNothing.\n\nThe skin wasn't raised.\n\nIt wasn't ink.\n\nIt wasn't dirt.\n\nIt was simply...\n\npart of me.\n\n\"I don't understand.\"\n\nEmily whispered,\n\n\"I don't think we're supposed to.\""
+    "text": "I rubbed at the numbers.\n\nNothing happened.\n\nI scratched them.\n\nNothing.\n\nThe skin wasn't raised.\n\nIt wasn't ink.\n\nIt wasn't dirt.\n\nIt was simply...\n\npart of me.\n\nThomas\n\n\"I don't understand.\"\n\nEmily whispered,\n\nEmily\n\n\"I don't think we're supposed to.\""
   },
   {
     "id": "ch07-p12",
@@ -876,7 +876,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Movement caught my eye.\n\nNear the front of the church.\n\nThe young girl.\n\nShe stood perfectly still beside one of the support beams.\n\nNo one else reacted.\n\nIt was as though she wasn't there.\n\nEmily grabbed my sleeve.\n\n\"You see her?\"\n\nI nodded.\n\nSlowly.\n\n\"Yeah.\""
+    "text": "Movement caught my eye.\n\nNear the front of the church.\n\nThe young girl.\n\nShe stood perfectly still beside one of the support beams.\n\nNo one else reacted.\n\nIt was as though she wasn't there.\n\nEmily grabbed my sleeve.\n\nEmily\n\n\"You see her?\"\n\nI nodded.\n\nSlowly.\n\nThomas\n\n\"Yeah.\""
   },
   {
     "id": "ch07-p13",
@@ -887,7 +887,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The girl looked at both of us.\n\nNot just me.\n\nBoth of us.\n\nShe began speaking.\n\nThe words were clearer than before.\n\nAlmost.\n\nStill broken.\n\nStill missing pieces.\n\n\"...don't...\"\n\n\"...after...\"\n\n\"...hour...\"\n\n\"...locked...\"\n\nEmily took one cautious step toward her.\n\n\"Wait!\"\n\nThe girl reached out one hand.\n\nThen...\n\nShe was gone.\n\nNot fading.\n\nNot walking away.\n\nGone."
+    "text": "The girl looked at both of us.\n\nNot just me.\n\nBoth of us.\n\nShe began speaking.\n\nThe words were clearer than before.\n\nAlmost.\n\nStill broken.\n\nStill missing pieces.\n\nThe Girl\n\n\"...don't...\"\n\n\"...after...\"\n\n\"...hour...\"\n\n\"...locked...\"\n\nEmily took one cautious step toward her.\n\nEmily\n\n\"Wait!\"\n\nThe girl reached out one hand.\n\nThen...\n\nShe was gone.\n\nNot fading.\n\nNot walking away.\n\nGone."
   },
   {
     "id": "ch07-p14",
@@ -931,7 +931,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily was carrying folded blankets.\n\nShe looked up and smiled when she saw I was awake.\n\n\"Morning.\"\n\n\"Morning.\"\n\nShe laughed softly.\n\n\"It feels weird saying that here.\"\n\n\"I was just thinking the same thing.\"\n\nShe handed a blanket to the older woman.\n\n\"I figured sitting around wasn't helping anybody.\""
+    "text": "Emily was carrying folded blankets.\n\nShe looked up and smiled when she saw I was awake.\n\nEmily\n\n\"Morning.\"\n\nThomas\n\n\"Morning.\"\n\nShe laughed softly.\n\nEmily\n\n\"It feels weird saying that here.\"\n\nThomas\n\n\"I was just thinking the same thing.\"\n\nShe handed a blanket to the older woman.\n\nEmily\n\n\"I figured sitting around wasn't helping anybody.\""
   },
   {
     "id": "ch08-p04",
@@ -942,7 +942,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The older woman walked over to me holding a small hammer.\n\n\"You mind?\"\n\nI took it without thinking.\n\n\"What needs fixing?\"\n\nShe pointed toward one of the boarded windows.\n\n\"That one's loose.\"\n\nNo speeches.\n\nNo introductions.\n\nJust work.\n\nI liked that."
+    "text": "The older woman walked over to me holding a small hammer.\n\nThe Older Woman\n\n\"You mind?\"\n\nI took it without thinking.\n\nThomas\n\n\"What needs fixing?\"\n\nShe pointed toward one of the boarded windows.\n\nThe Older Woman\n\n\"That one's loose.\"\n\nNo speeches.\n\nNo introductions.\n\nJust work.\n\nI liked that."
   },
   {
     "id": "ch08-p05",
@@ -953,7 +953,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily and I worked side by side.\n\nThe board had started pulling away from the frame.\n\nCold air slipped through the gap.\n\nAs I held it in place, I looked across the church.\n\n\"They're busy.\"\n\nEmily nodded.\n\n\"They have routines.\"\n\nI looked around again.\n\nNobody seemed to be waiting for someone to tell them what to do.\n\nEveryone simply...\n\ndid."
+    "text": "Emily and I worked side by side.\n\nThe board had started pulling away from the frame.\n\nCold air slipped through the gap.\n\nAs I held it in place, I looked across the church.\n\nThomas\n\n\"They're busy.\"\n\nEmily nodded.\n\nEmily\n\n\"They have routines.\"\n\nI looked around again.\n\nNobody seemed to be waiting for someone to tell them what to do.\n\nEveryone simply...\n\ndid."
   },
   {
     "id": "ch08-p06",
@@ -964,7 +964,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I wiped sawdust from my hands.\n\n\"Do you know any of their names?\"\n\nEmily looked surprised.\n\n\"I was literally about to ask you the same thing.\"\n\nWe both laughed.\n\nIt was the first real laugh either of us had managed since all this started.\n\nThen we looked around again.\n\nNeither of us knew a single name."
+    "text": "I wiped sawdust from my hands.\n\nThomas\n\n\"Do you know any of their names?\"\n\nEmily looked surprised.\n\nEmily\n\n\"I was literally about to ask you the same thing.\"\n\nWe both laughed.\n\nIt was the first real laugh either of us had managed since all this started.\n\nThen we looked around again.\n\nNeither of us knew a single name."
   },
   {
     "id": "ch08-p07",
@@ -975,7 +975,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The old man was repairing one of the pews.\n\nI walked over.\n\n\"Can I ask you something?\"\n\nHe looked up.\n\n\"You just did.\"\n\nI couldn't help smiling.\n\n\"Fair enough.\"\n\nHe smiled back.\n\n\"What did you want to know?\"\n\n\"...What's your name?\"\n\nFor the first time...\n\nHe looked uncertain."
+    "text": "The old man was repairing one of the pews.\n\nI walked over.\n\nThomas\n\n\"Can I ask you something?\"\n\nHe looked up.\n\nThe Old Man\n\n\"You just did.\"\n\nI couldn't help smiling.\n\nThomas\n\n\"Fair enough.\"\n\nHe smiled back.\n\nThe Old Man\n\n\"What did you want to know?\"\n\nThomas\n\n\"...What's your name?\"\n\nFor the first time...\n\nHe looked uncertain."
   },
   {
     "id": "ch08-p08",
@@ -986,7 +986,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "He sat quietly for several seconds.\n\nLong enough that I wondered if he hadn't heard me.\n\nFinally...\n\n\"Samuel.\"\n\nHe said it carefully.\n\nLike he'd taken it down from a dusty shelf.\n\n\"I'm Thomas.\"\n\nSamuel nodded.\n\n\"I know.\"\n\n\"You do?\"\n\n\"You told me yesterday.\"\n\nI looked at Emily.\n\nShe looked just as unsettled as I felt."
+    "text": "He sat quietly for several seconds.\n\nLong enough that I wondered if he hadn't heard me.\n\nFinally...\n\nThe Old Man\n\n\"Samuel.\"\n\nHe said it carefully.\n\nLike he'd taken it down from a dusty shelf.\n\nThomas\n\n\"I'm Thomas,\" I said.\n\nSamuel nodded.\n\nSamuel\n\n\"I know.\"\n\nThomas\n\n\"You do?\"\n\nSamuel\n\n\"You told me yesterday.\"\n\nI looked at Emily.\n\nShe looked just as unsettled as I felt."
   },
   {
     "id": "ch08-p09",
@@ -997,7 +997,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily stepped closer.\n\n\"Samuel...\"\n\n\"Mm?\"\n\n\"What day is it?\"\n\nSamuel frowned.\n\n\"...Morning.\"\n\nEmily smiled politely.\n\n\"No, I mean...\"\n\nShe searched for another way to ask.\n\n\"...what day?\"\n\nSamuel thought about it.\n\nThen quietly answered,\n\n\"Today.\""
+    "text": "Emily stepped closer.\n\nEmily\n\n\"Samuel...\"\n\nSamuel\n\n\"Mm?\"\n\nEmily\n\n\"What day is it?\" she asked.\n\nSamuel frowned.\n\nSamuel\n\n\"...Morning.\"\n\nEmily smiled politely.\n\nEmily\n\n\"No, I mean...\"\n\nShe searched for another way to ask.\n\n\"...what day?\"\n\nSamuel thought about it.\n\nThen he quietly answered,\n\nSamuel\n\n\"Today.\""
   },
   {
     "id": "ch08-p10",
@@ -1019,7 +1019,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Something tugged gently at my sleeve.\n\nI looked down.\n\nThe little boy from the corner of the church.\n\nHe couldn't have been older than eight.\n\nHe stared at my forearm.\n\n\"You got yours.\"\n\nI followed his eyes.\n\nThe numbers were still there.\n\nQuietly changing beneath my skin."
+    "text": "Something tugged gently at my sleeve.\n\nI looked down.\n\nThe little boy from the corner of the church.\n\nHe couldn't have been older than eight.\n\nHe stared at my forearm.\n\nThe Boy\n\n\"You got yours.\"\n\nI followed his eyes.\n\nThe numbers were still there.\n\nQuietly changing beneath my skin."
   },
   {
     "id": "ch08-p12",
@@ -1030,7 +1030,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"You've seen this before?\"\n\nHe nodded.\n\n\"Sometimes.\"\n\nMy heart skipped.\n\n\"Who else?\"\n\nThe little boy slowly pointed toward three empty spaces among the pews.\n\nBlankets.\n\nA wooden cup.\n\nA child's carved toy.\n\nNo people.\n\nJust...\n\nabsence."
+    "text": "Thomas\n\n\"You've seen this before?\" I asked.\n\nHe nodded.\n\nThe Boy\n\n\"Sometimes.\"\n\nMy heart skipped.\n\nThomas\n\n\"Who else?\"\n\nThe little boy slowly pointed toward three empty spaces among the pews.\n\nBlankets.\n\nA wooden cup.\n\nA child's carved toy.\n\nNo people.\n\nJust...\n\nabsence."
   },
   {
     "id": "ch08-p13",
@@ -1041,7 +1041,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily quietly walked over beside me.\n\n\"What did he say?\"\n\nI didn't answer immediately.\n\nInstead...\n\nI looked around the church.\n\nEvery person.\n\nEvery blanket.\n\nEvery lantern.\n\nEvery face.\n\nThen I finally spoke.\n\n\"I don't think we're the first.\"\n\nEmily followed my eyes.\n\nNeither of us said another word.\n\nWe didn't need to."
+    "text": "Emily quietly walked over beside me.\n\nEmily\n\n\"What did he say?\"\n\nI didn't answer immediately.\n\nInstead...\n\nI looked around the church.\n\nEvery person.\n\nEvery blanket.\n\nEvery lantern.\n\nEvery face.\n\nThen I finally spoke.\n\nThomas\n\n\"I don't think we're the first.\"\n\nEmily followed my eyes.\n\nNeither of us said another word.\n\nWe didn't need to."
   },
   {
     "id": "ch08-p14",
@@ -1052,7 +1052,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Outside...\n\nSnow began falling again.\n\nSoft.\n\nSlow.\n\nBeautiful.\n\nFor one impossible moment...\n\nEverything looked peaceful.\n\nThen...\n\nThe church bell rang once.\n\nNobody panicked.\n\nNobody shouted.\n\nEvery person simply stood up.\n\nSamuel looked toward the unfinished lock.\n\nThen at me.\n\nThen at Emily.\n\n\"We'll need every hand.\"\n\nFor the first time...\n\nWhen I looked at the giant lever...\n\nI didn't see a door.\n\nI saw a responsibility."
+    "text": "Outside...\n\nSnow began falling again.\n\nSoft.\n\nSlow.\n\nBeautiful.\n\nFor one impossible moment...\n\nEverything looked peaceful.\n\nThen...\n\nThe church bell rang once.\n\nNobody panicked.\n\nNobody shouted.\n\nEvery person simply stood up.\n\nSamuel looked toward the unfinished lock.\n\nThen at me.\n\nThen at Emily.\n\nSamuel\n\n\"We'll need every hand.\"\n\nFor the first time...\n\nWhen I looked at the giant lever...\n\nI didn't see a door.\n\nI saw a responsibility."
   },
   {
     "id": "ch09-p01",
@@ -1063,7 +1063,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 1,
     "isChapterStart": true,
     "type": "prose",
-    "text": "The church bell rang once.\n\nNot loud.\n\nNot urgent.\n\nJust...\n\nonce.\n\nEvery conversation stopped.\n\nNo one looked surprised.\n\nBlankets were folded.\n\nLanterns were lit.\n\nCoats were pulled over shoulders.\n\nSamuel picked up his lantern.\n\n\"Come on.\""
+    "text": "The church bell rang once.\n\nNot loud.\n\nNot urgent.\n\nJust...\n\nonce.\n\nEvery conversation stopped.\n\nNo one looked surprised.\n\nBlankets were folded.\n\nLanterns were lit.\n\nCoats were pulled over shoulders.\n\nSamuel picked up his lantern.\n\nSamuel\n\n\"Come on.\""
   },
   {
     "id": "ch09-p02",
@@ -1074,7 +1074,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I followed him toward the front doors.\n\n\"Where are we going?\"\n\nHe looked at me like the answer was obvious.\n\n\"To bring them home.\"\n\nEmily frowned.\n\n\"...Who?\"\n\n\"The ones who haven't made it back yet.\"\n\nI looked around the church.\n\nPeople were already gathering near the entrance.\n\nNobody complained.\n\nNobody hesitated.\n\nThey simply prepared to leave."
+    "text": "I followed him toward the front doors.\n\nThomas\n\n\"Where are we going?\"\n\nHe looked at me like the answer was obvious.\n\nSamuel\n\n\"To bring them home.\"\n\nEmily frowned.\n\nEmily\n\n\"...Who?\"\n\nSamuel\n\n\"The ones who haven't made it back yet.\"\n\nI looked around the church.\n\nPeople were already gathering near the entrance.\n\nNobody complained.\n\nNobody hesitated.\n\nThey simply prepared to leave."
   },
   {
     "id": "ch09-p03",
@@ -1085,7 +1085,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The giant doors opened.\n\nCold air poured inside.\n\nSnow blew across the floor.\n\nFor a moment...\n\nNo one stepped through.\n\nEveryone listened.\n\nSamuel nodded once.\n\n\"Go.\"\n\nThe church emptied into the snow."
+    "text": "The giant doors opened.\n\nCold air poured inside.\n\nSnow blew across the floor.\n\nFor a moment...\n\nNo one stepped through.\n\nEveryone listened.\n\nSamuel nodded once.\n\nSamuel\n\n\"Go.\"\n\nThe church emptied into the snow."
   },
   {
     "id": "ch09-p04",
@@ -1096,7 +1096,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "We split into small groups.\n\nSamuel stayed with us.\n\nOur lanterns cast weak circles of light across the road.\n\nThe village looked completely different at night.\n\nThe buildings seemed taller.\n\nThe streets narrower.\n\nEvery shadow looked occupied.\n\nNobody called loudly.\n\nOnly enough to carry a short distance.\n\n\"Mary?\"\n\nNothing.\n\n\"Joseph?\"\n\nOnly wind."
+    "text": "We split into small groups.\n\nSamuel stayed with us.\n\nOur lanterns cast weak circles of light across the road.\n\nThe village looked completely different at night.\n\nThe buildings seemed taller.\n\nThe streets narrower.\n\nEvery shadow looked occupied.\n\nNobody called loudly.\n\nOnly enough to carry a short distance.\n\nThe Search Party\n\n\"Mary?\"\n\nNothing.\n\n\"Joseph?\"\n\nOnly wind."
   },
   {
     "id": "ch09-p05",
@@ -1107,7 +1107,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily suddenly knelt.\n\n\"Thomas.\"\n\nFresh footprints.\n\nSmall ones.\n\nLeading away from the church.\n\nSamuel crouched beside her.\n\n\"They're recent.\"\n\nHe stood immediately.\n\n\"This way.\"\n\nNo hesitation.\n\nHe already knew how to read the snow."
+    "text": "Emily suddenly knelt.\n\nEmily\n\n\"Thomas.\"\n\nFresh footprints.\n\nSmall ones.\n\nLeading away from the church.\n\nSamuel crouched beside her.\n\nSamuel\n\n\"They're recent.\"\n\nHe stood immediately.\n\n\"This way.\"\n\nNo hesitation.\n\nHe already knew how to read the snow."
   },
   {
     "id": "ch09-p06",
@@ -1118,7 +1118,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "We found a dropped bundle of firewood first.\n\nThen a lantern.\n\nStill burning.\n\nThen...\n\nSomeone crying.\n\nVery quietly.\n\nSamuel lifted his own lantern higher.\n\n\"There!\"\n\nAn older woman sat against the side of a building, clutching one ankle.\n\nThe same woman who had handed me the hammer."
+    "text": "We found a dropped bundle of firewood first.\n\nThen a lantern.\n\nStill burning.\n\nThen...\n\nSomeone crying.\n\nVery quietly.\n\nSamuel lifted his own lantern higher.\n\nSamuel\n\n\"There!\"\n\nAn older woman sat against the side of a building, clutching one ankle.\n\nThe same woman who had handed me the hammer."
   },
   {
     "id": "ch09-p07",
@@ -1129,7 +1129,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "She looked up when she saw us.\n\nRelief washed across her face.\n\n\"I thought...\"\n\nShe stopped to catch her breath.\n\n\"I couldn't...\"\n\nSamuel knelt beside her.\n\n\"Can you stand?\"\n\nShe tried.\n\nWinced.\n\nShook her head.\n\nEmily was already beside her.\n\n\"We've got you.\"\n\nWithout another word...\n\nThe three of us helped her to her feet."
+    "text": "She looked up when she saw us.\n\nRelief washed across her face.\n\nThe Older Woman\n\n\"I thought...\"\n\nShe stopped to catch her breath.\n\n\"I couldn't...\"\n\nSamuel knelt beside her.\n\nSamuel\n\n\"Can you stand?\"\n\nShe tried.\n\nWinced.\n\nShook her head.\n\nEmily was already beside her.\n\nEmily\n\n\"We've got you.\"\n\nWithout another word...\n\nThe three of us helped her to her feet."
   },
   {
     "id": "ch09-p08",
@@ -1140,7 +1140,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The walk back was slow.\n\nToo slow.\n\nThe woman leaned heavily against Emily.\n\nSamuel kept looking behind us.\n\nNot nervously.\n\nMeasuring.\n\nWatching.\n\nListening.\n\nI finally asked,\n\n\"What are you listening for?\"\n\nSamuel answered without looking away.\n\n\"When they stop making noise.\""
+    "text": "The walk back was slow.\n\nToo slow.\n\nThe woman leaned heavily against Emily.\n\nSamuel kept looking behind us.\n\nNot nervously.\n\nMeasuring.\n\nWatching.\n\nListening.\n\nI finally asked,\n\nThomas\n\n\"What are you listening for?\"\n\nSamuel answered without looking away.\n\nSamuel\n\n\"When they stop making noise.\""
   },
   {
     "id": "ch09-p09",
@@ -1151,7 +1151,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The woods fell silent.\n\nNo wolves.\n\nNo birds.\n\nNo wind.\n\nEven our footsteps sounded too loud.\n\nSamuel quietly said,\n\n\"Faster.\"\n\nNobody argued.\n\nWe moved."
+    "text": "The woods fell silent.\n\nNo wolves.\n\nNo birds.\n\nNo wind.\n\nEven our footsteps sounded too loud.\n\nSamuel quietly said,\n\nSamuel\n\n\"Faster.\"\n\nNobody argued.\n\nWe moved."
   },
   {
     "id": "ch09-p10",
@@ -1162,7 +1162,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The church came into view.\n\nWarm light escaped through the cracks in the boards.\n\nPeople stood waiting in the doorway.\n\nSomeone waved us in.\n\nBehind us...\n\nA howl rolled across the village.\n\nThen another.\n\nCloser.\n\nEmily tightened her grip on the woman.\n\n\"We're almost there.\""
+    "text": "The church came into view.\n\nWarm light escaped through the cracks in the boards.\n\nPeople stood waiting in the doorway.\n\nSomeone waved us in.\n\nBehind us...\n\nA howl rolled across the village.\n\nThen another.\n\nCloser.\n\nEmily tightened her grip on the woman.\n\nEmily\n\n\"We're almost there.\""
   },
   {
     "id": "ch09-p11",
@@ -1173,7 +1173,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Movement crossed the far end of the road.\n\nNot one animal.\n\nSeveral.\n\nLarge shapes moving between buildings.\n\nOne paused beneath a lantern.\n\nIts outline looked almost like a wolf.\n\nAlmost.\n\nIt was taller.\n\nIts shoulders sat too high.\n\nIt watched us.\n\nThen another appeared.\n\nAnd another.\n\nSamuel didn't look at them.\n\nHe simply said,\n\n\"Don't run.\""
+    "text": "Movement crossed the far end of the road.\n\nNot one animal.\n\nSeveral.\n\nLarge shapes moving between buildings.\n\nOne paused beneath a lantern.\n\nIts outline looked almost like a wolf.\n\nAlmost.\n\nIt was taller.\n\nIts shoulders sat too high.\n\nIt watched us.\n\nThen another appeared.\n\nAnd another.\n\nSamuel didn't look at them.\n\nHe simply said,\n\nSamuel\n\n\"Don't run.\""
   },
   {
     "id": "ch09-p12",
@@ -1184,7 +1184,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The church doors stood open.\n\nPeople were already stepping inside.\n\nSamuel helped the older woman over the threshold.\n\nEmily followed.\n\nI was about to step through...\n\nWhen I heard someone shouting.\n\nFarther down the road.\n\nA man.\n\nRunning.\n\n\"W...wait!\"\n\nI turned.\n\nHe was still too far away."
+    "text": "The church doors stood open.\n\nPeople were already stepping inside.\n\nSamuel helped the older woman over the threshold.\n\nEmily followed.\n\nI was about to step through...\n\nWhen I heard someone shouting.\n\nFarther down the road.\n\nA man.\n\nRunning.\n\nThe Runner\n\n\"W...wait!\"\n\nI turned.\n\nHe was still too far away."
   },
   {
     "id": "ch09-p13",
@@ -1195,7 +1195,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I took one step toward him.\n\nSamuel grabbed my arm.\n\n\"No.\"\n\n\"We can get him.\"\n\n\"No.\"\n\n\"We're right here!\"\n\nSamuel's grip tightened.\n\nHis voice stayed calm.\n\n\"If you go now...\"\n\nHe looked toward the runner.\n\n\"...he won't be the only one who doesn't make it.\"\n\nI looked back.\n\nThe man kept running.\n\nStill waving.\n\nStill calling."
+    "text": "I took one step toward him.\n\nSamuel grabbed my arm.\n\nSamuel\n\n\"No.\"\n\nThomas\n\n\"We can get him,\" I said.\n\nSamuel\n\n\"No.\"\n\nThomas\n\n\"We're right here!\"\n\nSamuel's grip tightened.\n\nHis voice stayed calm.\n\nSamuel\n\n\"If you go now...\"\n\nHe looked toward the runner.\n\n\"...he won't be the only one who doesn't make it.\"\n\nI looked back.\n\nThe man kept running.\n\nStill waving.\n\nStill calling."
   },
   {
     "id": "ch09-p14",
@@ -1206,7 +1206,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The doors began closing.\n\nI couldn't move.\n\nThe runner was getting closer.\n\nNot close enough.\n\nThe gap between the doors grew smaller.\n\nSmaller.\n\nSmaller.\n\nThe doors shut.\n\nOutside...\n\nHis voice became knocking.\n\nThe giant lever groaned across the wood.\n\nIt stopped...\n\none inch short.\n\nGood enough.\n\nI stood staring at the door.\n\nSamuel quietly placed one hand on my shoulder.\n\nWithout looking at me, he said,\n\n\"You never get used to it.\"\n\nSilence settled over the church.\n\nThen...\n\nThe knocking stopped."
+    "text": "The doors began closing.\n\nI couldn't move.\n\nThe runner was getting closer.\n\nNot close enough.\n\nThe gap between the doors grew smaller.\n\nSmaller.\n\nSmaller.\n\nThe doors shut.\n\nOutside...\n\nHis voice became knocking.\n\nThe giant lever groaned across the wood.\n\nIt stopped...\n\none inch short.\n\nGood enough.\n\nI stood staring at the door.\n\nSamuel quietly placed one hand on my shoulder.\n\nWithout looking at me, he said,\n\nSamuel\n\n\"You never get used to it.\"\n\nSilence settled over the church.\n\nThen...\n\nThe knocking stopped."
   },
   {
     "id": "ch10-p01",
@@ -1239,7 +1239,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I found Samuel repairing one of the benches.\n\nHe didn't look up when I sat beside him.\n\n\"What happened to him?\"\n\nSamuel kept sanding the wood.\n\n\"We'll know today.\"\n\nI frowned.\n\n\"What does that mean?\"\n\nHe finally stopped working.\n\n\"There are only two possibilities.\"\n\n\"What are they?\"\n\n\"He comes back.\"\n\nSamuel looked down at the bench again.\n\n\"...or he doesn't.\""
+    "text": "I found Samuel repairing one of the benches.\n\nHe didn't look up when I sat beside him.\n\nThomas\n\n\"What happened to him?\" I asked.\n\nSamuel kept sanding the wood.\n\nSamuel\n\n\"We'll know today.\"\n\nI frowned.\n\nThomas\n\n\"What does that mean?\"\n\nHe finally stopped working.\n\nSamuel\n\n\"There are only two possibilities.\"\n\nThomas\n\n\"What are they?\"\n\nSamuel\n\n\"He comes back.\"\n\nSamuel looked down at the bench again.\n\n\"...or he doesn't.\""
   },
   {
     "id": "ch10-p04",
@@ -1250,7 +1250,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily joined us carrying two cups.\n\nShe handed one to me.\n\nOne to Samuel.\n\nNeither of us spoke for a while.\n\nFinally Emily asked,\n\n\"Does that happen often?\"\n\nSamuel nodded once.\n\n\"Often enough.\"\n\nNo bitterness.\n\nNo anger.\n\nJust exhaustion."
+    "text": "Emily joined us carrying two cups.\n\nShe handed one to me.\n\nOne to Samuel.\n\nNeither of us spoke for a while.\n\nFinally, Emily asked,\n\nEmily\n\n\"Does that happen often?\"\n\nSamuel nodded once.\n\nSamuel\n\n\"Often enough.\"\n\nNo bitterness.\n\nNo anger.\n\nJust exhaustion."
   },
   {
     "id": "ch10-p05",
@@ -1272,7 +1272,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Later that morning Emily found me near the front doors.\n\n\"I've noticed something.\"\n\n\"What?\"\n\n\"The memories.\"\n\nI looked at her.\n\n\"What about them?\"\n\n\"I don't think everyone remembers things the way we do.\""
+    "text": "Later that morning, Emily found me near the front doors.\n\nEmily\n\n\"I've noticed something,\" she said.\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"The memories.\"\n\nI looked at her.\n\nThomas\n\n\"What about them?\"\n\nEmily\n\n\"I don't think everyone remembers things the way we do.\""
   },
   {
     "id": "ch10-p07",
@@ -1283,7 +1283,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "She pointed toward the older woman.\n\n\"I thanked her for the blankets.\"\n\n\"And?\"\n\n\"She asked me what blankets.\"\n\nI frowned.\n\n\"Maybe she forgot.\"\n\nEmily slowly shook her head.\n\n\"No...\"\n\n\"Then what?\"\n\n\"I don't think she remembered yesterday.\""
+    "text": "She pointed toward the older woman.\n\nEmily\n\n\"I thanked her for the blankets.\"\n\nThomas\n\n\"And?\" I asked.\n\nEmily\n\n\"She asked me what blankets.\"\n\nI frowned.\n\nThomas\n\n\"Maybe she forgot.\"\n\nEmily slowly shook her head.\n\nEmily\n\n\"No...\"\n\nThomas\n\n\"Then what?\"\n\nEmily\n\n\"I don't think she remembered yesterday.\""
   },
   {
     "id": "ch10-p08",
@@ -1305,7 +1305,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily suddenly stopped walking.\n\n\"There.\"\n\nI turned.\n\nThe young girl stood outside one of the boarded windows.\n\nPerfectly still.\n\nWatching us.\n\nI stepped closer.\n\nShe raised one hand.\n\nSlowly.\n\nAlmost sadly."
+    "text": "Emily suddenly stopped walking.\n\nEmily\n\n\"There.\"\n\nI turned.\n\nThe young girl stood outside one of the boarded windows.\n\nPerfectly still.\n\nWatching us.\n\nI stepped closer.\n\nShe raised one hand.\n\nSlowly.\n\nAlmost sadly."
   },
   {
     "id": "ch10-p10",
@@ -1316,7 +1316,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Her lips moved.\n\nThis time...\n\nI almost understood.\n\nNot the words.\n\nThe rhythm.\n\nLike listening to someone speak through a wall.\n\nEmily whispered,\n\n\"I heard something.\"\n\n\"What?\"\n\n\"I...\"\n\nShe frowned.\n\n\"I think...\"\n\nThe girl looked directly at me.\n\nEmily's eyes widened.\n\n\"I think she said your name.\""
+    "text": "Her lips moved.\n\nThis time...\n\nI almost understood.\n\nNot the words.\n\nThe rhythm.\n\nLike listening to someone speak through a wall.\n\nEmily whispered,\n\nEmily\n\n\"I heard something.\"\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"I...\"\n\nShe frowned.\n\n\"I think...\"\n\nThe girl looked directly at me.\n\nEmily's eyes widened.\n\n\"I think she said your name.\""
   },
   {
     "id": "ch10-p11",
@@ -1338,7 +1338,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The church bell rang.\n\nEveryone inside froze.\n\nSamuel stood immediately.\n\nWithout a word...\n\nHe walked toward the entrance.\n\nPeople followed.\n\nEmily looked at me.\n\n\"This feels different.\"\n\nI nodded.\n\n\"It does.\""
+    "text": "The church bell rang.\n\nEveryone inside froze.\n\nSamuel stood immediately.\n\nWithout a word...\n\nHe walked toward the entrance.\n\nPeople followed.\n\nEmily looked at me.\n\nEmily\n\n\"This feels different.\"\n\nI nodded.\n\nThomas\n\n\"It does.\""
   },
   {
     "id": "ch10-p13",
@@ -1360,7 +1360,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"He's alive.\"\n\nNobody moved.\n\nThe man slowly turned toward us.\n\nHe smiled.\n\nNot happily.\n\nNot angrily.\n\nJust...\n\nsmiled.\n\nHe began walking toward the church.\n\nSlow.\n\nSteady.\n\nSamuel's face lost what little color it had.\n\nHe spoke only three words.\n\n\"Close the doors.\"\n\nI looked at him.\n\n\"What?\"\n\nSamuel didn't even look away from the man.\n\n\"Close the doors.\"\n\n\"Samuel...\"\n\n\"Now.\"\n\nThe man kept walking.\n\nStill smiling.\n\nStill saying nothing.\n\nFor the first time since entering the old world...\n\nI was no longer afraid of what lived outside.\n\nI was afraid of what had come back."
+    "text": "Thomas\n\n\"He's alive.\"\n\nNobody moved.\n\nThe man slowly turned toward us.\n\nHe smiled.\n\nNot happily.\n\nNot angrily.\n\nJust...\n\nsmiled.\n\nHe began walking toward the church.\n\nSlow.\n\nSteady.\n\nSamuel's face lost what little color it had.\n\nHe spoke only three words.\n\nSamuel\n\n\"Close the doors.\"\n\nI looked at him.\n\nThomas\n\n\"What?\"\n\nSamuel didn't even look away from the man.\n\nSamuel\n\n\"Close the doors.\"\n\nThomas\n\n\"Samuel...\"\n\nSamuel\n\n\"Now.\"\n\nThe man kept walking.\n\nStill smiling.\n\nStill saying nothing.\n\nFor the first time since entering the old world...\n\nI was no longer afraid of what lived outside.\n\nI was afraid of what had come back."
   },
   {
     "id": "ch11-p01",
@@ -1371,7 +1371,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 1,
     "isChapterStart": true,
     "type": "prose",
-    "text": "Nobody moved.\n\nThe man kept walking.\n\nSlow.\n\nSteady.\n\nHis smile never changed.\n\nI took one step toward the doorway.\n\nSamuel's hand landed on my shoulder.\n\n\"Stay.\"\n\n\"He's alive.\"\n\nSamuel didn't answer.\n\nHe simply kept watching the man."
+    "text": "Nobody moved.\n\nThe man kept walking.\n\nSlow.\n\nSteady.\n\nHis smile never changed.\n\nI took one step toward the doorway.\n\nSamuel's hand landed on my shoulder.\n\nSamuel\n\n\"Stay.\"\n\nThomas\n\n\"He's alive.\"\n\nSamuel didn't answer.\n\nHe simply kept watching the man."
   },
   {
     "id": "ch11-p02",
@@ -1393,7 +1393,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I looked at Emily.\n\nShe looked just as confused as I felt.\n\n\"He made it.\"\n\nSamuel quietly answered before I could move.\n\n\"No.\"\n\nI turned toward him.\n\n\"What do you mean no?\"\n\nSamuel never looked away from the man.\n\n\"He didn't.\""
+    "text": "I looked at Emily.\n\nShe looked just as confused as I felt.\n\nEmily\n\n\"He made it,\" Emily said.\n\nSamuel quietly answered before I could move.\n\nSamuel\n\n\"No.\"\n\nI turned toward him.\n\nThomas\n\n\"What do you mean no?\"\n\nSamuel never looked away from the man.\n\nSamuel\n\n\"He didn't.\""
   },
   {
     "id": "ch11-p04",
@@ -1415,7 +1415,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "He opened his mouth.\n\nFor a second I expected him to ask for help.\n\nInstead...\n\nHe quietly said,\n\n\"Thomas.\"\n\nEvery muscle in my body tightened.\n\nI had never seen this man before.\n\nI knew that.\n\nI was certain of it.\n\nSamuel's voice remained calm.\n\n\"Don't answer.\""
+    "text": "He opened his mouth.\n\nFor a second I expected him to ask for help.\n\nInstead...\n\nHe quietly said,\n\nThe Man\n\n\"Thomas.\"\n\nEvery muscle in my body tightened.\n\nI had never seen this man before.\n\nI knew that.\n\nI was certain of it.\n\nSamuel's voice remained calm.\n\nSamuel\n\n\"Don't answer.\""
   },
   {
     "id": "ch11-p06",
@@ -1426,7 +1426,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"How does he know my name?\"\n\nNo one answered.\n\nThe man smiled again.\n\n\"Thomas.\"\n\nExactly the same.\n\nSame voice.\n\nSame tone.\n\nNo fear.\n\nNo urgency.\n\nNo emotion.\n\nEmily stepped beside me.\n\n\"Something's wrong.\""
+    "text": "Thomas\n\n\"How does he know my name?\"\n\nNo one answered.\n\nThe man smiled again.\n\nThe Man\n\n\"Thomas.\"\n\nExactly the same.\n\nSame voice.\n\nSame tone.\n\nNo fear.\n\nNo urgency.\n\nNo emotion.\n\nEmily stepped beside me.\n\nEmily\n\n\"Something's wrong.\""
   },
   {
     "id": "ch11-p07",
@@ -1437,7 +1437,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"What?\"\n\nShe never took her eyes off him.\n\n\"Watch.\"\n\n\"I am.\"\n\n\"No...\"\n\nShe swallowed.\n\n\"His breath.\"\n\nI stared.\n\nThe air was freezing.\n\nEvery person beside me breathed clouds into the morning air.\n\nThe man didn't.\n\nNot once."
+    "text": "Thomas\n\n\"What?\" I asked.\n\nShe never took her eyes off him.\n\nEmily\n\n\"Watch.\"\n\nThomas\n\n\"I am.\"\n\nEmily\n\n\"No...\"\n\nShe swallowed.\n\n\"His breath.\"\n\nI stared.\n\nThe air was freezing.\n\nEvery person beside me breathed clouds into the morning air.\n\nThe man didn't.\n\nNot once."
   },
   {
     "id": "ch11-p08",
@@ -1459,7 +1459,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Slowly...\n\nThe man turned his head.\n\nNot toward us.\n\nToward the woods.\n\nLike someone had called his name.\n\nHis smile widened.\n\nJust a little.\n\nThen...\n\nHe took one step backward.\n\nSamuel quietly whispered,\n\n\"It's here.\""
+    "text": "Slowly...\n\nThe man turned his head.\n\nNot toward us.\n\nToward the woods.\n\nLike someone had called his name.\n\nHis smile widened.\n\nJust a little.\n\nThen...\n\nHe took one step backward.\n\nSamuel quietly whispered,\n\nSamuel\n\n\"It's here.\""
   },
   {
     "id": "ch11-p10",
@@ -1481,7 +1481,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Nobody screamed.\n\nNobody needed to.\n\nEvery survivor immediately started moving.\n\nLanterns disappeared.\n\nChildren were gathered.\n\nBlankets were pulled away from the doors.\n\nSamuel grabbed the lever.\n\n\"We're closing.\""
+    "text": "Nobody screamed.\n\nNobody needed to.\n\nEvery survivor immediately started moving.\n\nLanterns disappeared.\n\nChildren were gathered.\n\nBlankets were pulled away from the doors.\n\nSamuel grabbed the lever.\n\nSamuel\n\n\"We're closing.\""
   },
   {
     "id": "ch11-p12",
@@ -1514,7 +1514,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Samuel stood beside me.\n\nNeither of us spoke for a long time.\n\nFinally I whispered,\n\n\"What was that?\"\n\nSamuel answered quietly.\n\n\"It was testing us.\"\n\n\"What was?\"\n\nHe didn't answer.\n\nInstead...\n\nHe looked down at my forearm.\n\nThe numbers changed.\n\n4:12.\n\n4:13.\n\n4:48.\n\n4:14.\n\nFor the first time since I'd met him...\n\nSamuel looked afraid.\n\nNot of the thing outside.\n\nOf me."
+    "text": "Samuel stood beside me.\n\nNeither of us spoke for a long time.\n\nFinally, I whispered,\n\nThomas\n\n\"What was that?\"\n\nSamuel answered quietly.\n\nSamuel\n\n\"It was testing us.\"\n\nThomas\n\n\"What was?\"\n\nHe didn't answer.\n\nInstead...\n\nHe looked down at my forearm.\n\nThe numbers changed.\n\n4:12.\n\n4:13.\n\n4:48.\n\n4:14.\n\nFor the first time since I'd met him...\n\nSamuel looked afraid.\n\nNot of the thing outside.\n\nOf me."
   },
   {
     "id": "ch12-p01",
@@ -1536,7 +1536,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The numbers changed again.\n\n5:07.\n\n5:08.\n\n5:42.\n\n5:09.\n\nI watched them for almost a minute.\n\nWaiting for a pattern.\n\nThere wasn't one.\n\nEmily quietly walked over.\n\n\"They're changing faster.\"\n\n\"You noticed?\"\n\n\"I've been noticing.\"\n\nThat answer bothered me."
+    "text": "The numbers changed again.\n\n5:07.\n\n5:08.\n\n5:42.\n\n5:09.\n\nI watched them for almost a minute.\n\nWaiting for a pattern.\n\nThere wasn't one.\n\nEmily quietly walked over.\n\nEmily\n\n\"They're changing faster.\"\n\nThomas\n\n\"You noticed?\"\n\nEmily\n\n\"I've been noticing.\"\n\nThat answer bothered me."
   },
   {
     "id": "ch12-p03",
@@ -1547,7 +1547,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily wasn't looking at me anymore.\n\nShe was staring toward the far corner of the church.\n\n\"What?\"\n\nShe didn't answer.\n\nI followed her eyes.\n\nNothing.\n\n\"Emily?\"\n\n\"I can see her.\"\n\nMy stomach tightened.\n\n\"Who?\"\n\nShe slowly raised one shaking finger.\n\n\"There.\""
+    "text": "Emily wasn't looking at me anymore.\n\nShe was staring toward the far corner of the church.\n\nThomas\n\n\"What?\" I asked.\n\nShe didn't answer.\n\nI followed her eyes.\n\nNothing.\n\nEmily\n\n\"Emily?\"\n\nThomas\n\n\"I can see her.\"\n\nMy stomach tightened.\n\nEmily\n\n\"Who?\"\n\nShe slowly raised one shaking finger.\n\nThomas\n\n\"There.\""
   },
   {
     "id": "ch12-p04",
@@ -1569,7 +1569,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Neither of us moved.\n\nNeither did she.\n\nFinally...\n\nHer lips began to move.\n\nNo sound.\n\nThen...\n\nA whisper.\n\n\"So...\"\n\nSoft.\n\nBroken.\n\n\"...close...\"\n\nEmily looked at me.\n\n\"You heard that?\"\n\nI nodded."
+    "text": "Neither of us moved.\n\nNeither did she.\n\nFinally...\n\nHer lips began to move.\n\nNo sound.\n\nThen...\n\nA whisper.\n\nThe Girl\n\n\"So...\"\n\nSoft.\n\nBroken.\n\n\"...close...\"\n\nEmily looked at me.\n\nEmily\n\n\"You heard that?\"\n\nI nodded."
   },
   {
     "id": "ch12-p06",
@@ -1580,7 +1580,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "She tried again.\n\nThe words came separately.\n\nLike pieces of different conversations.\n\n\"...don't...\"\n\n\"...hour...\"\n\n\"...after...\"\n\n\"...door...\"\n\nI frowned.\n\n\"I still can't—\"\n\nEmily interrupted.\n\n\"I heard 'let.'\"\n\n\"What?\"\n\n\"'Let.'\"\n\nI looked back at the girl.\n\nShe nodded."
+    "text": "She tried again.\n\nThe words came separately.\n\nLike pieces of different conversations.\n\nThe Girl\n\n\"...don't...\"\n\n\"...hour...\"\n\n\"...after...\"\n\n\"...door...\"\n\nI frowned.\n\nThomas\n\n\"I still can't—\"\n\nEmily interrupted.\n\nEmily\n\n\"I heard 'let.'\"\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"'Let.'\"\n\nI looked back at the girl.\n\nShe nodded."
   },
   {
     "id": "ch12-p07",
@@ -1591,7 +1591,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Again.\n\n\"...don't...\"\n\nEmily whispered,\n\n\"Don't...\"\n\n\"...let...\"\n\n\"...after...\"\n\n\"...hour...\"\n\n\"...inside...\"\n\nWe both stood perfectly still.\n\nNot because we understood.\n\nBecause...\n\nTogether...\n\nWe almost did."
+    "text": "Again.\n\nThe Girl\n\n\"...don't...\"\n\nEmily whispered,\n\nEmily\n\n\"Don't...\"\n\nThe Girl\n\n\"...let...\"\n\n\"...after...\"\n\n\"...hour...\"\n\n\"...inside...\"\n\nWe both stood perfectly still.\n\nNot because we understood.\n\nBecause...\n\nTogether...\n\nWe almost did."
   },
   {
     "id": "ch12-p08",
@@ -1602,7 +1602,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Samuel quietly walked over.\n\nHe wasn't surprised.\n\nHe simply looked where we were looking.\n\n\"You see her.\"\n\nIt wasn't a question.\n\n\"You do too?\"\n\nHe nodded once.\n\n\"I used to.\"\n\nEmily turned toward him.\n\n\"Who is she?\"\n\nSamuel stared at the girl.\n\nFor a very long time.\n\nFinally...\n\n\"I don't remember.\""
+    "text": "Samuel quietly walked over.\n\nHe wasn't surprised.\n\nHe simply looked where we were looking.\n\nSamuel\n\n\"You see her.\"\n\nIt wasn't a question.\n\nThomas\n\n\"You do too?\" I asked.\n\nHe nodded once.\n\nSamuel\n\n\"I used to.\"\n\nEmily turned toward him.\n\nEmily\n\n\"Who is she?\"\n\nSamuel stared at the girl.\n\nFor a very long time.\n\nFinally...\n\nSamuel\n\n\"I don't remember.\""
   },
   {
     "id": "ch12-p09",
@@ -1613,7 +1613,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"You don't remember?\"\n\n\"I used to.\"\n\nHe looked genuinely sad.\n\n\"I knew.\"\n\nHe rubbed his forehead.\n\n\"I know I knew.\"\n\nHe looked at the girl again.\n\n\"I just...\"\n\nHis voice became almost a whisper.\n\n\"...can't anymore.\"\n\nFor the first time...\n\nThe girl looked sad too."
+    "text": "Thomas\n\n\"You don't remember?\" I asked.\n\nSamuel\n\n\"I used to.\"\n\nHe looked genuinely sad.\n\n\"I knew.\"\n\nHe rubbed his forehead.\n\n\"I know I knew.\"\n\nHe looked at the girl again.\n\n\"I just...\"\n\nHis voice became almost a whisper.\n\n\"...can't anymore.\"\n\nFor the first time...\n\nThe girl looked sad too."
   },
   {
     "id": "ch12-p10",
@@ -1624,7 +1624,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily wandered back toward the tally marks.\n\nShe ran her fingers across the wood.\n\nSomething stopped her.\n\n\"Thomas.\"\n\n\"What?\"\n\n\"Come here.\"\n\nI walked over.\n\nShe pointed.\n\nOne tally...\n\nLooked different.\n\nThen another.\n\nThen another.\n\nNot random.\n\nA trail."
+    "text": "Emily wandered back toward the tally marks.\n\nShe ran her fingers across the wood.\n\nSomething stopped her.\n\nEmily\n\n\"Thomas.\"\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"Come here.\"\n\nI walked over.\n\nShe pointed.\n\nOne tally...\n\nLooked different.\n\nThen another.\n\nThen another.\n\nNot random.\n\nA trail."
   },
   {
     "id": "ch12-p11",
@@ -1635,7 +1635,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The deeper marks crossed the wall.\n\nOver support beams.\n\nPast old pews.\n\nToward the front entrance.\n\nThey stopped...\n\nAt the giant lever.\n\nEmily looked at me.\n\n\"I don't think these are just tallies.\"\n\n\"What do you think they are?\"\n\nShe slowly shook her head.\n\n\"I don't know.\"\n\n\"But someone wanted us to find this.\""
+    "text": "The deeper marks crossed the wall.\n\nOver support beams.\n\nPast old pews.\n\nToward the front entrance.\n\nThey stopped...\n\nAt the giant lever.\n\nEmily looked at me.\n\nEmily\n\n\"I don't think these are just tallies.\"\n\nThomas\n\n\"What do you think they are?\"\n\nShe slowly shook her head.\n\nEmily\n\n\"I don't know.\"\n\n\"But someone wanted us to find this.\""
   },
   {
     "id": "ch12-p12",
@@ -1657,7 +1657,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The girl suddenly looked terrified.\n\nShe took one hurried step toward us.\n\nHer voice came stronger than ever before.\n\n\"...after...\"\n\nShe struggled.\n\n\"...the...\"\n\nHer hands trembled.\n\n\"...hour...\"\n\nEmily grabbed my arm.\n\n\"Thomas...\"\n\nThe girl forced the last words out.\n\n\"...is...\"\n\n\"...locked...\""
+    "text": "The girl suddenly looked terrified.\n\nShe took one hurried step toward us.\n\nHer voice came stronger than ever before.\n\nThe Girl\n\n\"...after...\"\n\nShe struggled.\n\n\"...the...\"\n\nHer hands trembled.\n\n\"...hour...\"\n\nEmily grabbed my arm.\n\nEmily\n\n\"Thomas...\"\n\nThe girl forced the last words out.\n\nThe Girl\n\n\"...is...\"\n\n\"...locked...\""
   },
   {
     "id": "ch12-p14",
@@ -1668,7 +1668,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "She looked directly into my eyes.\n\nFor the first time...\n\nI understood every word.\n\nNot because she spoke louder.\n\nBecause...\n\nSomehow...\n\nThe space between us had finally closed.\n\nTears filled her eyes.\n\n\"Don't...\"\n\nShe swallowed.\n\n\"...let...\"\n\nAnother breath.\n\n\"...anyone...\"\n\nOne final effort.\n\n\"...in.\"\n\nShe disappeared.\n\nEmily and I stood in complete silence.\n\nOutside...\n\nThe church bell rang.\n\nOnce.\n\nAnd suddenly...\n\nThe unfinished lock didn't feel unfinished anymore.\n\nIt felt like a promise."
+    "text": "She looked directly into my eyes.\n\nFor the first time...\n\nI understood every word.\n\nNot because she spoke louder.\n\nBecause...\n\nSomehow...\n\nThe space between us had finally closed.\n\nTears filled her eyes.\n\nThe Girl\n\n\"Don't...\"\n\nShe swallowed.\n\n\"...let...\"\n\nAnother breath.\n\n\"...anyone...\"\n\nOne final effort.\n\n\"...in.\"\n\nShe disappeared.\n\nEmily and I stood in complete silence.\n\nOutside...\n\nThe church bell rang.\n\nOnce.\n\nAnd suddenly...\n\nThe unfinished lock didn't feel unfinished anymore.\n\nIt felt like a promise."
   },
   {
     "id": "ch13-p01",
@@ -1690,7 +1690,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily noticed too.\n\n\"You alright?\"\n\nSamuel looked toward the windows.\n\n\"I don't like tonight.\"\n\nThat was it.\n\nNo explanation.\n\nNo warning.\n\nJust...\n\n\"I don't like tonight.\"\n\nI looked at Emily.\n\nNeither of us had ever heard Samuel say anything like that."
+    "text": "Emily noticed too.\n\nEmily\n\n\"You alright?\"\n\nSamuel looked toward the windows.\n\nSamuel\n\n\"I don't like tonight.\"\n\nThat was it.\n\nNo explanation.\n\nNo warning.\n\nJust...\n\n\"I don't like tonight.\"\n\nI looked at Emily.\n\nNeither of us had ever heard Samuel say anything like that."
   },
   {
     "id": "ch13-p03",
@@ -1701,7 +1701,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The search parties left the church.\n\nSnow fell steadily.\n\nThe village looked...\n\nempty.\n\nNot abandoned.\n\nEmpty.\n\nNo birds.\n\nNo rabbits.\n\nNo wolves watching from the rooftops.\n\nNothing.\n\nEven the wind seemed quieter.\n\nEmily whispered,\n\n\"I don't like this either.\""
+    "text": "The search parties left the church.\n\nSnow fell steadily.\n\nThe village looked...\n\nempty.\n\nNot abandoned.\n\nEmpty.\n\nNo birds.\n\nNo rabbits.\n\nNo wolves watching from the rooftops.\n\nNothing.\n\nEven the wind seemed quieter.\n\nEmily whispered,\n\nEmily\n\n\"I don't like this either.\""
   },
   {
     "id": "ch13-p04",
@@ -1734,7 +1734,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The footprints didn't make sense.\n\nSome ended suddenly.\n\nOthers crossed each other in impossible directions.\n\nThen...\n\nThey simply...\n\nstopped.\n\nNo return tracks.\n\nNo struggle.\n\nNo blood.\n\nJust...\n\ngone.\n\nEmily looked at me.\n\n\"I don't understand.\"\n\nNeither did I."
+    "text": "The footprints didn't make sense.\n\nSome ended suddenly.\n\nOthers crossed each other in impossible directions.\n\nThen...\n\nThey simply...\n\nstopped.\n\nNo return tracks.\n\nNo struggle.\n\nNo blood.\n\nJust...\n\ngone.\n\nEmily looked at me.\n\nEmily\n\n\"I don't understand.\"\n\nNeither did I."
   },
   {
     "id": "ch13-p07",
@@ -1745,7 +1745,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Samuel suddenly stopped walking.\n\nHe tilted his head.\n\nListening.\n\nI listened too.\n\nNothing.\n\nSamuel quietly spoke one word.\n\n\"Run.\"\n\nNobody questioned him.\n\nWe ran."
+    "text": "Samuel suddenly stopped walking.\n\nHe tilted his head.\n\nListening.\n\nI listened too.\n\nNothing.\n\nSamuel quietly spoke one word.\n\nSamuel\n\n\"Run.\"\n\nNobody questioned him.\n\nWe ran."
   },
   {
     "id": "ch13-p08",
@@ -1756,7 +1756,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I had never seen Samuel run.\n\nNot once.\n\nNow...\n\nHe was faster than anyone.\n\nThe church should have been just ahead.\n\nInstead...\n\nIt looked farther away.\n\nI blinked.\n\nNo.\n\nIt wasn't possible.\n\nWe had been walking toward it.\n\nWhy did it look farther away?"
+    "text": "I had never seen Samuel run.\n\nNot once.\n\nNow...\n\nHe was faster than anyone else.\n\nThe church should have been just ahead.\n\nInstead...\n\nIt looked farther away.\n\nI blinked.\n\nNo.\n\nIt wasn't possible.\n\nWe had been walking toward it.\n\nWhy did it look farther away?"
   },
   {
     "id": "ch13-p09",
@@ -1767,7 +1767,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The wind hit us without warning.\n\nSnow exploded across the road.\n\nI couldn't see more than a few feet.\n\n\"Emily!\"\n\n\"I'm here!\"\n\nI reached sideways.\n\nOur fingers brushed.\n\nThen...\n\nAnother gust.\n\nNothing."
+    "text": "The wind hit us without warning.\n\nSnow exploded across the road.\n\nI couldn't see more than a few feet.\n\nThomas\n\n\"Emily!\"\n\nEmily\n\n\"I'm here!\" Emily shouted.\n\nI reached sideways.\n\nOur fingers brushed.\n\nThen...\n\nAnother gust.\n\nNothing."
   },
   {
     "id": "ch13-p10",
@@ -1778,7 +1778,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Emily!\"\n\n\"I'm okay!\"\n\nHer voice came from somewhere ahead.\n\nNo...\n\nBehind me.\n\nNo...\n\nTo my left.\n\nThe snow swallowed every direction.\n\nI spun in circles.\n\n\"Thomas!\"\n\n\"I can't see you!\"\n\n\"I know!\""
+    "text": "Thomas\n\n\"Emily!\"\n\nEmily\n\n\"I'm okay!\" Emily shouted.\n\nHer voice came from somewhere ahead.\n\nNo...\n\nBehind me.\n\nNo...\n\nTo my left.\n\nThe snow swallowed every direction.\n\nI spun in circles.\n\n\"Thomas!\"\n\nThomas\n\n\"I can't see you!\" I shouted back.\n\nEmily\n\n\"I know!\""
   },
   {
     "id": "ch13-p11",
@@ -1789,7 +1789,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Someone grabbed my arm.\n\nSamuel.\n\n\"We have to move.\"\n\n\"Emily's still out there.\"\n\n\"I know.\"\n\n\"We have to find her.\"\n\nSamuel looked into the white storm.\n\n\"We can't.\"\n\n\"You don't know that.\"\n\n\"I do.\""
+    "text": "Someone grabbed my arm.\n\nSamuel.\n\nSamuel\n\n\"We have to move.\"\n\nThomas\n\n\"Emily's still out there,\" I said.\n\nSamuel\n\n\"I know.\"\n\nThomas\n\n\"We have to find her.\"\n\nSamuel looked into the white storm.\n\nSamuel\n\n\"We can't.\"\n\nThomas\n\n\"You don't know that.\"\n\nSamuel\n\n\"I do.\""
   },
   {
     "id": "ch13-p12",
@@ -1800,7 +1800,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The church doors appeared through the snow.\n\nSomehow.\n\nI hadn't seen them a second earlier.\n\nPeople hurried inside.\n\nSamuel practically pushed me through.\n\nI fought him.\n\n\"No!\"\n\n\"Thomas!\"\n\n\"I'm going back!\"\n\nSamuel grabbed both my shoulders.\n\n\"If you leave now...\"\n\nHe looked directly into my eyes.\n\n\"...you're choosing not to come back.\""
+    "text": "The church doors appeared through the snow.\n\nSomehow.\n\nI hadn't seen them a second earlier.\n\nPeople hurried inside.\n\nSamuel practically pushed me through.\n\nI fought him.\n\nThomas\n\n\"No!\" I shouted.\n\nSamuel\n\n\"Thomas!\"\n\nThomas\n\n\"I'm going back!\"\n\nSamuel grabbed both my shoulders.\n\nSamuel\n\n\"If you leave now...\"\n\nHe looked directly into my eyes.\n\n\"...you're choosing not to come back.\""
   },
   {
     "id": "ch13-p13",
@@ -1811,7 +1811,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The giant doors began closing.\n\nI stood frozen.\n\nThe gap grew smaller.\n\nSnow blew through the opening.\n\nI couldn't breathe.\n\nThe warning echoed through my head.\n\nAfter the hour is locked...\n\nDon't let anyone in.\n\nThen...\n\nThrough the storm...\n\nI heard her.\n\n\"Thomas!\"\n\nEmily.\n\nAlive."
+    "text": "The giant doors began closing.\n\nI stood frozen.\n\nThe gap grew smaller.\n\nSnow blew through the opening.\n\nI couldn't breathe.\n\nThe warning echoed through my head.\n\nAfter the hour is locked...\n\nDon't let anyone in.\n\nThen...\n\nThrough the storm...\n\nI heard her.\n\nEmily\n\n\"Thomas!\"\n\nEmily.\n\nAlive."
   },
   {
     "id": "ch13-p14",
@@ -1822,7 +1822,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Every part of me moved at once.\n\nToward the door.\n\nSamuel caught my arm.\n\n\"Don't.\"\n\nAnother voice.\n\nFarther away.\n\n\"Thomas!\"\n\nCloser now.\n\nPanicked.\n\nReal.\n\nI looked at Samuel.\n\nThen at the door.\n\nThen back into the storm.\n\nMy hand closed around the iron handle.\n\nThe doors stopped moving.\n\nEverything became silent."
+    "text": "Every part of me moved at once.\n\nToward the door.\n\nSamuel caught my arm.\n\nSamuel\n\n\"Don't.\"\n\nAnother voice.\n\nFarther away.\n\nEmily\n\n\"Thomas!\"\n\nCloser now.\n\nPanicked.\n\nReal.\n\nI looked at Samuel.\n\nThen at the door.\n\nThen back into the storm.\n\nMy hand closed around the iron handle.\n\nThe doors stopped moving.\n\nEverything became silent."
   },
   {
     "id": "ch14-p01",
@@ -1833,7 +1833,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 1,
     "isChapterStart": true,
     "type": "prose",
-    "text": "My hand stayed on the iron handle.\n\nI couldn't move.\n\nBehind me...\n\nNo one spoke.\n\nThe church had become so quiet I could hear my own breathing.\n\nThen Samuel's voice.\n\nSoft.\n\nAlmost gentle.\n\n\"If that's Emily...\"\n\nHe stopped.\n\nFor a long moment...\n\n\"...I'm sorry.\""
+    "text": "My hand stayed on the iron handle.\n\nI couldn't move.\n\nBehind me...\n\nNo one spoke.\n\nThe church had become so quiet I could hear my own breathing.\n\nThen Samuel's voice.\n\nSoft.\n\nAlmost gentle.\n\nSamuel\n\n\"If that's Emily...\"\n\nHe stopped.\n\nFor a long moment...\n\n\"...I'm sorry.\""
   },
   {
     "id": "ch14-p02",
@@ -1844,7 +1844,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I looked at him.\n\nHe wasn't angry.\n\nHe wasn't trying to stop me anymore.\n\nHe looked...\n\ntired.\n\nLike he'd already watched this happen before.\n\nI heard her again.\n\n\"Thomas...\"\n\nCold.\n\nWeak.\n\nAlive.\n\nThat was enough."
+    "text": "I looked at him.\n\nHe wasn't angry.\n\nHe wasn't trying to stop me anymore.\n\nHe looked...\n\ntired.\n\nLike he'd already watched this happen before.\n\nI heard her again.\n\nEmily\n\n\"Thomas...\"\n\nCold.\n\nWeak.\n\nAlive.\n\nThat was enough."
   },
   {
     "id": "ch14-p03",
@@ -1855,7 +1855,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I pulled the handle.\n\nThe giant doors opened just wide enough for one person.\n\nSnow blew into the church.\n\nThe cold hit everyone at once.\n\nThen...\n\nEmily stumbled through the opening.\n\nI caught her before she fell.\n\nShe wrapped both arms around me.\n\n\"I thought...\"\n\nHer voice shook.\n\n\"I thought I wasn't going to make it.\""
+    "text": "I pulled the handle.\n\nThe giant doors opened just wide enough for one person.\n\nSnow blew into the church.\n\nThe cold hit everyone at once.\n\nThen...\n\nEmily stumbled through the opening.\n\nI caught her before she fell.\n\nShe wrapped both arms around me.\n\nEmily\n\n\"I thought...\"\n\nHer voice shook.\n\n\"I thought I wasn't going to make it.\""
   },
   {
     "id": "ch14-p04",
@@ -1866,7 +1866,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I held her tighter.\n\n\"It's okay.\"\n\nShe was freezing.\n\nHer coat was covered in snow.\n\nHer hands shook.\n\nEverything about her felt real.\n\nHuman.\n\nAlive.\n\nI looked back at Samuel.\n\nFor just a second...\n\nEven he seemed uncertain."
+    "text": "I held her tighter.\n\nThomas\n\n\"It's okay.\"\n\nShe was freezing.\n\nHer coat was covered in snow.\n\nHer hands shook.\n\nEverything about her felt real.\n\nHuman.\n\nAlive.\n\nI looked back at Samuel.\n\nFor just a second...\n\nEven he seemed uncertain."
   },
   {
     "id": "ch14-p05",
@@ -1877,7 +1877,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The doors slammed shut again.\n\nThe lever moved.\n\nOne inch short.\n\nGood enough.\n\nNobody said anything.\n\nEmily sat quietly near one of the pews.\n\nThe older woman wrapped a blanket around her shoulders.\n\nSomeone handed her a cup.\n\nShe whispered,\n\n\"Thank you.\"\n\nExactly like Emily would."
+    "text": "The doors slammed shut again.\n\nThe lever moved.\n\nOne inch short.\n\nGood enough.\n\nNobody said anything.\n\nEmily sat quietly near one of the pews.\n\nThe older woman wrapped a blanket around her shoulders.\n\nSomeone handed her a cup.\n\nShe whispered,\n\nEmily\n\n\"Thank you.\"\n\nExactly like Emily would."
   },
   {
     "id": "ch14-p06",
@@ -1888,7 +1888,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "For a little while...\n\nI thought we'd beaten it.\n\nEmily slowly warmed up.\n\nShe laughed once.\n\nVery quietly.\n\n\"You should've seen your face.\"\n\nI smiled.\n\n\"I thought I lost you.\"\n\n\"You almost did.\"\n\nNeither of us knew how true that sentence really was."
+    "text": "For a little while...\n\nI thought we'd beaten it.\n\nEmily slowly warmed up.\n\nShe laughed once.\n\nVery quietly.\n\nEmily\n\n\"You should've seen your face.\"\n\nI smiled.\n\nThomas\n\n\"I thought I lost you.\"\n\nEmily\n\n\"You almost did.\"\n\nNeither of us knew how true that sentence really was."
   },
   {
     "id": "ch14-p07",
@@ -1899,7 +1899,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Samuel never stopped watching her.\n\nNot rudely.\n\nNot suspiciously.\n\nJust...\n\nwatching.\n\nEventually I walked over.\n\n\"You were wrong.\"\n\nSamuel didn't answer.\n\n\"You said not to let her in.\"\n\nNothing.\n\n\"I know Emily.\"\n\nSamuel finally looked at me.\n\n\"So did someone else.\""
+    "text": "Samuel never stopped watching her.\n\nNot rudely.\n\nNot suspiciously.\n\nJust...\n\nwatching.\n\nEventually, I walked over.\n\nThomas\n\n\"You were wrong.\"\n\nSamuel didn't answer.\n\n\"You said not to let her in.\"\n\nNothing.\n\n\"I know Emily.\"\n\nSamuel finally looked at me.\n\nSamuel\n\n\"So did someone else.\""
   },
   {
     "id": "ch14-p08",
@@ -1910,7 +1910,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I didn't understand.\n\nBefore I could ask...\n\nEmily spoke.\n\n\"Thomas?\"\n\n\"Yeah?\"\n\nShe looked toward one of the boarded windows.\n\n\"What time is it?\"\n\nThe question caught me off guard.\n\nI looked down automatically.\n\nAt my arm.\n\nThe numbers changed.\n\n6:12.\n\n6:41.\n\n6:13.\n\nEmily watched them.\n\nLonger than she should have."
+    "text": "I didn't understand.\n\nBefore I could ask...\n\nEmily spoke.\n\nEmily\n\n\"Thomas?\"\n\nThomas\n\n\"Yeah?\"\n\nShe looked toward one of the boarded windows.\n\nEmily\n\n\"What time is it?\"\n\nThe question caught me off guard.\n\nI looked down automatically.\n\nAt my arm.\n\nThe numbers changed.\n\n6:12.\n\n6:41.\n\n6:13.\n\nEmily watched them.\n\nLonger than she should have."
   },
   {
     "id": "ch14-p09",
@@ -1921,7 +1921,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"You okay?\"\n\nShe blinked.\n\n\"What?\"\n\n\"You were staring.\"\n\n\"Oh.\"\n\nShe smiled.\n\n\"I guess I was.\"\n\nNormal.\n\nPerfectly normal.\n\nExcept...\n\nEmily usually looked people in the eyes when she answered.\n\nThis time...\n\nShe looked at my arm."
+    "text": "Thomas\n\n\"You okay?\"\n\nShe blinked.\n\nEmily\n\n\"What?\"\n\nThomas\n\n\"You were staring.\"\n\nEmily\n\n\"Oh.\"\n\nShe smiled.\n\n\"I guess I was.\"\n\nNormal.\n\nPerfectly normal.\n\nExcept...\n\nEmily usually looked people in the eyes when she answered.\n\nThis time...\n\nShe looked at my arm."
   },
   {
     "id": "ch14-p10",
@@ -1943,7 +1943,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Later...\n\nEmily and I sat together.\n\nNeither of us spoke for a while.\n\nFinally she whispered,\n\n\"I heard something.\"\n\n\"What?\"\n\n\"Outside.\"\n\nI listened.\n\nNothing.\n\n\"What did you hear?\"\n\nShe frowned.\n\n\"I don't remember.\"\n\nThat wasn't like Emily.\n\nShe always remembered."
+    "text": "Later...\n\nEmily and I sat together.\n\nNeither of us spoke for a while.\n\nFinally, she whispered,\n\nEmily\n\n\"I heard something.\"\n\nThomas\n\n\"What?\"\n\nEmily\n\n\"Outside.\"\n\nI listened.\n\nNothing.\n\nThomas\n\n\"What did you hear?\"\n\nShe frowned.\n\nEmily\n\n\"I don't remember.\"\n\nThat wasn't like Emily.\n\nShe always remembered."
   },
   {
     "id": "ch14-p12",
@@ -1976,7 +1976,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The unfinished lock shuddered.\n\nMetal groaned.\n\nIt moved.\n\nOnly a fraction.\n\nBy itself.\n\nThe church fell completely silent.\n\nEmily slowly turned toward the front doors.\n\nShe whispered something.\n\nToo quietly for anyone else to hear.\n\nI leaned closer.\n\n\"What?\"\n\nShe looked at me.\n\nFor just one second...\n\nHer eyes didn't look like Emily's.\n\nThen they did again.\n\nShe smiled.\n\nVery softly.\n\n\"I think...\"\n\nShe looked toward the doors.\n\n\"...someone's coming.\""
+    "text": "The unfinished lock shuddered.\n\nMetal groaned.\n\nIt moved.\n\nOnly a fraction.\n\nBy itself.\n\nThe church fell completely silent.\n\nEmily slowly turned toward the front doors.\n\nShe whispered something.\n\nToo quietly for anyone else to hear.\n\nI leaned closer.\n\nThomas\n\n\"What?\"\n\nShe looked at me.\n\nFor just one second...\n\nHer eyes didn't look like Emily's.\n\nThen they did again.\n\nShe smiled.\n\nVery softly.\n\nEmily\n\n\"I think...\"\n\nShe looked toward the doors.\n\n\"...someone's coming.\""
   },
   {
     "id": "ch15-p01",
@@ -1998,7 +1998,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily was already awake.\n\nShe was standing beside one of the boarded windows.\n\nNot looking outside.\n\nListening.\n\n\"You okay?\"\n\nShe nodded.\n\nA second too late.\n\n\"I heard someone.\"\n\n\"There isn't anyone out there.\"\n\n\"I know.\"\n\nShe looked confused.\n\n\"I know.\""
+    "text": "Emily was already awake.\n\nShe was standing beside one of the boarded windows.\n\nNot looking outside.\n\nListening.\n\nThomas\n\n\"You okay?\"\n\nShe nodded.\n\nA second too late.\n\nEmily\n\n\"I heard someone.\"\n\nThomas\n\n\"There isn't anyone out there.\"\n\nEmily\n\n\"I know.\"\n\nShe looked confused.\n\n\"I know.\""
   },
   {
     "id": "ch15-p03",
@@ -2009,7 +2009,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Samuel noticed us watching him.\n\nHe quietly walked over.\n\n\"You didn't sleep.\"\n\nNeither of us answered.\n\nFinally I asked,\n\n\"What happened after I opened the door?\"\n\nSamuel looked toward the unfinished lock.\n\n\"It moved.\"\n\n\"I know.\"\n\n\"No.\"\n\nHe slowly shook his head.\n\n\"It moved.\"\n\nThat answer sat between us.\n\nHeavy."
+    "text": "Samuel noticed us watching him.\n\nHe quietly walked over.\n\nSamuel\n\n\"You didn't sleep.\"\n\nNeither of us answered.\n\nFinally, I asked,\n\nThomas\n\n\"What happened after I opened the door?\"\n\nSamuel looked toward the unfinished lock.\n\nSamuel\n\n\"It moved.\"\n\nThomas\n\n\"I know.\"\n\nSamuel\n\n\"No.\"\n\nHe slowly shook his head.\n\n\"It moved.\"\n\nThat answer sat between us.\n\nHeavy."
   },
   {
     "id": "ch15-p04",
@@ -2020,7 +2020,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 4,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"I need you to explain this.\"\n\nSamuel looked tired.\n\n\"I can't.\"\n\n\"You have to know something.\"\n\n\"I know the rules.\"\n\n\"Then tell me.\"\n\nSamuel looked directly at me.\n\n\"I don't know why they're the rules.\"\n\nSilence.\n\n\"I only know what happens when people forget them.\""
+    "text": "Thomas\n\n\"I need you to explain this,\" I said.\n\nSamuel looked tired.\n\nSamuel\n\n\"I can't.\"\n\nThomas\n\n\"You have to know something.\"\n\nSamuel\n\n\"I know the rules.\"\n\nThomas\n\n\"Then tell me.\"\n\nSamuel looked directly at me.\n\nSamuel\n\n\"I don't know why they're the rules.\"\n\nSilence.\n\n\"I only know what happens when people forget them.\""
   },
   {
     "id": "ch15-p05",
@@ -2042,7 +2042,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The numbers on my arm jumped again.\n\n7:14.\n\n7:43.\n\n7:15.\n\nEmily quietly reached for my hand.\n\n\"Thomas...\"\n\n\"What?\"\n\n\"They're changing faster.\"\n\n\"I know.\"\n\n\"No.\"\n\nShe swallowed.\n\n\"I don't think they're catching up.\"\n\nI looked at her.\n\n\"I think...\"\n\nShe stared at my arm.\n\n\"...they're running out.\""
+    "text": "The numbers on my arm jumped again.\n\n7:14.\n\n7:43.\n\n7:15.\n\nEmily quietly reached for my hand.\n\nEmily\n\n\"Thomas...\"\n\nThomas\n\n\"What?\" I asked.\n\nEmily\n\n\"They're changing faster.\"\n\nThomas\n\n\"I know.\"\n\nEmily\n\n\"No.\"\n\nShe swallowed.\n\n\"I don't think they're catching up.\"\n\nI looked at her.\n\n\"I think...\"\n\nShe stared at my arm.\n\n\"...they're running out.\""
   },
   {
     "id": "ch15-p07",
@@ -2075,7 +2075,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 9,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily stepped forward.\n\n\"So you can finally hear me.\"\n\nThe girl's voice was clear.\n\nPerfectly clear.\n\nNeither of us moved.\n\n\"You...\"\n\nEmily whispered.\n\n\"You've been trying to tell us.\"\n\nThe girl nodded.\n\nThe first real smile we'd ever seen from her.\n\nSmall.\n\nSad.\n\nRelieved."
+    "text": "Emily stepped forward.\n\nThe Girl\n\n\"So you can finally hear me.\"\n\nThe girl's voice was clear.\n\nPerfectly clear.\n\nNeither of us moved.\n\nEmily\n\n\"You...\"\n\nEmily whispered.\n\n\"You've been trying to tell us.\"\n\nThe girl nodded.\n\nThe first real smile we'd ever seen from her.\n\nSmall.\n\nSad.\n\nRelieved."
   },
   {
     "id": "ch15-p10",
@@ -2086,7 +2086,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I stepped beside Emily.\n\n\"Who are you?\"\n\nThe girl looked at me.\n\nThen quietly answered,\n\n\"I don't remember.\"\n\nThe words hit harder than I expected.\n\nShe wanted to tell us.\n\nShe couldn't.\n\nTime had taken that from her too."
+    "text": "I stepped beside Emily.\n\nThomas\n\n\"Who are you?\"\n\nThe girl looked at me.\n\nThen she quietly answered,\n\nThe Girl\n\n\"I don't remember.\"\n\nThe words hit harder than I expected.\n\nShe wanted to tell us.\n\nShe couldn't.\n\nTime had taken that from her too."
   },
   {
     "id": "ch15-p11",
@@ -2097,7 +2097,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 11,
     "isChapterStart": false,
     "type": "prose",
-    "text": "She slowly raised one hand.\n\nNot toward me.\n\nToward Emily.\n\n\"You're not gone.\"\n\nEmily closed her eyes.\n\n\"I know.\"\n\nThe girl continued.\n\n\"But...\"\n\nShe struggled.\n\n\"...you're not alone.\"\n\nEmily looked away.\n\n\"I know.\""
+    "text": "She slowly raised one hand.\n\nNot toward me.\n\nToward Emily.\n\nThe Girl\n\n\"You're not gone.\"\n\nEmily closed her eyes.\n\nEmily\n\n\"I know.\"\n\nThe girl continued.\n\nThe Girl\n\n\"But...\"\n\nShe struggled.\n\n\"...you're not alone.\"\n\nEmily looked away.\n\nEmily\n\n\"I know.\""
   },
   {
     "id": "ch15-p12",
@@ -2108,7 +2108,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 12,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I turned toward Emily.\n\n\"What does that mean?\"\n\nShe didn't answer.\n\nInstead...\n\nShe quietly said,\n\n\"I've been hearing someone.\"\n\n\"Who?\"\n\n\"I don't know.\"\n\n\"What are they saying?\"\n\nShe looked frightened.\n\n\"Sometimes...\"\n\nShe took a shaky breath.\n\n\"...I think something before I say it.\"\n\nShe looked at me.\n\n\"And the voice finishes it first.\""
+    "text": "I turned toward Emily.\n\nThomas\n\n\"What does that mean?\" I asked.\n\nShe didn't answer.\n\nInstead...\n\nShe quietly said,\n\nEmily\n\n\"I've been hearing someone.\"\n\nThomas\n\n\"Who?\"\n\nEmily\n\n\"I don't know.\"\n\nThomas\n\n\"What are they saying?\"\n\nShe looked frightened.\n\nEmily\n\n\"Sometimes...\"\n\nShe took a shaky breath.\n\n\"...I think something before I say it.\"\n\nShe looked at me.\n\n\"And the voice finishes it first.\""
   },
   {
     "id": "ch15-p13",
@@ -2119,7 +2119,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The church bell rang.\n\nNot outside.\n\nInside.\n\nNo one had touched it.\n\nEvery survivor stood.\n\nSamuel looked at the unfinished lock.\n\nThen at my arm.\n\nThen at Emily.\n\nFor the first time...\n\nHe asked a question.\n\n\"What do we do?\"\n\nNot to me.\n\nNot to Emily.\n\nTo anyone.\n\nNobody answered."
+    "text": "The church bell rang.\n\nNot outside.\n\nInside.\n\nNo one had touched it.\n\nEvery survivor stood.\n\nSamuel looked at the unfinished lock.\n\nThen at my arm.\n\nThen at Emily.\n\nFor the first time...\n\nHe asked a question.\n\nSamuel\n\n\"What do we do?\"\n\nNot to me.\n\nNot to Emily.\n\nTo anyone.\n\nNobody answered."
   },
   {
     "id": "ch15-p14",
@@ -2130,7 +2130,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The girl slowly walked toward the giant doors.\n\nShe placed one hand against the old wood.\n\nThen she looked back.\n\nAt me.\n\nAt Emily.\n\nHer voice was almost a whisper.\n\n\"It isn't finished.\"\n\nShe touched the unfinished lock.\n\nThen...\n\nShe disappeared.\n\nLeaving only the sound of the bell.\n\nStill ringing."
+    "text": "The girl slowly walked toward the giant doors.\n\nShe placed one hand against the old wood.\n\nThen she looked back.\n\nAt me.\n\nAt Emily.\n\nHer voice was almost a whisper.\n\nThe Girl\n\n\"It isn't finished.\"\n\nShe touched the unfinished lock.\n\nThen...\n\nShe disappeared.\n\nLeaving only the sound of the bell.\n\nStill ringing."
   },
   {
     "id": "ch16-p01",
@@ -2152,7 +2152,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 2,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Samuel?\"\n\nNo answer.\n\nI walked farther inside.\n\nThe older woman's stove still held warm water.\n\nThe little boy's carved blocks lay scattered across the floor.\n\nOne block slowly rolled across the wood.\n\nThen stopped.\n\nNo voices.\n\nNo footsteps.\n\nNothing."
+    "text": "Thomas\n\n\"Samuel?\"\n\nNo answer.\n\nI walked farther inside.\n\nA pot on the older woman's stove still held warm water.\n\nThe little boy's carved blocks lay scattered across the floor.\n\nOne block slowly rolled across the wood.\n\nThen stopped.\n\nNo voices.\n\nNo footsteps.\n\nNothing."
   },
   {
     "id": "ch16-p03",
@@ -2163,7 +2163,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Emily?\"\n\n\"I'm here.\"\n\nHer voice came from near the front doors.\n\nShe hadn't moved.\n\nShe was standing beside the unfinished lock.\n\nLooking at it.\n\n\"I think...\"\n\nShe whispered.\n\n\"...it's just us now.\"\n\nI looked around one last time.\n\nShe was right."
+    "text": "Thomas\n\n\"Emily?\"\n\nEmily\n\n\"I'm here.\"\n\nHer voice came from near the front doors.\n\nShe hadn't moved.\n\nShe was standing beside the unfinished lock.\n\nLooking at it.\n\n\"I think...\"\n\nShe whispered.\n\n\"...it's just us now.\"\n\nI looked around one last time.\n\nShe was right."
   },
   {
     "id": "ch16-p04",
@@ -2185,7 +2185,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 5,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The church bell rang.\n\nNot outside.\n\nInside.\n\nOne slow note.\n\nThen another.\n\nThe sound rolled through the empty building.\n\nEmily closed her eyes.\n\n\"It's ending.\"\n\n\"What is?\"\n\nShe looked at me.\n\n\"I don't know.\"\n\n\"But I can feel it.\""
+    "text": "The church bell rang.\n\nNot outside.\n\nInside.\n\nOne slow note.\n\nThen another.\n\nThe sound rolled through the empty building.\n\nEmily closed her eyes.\n\nEmily\n\n\"It's ending.\"\n\nThomas\n\n\"What is?\" I asked.\n\nShe looked at me.\n\nEmily\n\n\"I don't know.\"\n\n\"But I can feel it.\""
   },
   {
     "id": "ch16-p06",
@@ -2196,7 +2196,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The young girl appeared beside the doors.\n\nShe looked different.\n\nNot older.\n\nLighter.\n\nAs if something heavy had begun lifting from her.\n\nShe looked around the empty church.\n\nThen back at us.\n\n\"They're gone.\"\n\nIt wasn't a question.\n\nIt was simply true."
+    "text": "The young girl appeared beside the doors.\n\nShe looked different.\n\nNot older.\n\nLighter.\n\nAs if something heavy had begun lifting from her.\n\nShe looked around the empty church.\n\nThen back at us.\n\nThe Girl\n\n\"They're gone.\"\n\nIt wasn't a question.\n\nIt was simply true."
   },
   {
     "id": "ch16-p07",
@@ -2207,7 +2207,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Where did they go?\"\n\nThe girl lowered her head.\n\n\"I don't know.\"\n\n\"You don't remember?\"\n\nShe slowly shook her head.\n\n\"I remember...\"\n\nShe searched for the words.\n\n\"...waiting.\"\n\nShe looked at the empty pews.\n\n\"I don't have to anymore.\""
+    "text": "Thomas\n\n\"Where did they go?\" I asked.\n\nThe girl lowered her head.\n\nThe Girl\n\n\"I don't know.\"\n\nThomas\n\n\"You don't remember?\"\n\nShe slowly shook her head.\n\nThe Girl\n\n\"I remember...\"\n\nShe searched for the words.\n\n\"...waiting.\"\n\nShe looked at the empty pews.\n\n\"I don't have to anymore.\""
   },
   {
     "id": "ch16-p08",
@@ -2240,7 +2240,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 10,
     "isChapterStart": false,
     "type": "prose",
-    "text": "Emily quietly stepped beside me.\n\nNeither of us spoke.\n\nShe placed her hands on the lever beside mine.\n\nI looked at her.\n\n\"You don't have to.\"\n\nShe smiled.\n\nThis time...\n\nIt was completely Emily.\n\n\"I know.\"\n\nShe nodded toward the iron.\n\n\"Together.\""
+    "text": "Emily quietly stepped beside me.\n\nNeither of us spoke.\n\nShe placed her hands on the lever beside mine.\n\nI looked at her.\n\nThomas\n\n\"You don't have to.\"\n\nShe smiled.\n\nThis time...\n\nIt was completely Emily.\n\nEmily\n\n\"I know.\"\n\nShe nodded toward the iron.\n\n\"Together.\""
   },
   {
     "id": "ch16-p11",
@@ -2273,7 +2273,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 13,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The young girl smiled.\n\nA real smile.\n\nThe first one I'd ever seen.\n\nShe looked at Emily.\n\nThen at me.\n\n\"Thank you.\"\n\nThere were no bright lights.\n\nNo thunder.\n\nNo miracle.\n\nShe simply...\n\nWasn't there anymore."
+    "text": "The young girl smiled.\n\nA real smile.\n\nThe first one I'd ever seen.\n\nShe looked at Emily.\n\nThen at me.\n\nThe Girl\n\n\"Thank you.\"\n\nThere were no bright lights.\n\nNo thunder.\n\nNo miracle.\n\nShe simply...\n\nWasn't there anymore."
   },
   {
     "id": "ch16-p14",
@@ -2284,7 +2284,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 14,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I opened my eyes.\n\nMorning sunlight.\n\nMy bedroom.\n\nThe quiet hum of the air conditioner.\n\nFor a long moment...\n\nI didn't move.\n\nThen I looked at my arm.\n\nThe numbers were gone.\n\nOnly the faintest scar remained.\n\nMy watch rested on the nightstand.\n\nTicking.\n\nNormal.\n\nMy phone buzzed.\n\nOne message.\n\n**Emily**\n\n> I'm outside.\n\nI opened the front door.\n\nShe was standing there exactly as she'd always been.\n\nFor a few seconds...\n\nNeither of us spoke.\n\nThen she smiled.\n\nPerfectly.\n\nNormally.\n\n\"I guess we both made it home.\"\n\nI looked past her.\n\nThe street was quiet.\n\nChildren rode bicycles.\n\nA dog barked somewhere down the block.\n\nAn ordinary morning.\n\nI smiled.\n\n\"I think we did.\"\n\nAs we started walking, I glanced at my watch.\n\nThe time hadn't skipped.\n\nNot once.\n\nI never looked back.\n\nNeither did Emily.\n\nWe never saw the empty sidewalk behind us.\n\nOr the little footprints in the morning dew.\n\nThey faded with the sunlight.\n\nAs though they had never been there at all."
+    "text": "I opened my eyes.\n\nMorning sunlight.\n\nMy bedroom.\n\nThe quiet hum of the air conditioner.\n\nFor a long moment...\n\nI didn't move.\n\nThen I looked at my arm.\n\nThe numbers were gone.\n\nOnly the faintest scar remained.\n\nMy watch rested on the nightstand.\n\nTicking.\n\nNormal.\n\nMy phone buzzed.\n\nOne message.\n\n**Emily**\n\n> I'm outside.\n\nI opened the front door.\n\nShe was standing there exactly as she'd always been.\n\nFor a few seconds...\n\nNeither of us spoke.\n\nThen she smiled.\n\nPerfectly.\n\nNormally.\n\nEmily\n\n\"I guess we both made it home.\"\n\nI looked past her.\n\nThe street was quiet.\n\nChildren rode bicycles.\n\nA dog barked somewhere down the block.\n\nAn ordinary morning.\n\nI smiled.\n\nThomas\n\n\"I think we did.\"\n\nAs we started walking, I glanced at my watch.\n\nThe time hadn't skipped.\n\nNot once.\n\nI never looked back.\n\nNeither did Emily.\n\nWe never saw the empty sidewalk behind us.\n\nOr the little footprints in the morning dew.\n\nThey faded with the sunlight.\n\nAs though they had never been there at all."
   },
   {
     "id": "after-p01",
@@ -2317,7 +2317,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 3,
     "isChapterStart": false,
     "type": "prose",
-    "text": "The scar faded over the next few weeks.\n\nSlowly.\n\nUntil only I knew where to look.\n\nMy watch never skipped again.\n\nI still caught myself checking my arm sometimes.\n\nOld habits don't disappear overnight.\n\nEmily would notice.\n\nShe never laughed.\n\nShe'd just smile and quietly say,\n\n\"It's still on your wrist.\"\n\nThen I'd look down.\n\nAnd she'd be right.\n\nEvery time."
+    "text": "The scar faded over the next few weeks.\n\nSlowly.\n\nUntil only I knew where to look.\n\nMy watch never skipped again.\n\nI still caught myself checking my arm sometimes.\n\nOld habits don't disappear overnight.\n\nEmily would notice.\n\nShe never laughed.\n\nShe'd just smile and quietly say,\n\nEmily\n\n\"It's still on your wrist.\"\n\nThen I'd look down.\n\nAnd she'd be right.\n\nEvery time."
   },
   {
     "id": "after-p04",
@@ -2350,7 +2350,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 6,
     "isChapterStart": false,
     "type": "prose",
-    "text": "One evening, almost a year later, we took the long way home.\n\nThe sun was beginning to set.\n\nThe same warm orange light that had filled the sky the day everything started.\n\nWe reached the corner where we'd first seen the little girl.\n\nWithout saying a word...\n\nWe both stopped walking.\n\nThe sidewalk looked ordinary.\n\nCars passed.\n\nPeople laughed.\n\nA dog barked somewhere across the street.\n\nNothing was unusual.\n\nEmily looked at me.\n\n\"You felt it too?\"\n\nI nodded.\n\n\"Yeah.\"\n\nShe smiled.\n\n\"I thought so.\"\n\nWe stood there another minute.\n\nThen kept walking."
+    "text": "One evening, almost a year later, we took the long way home.\n\nThe sun was beginning to set.\n\nThe same warm orange light that had filled the sky the day everything started.\n\nWe reached the corner where we'd first seen the little girl.\n\nWithout saying a word...\n\nWe both stopped walking.\n\nThe sidewalk looked ordinary.\n\nCars passed.\n\nPeople laughed.\n\nA dog barked somewhere across the street.\n\nNothing was unusual.\n\nEmily looked at me.\n\nEmily\n\n\"You felt it too?\"\n\nI nodded.\n\nThomas\n\n\"Yeah.\"\n\nShe smiled.\n\nEmily\n\n\"I thought so.\"\n\nWe stood there another minute.\n\nThen we kept walking."
   },
   {
     "id": "after-p07",
@@ -2361,7 +2361,7 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 7,
     "isChapterStart": false,
     "type": "prose",
-    "text": "\"Thomas?\"\n\nI looked over.\n\n\"Yeah?\"\n\nShe laughed softly.\n\n\"Text me when you get home.\"\n\nI laughed too.\n\n\"I will.\"\n\nWe both knew neither of us lived very far away.\n\nWe both knew it wasn't necessary.\n\nBut some promises...\n\nMean more after you've almost broken them forever."
+    "text": "Emily\n\n\"Thomas?\"\n\nI looked over.\n\nThomas\n\n\"Yeah?\" I said.\n\nShe laughed softly.\n\nEmily\n\n\"Text me when you get home.\"\n\nI laughed too.\n\nThomas\n\n\"I will.\"\n\nWe both knew neither of us lived very far away.\n\nWe both knew it wasn't necessary.\n\nBut some promises...\n\nMean more after you've almost broken them forever."
   },
   {
     "id": "after-p08",
@@ -2372,6 +2372,6 @@ const STORY_PAGES = Object.freeze([
     "pageNumber": 8,
     "isChapterStart": false,
     "type": "prose",
-    "text": "I watched her disappear around the corner.\n\nThen I checked my watch.\n\nThe second hand moved.\n\nSteady.\n\nPerfectly ordinary.\n\nI smiled.\n\nTurned toward home.\n\nAnd kept walking.\n\nBehind me...\n\nThe evening breeze stirred a few fallen leaves across the sidewalk.\n\nFor the briefest moment...\n\nThey sounded almost like tiny footsteps.\n\nI didn't turn around.\n\nNeither would have.\n\nSome doors are meant to stay closed.\n\nSome hours are meant to stay locked.\n\nAnd some stories...\n\nAre finally allowed to end.\n\n**The End.**"
+    "text": "I watched her disappear around the corner.\n\nThen I checked my watch.\n\nThe second hand moved.\n\nSteady.\n\nPerfectly ordinary.\n\nI smiled.\n\nI turned toward home.\n\nAnd I kept walking.\n\nBehind me...\n\nThe evening breeze stirred a few fallen leaves across the sidewalk.\n\nFor the briefest moment...\n\nThey sounded almost like tiny footsteps.\n\nI didn't turn around.\n\nNeither of us would have.\n\nSome doors are meant to stay closed.\n\nSome hours are meant to stay locked.\n\nAnd some stories...\n\nAre finally allowed to end.\n\n**The End.**"
   }
 ]);

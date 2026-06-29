@@ -335,6 +335,21 @@ a:focus-visible,
   margin-bottom: 0;
 }
 
+.page-copy .speaker-heading {
+  margin: 1.7rem 0 0.4rem;
+  color: var(--accent);
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  font-variant-caps: all-small-caps;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  line-height: 1.4;
+}
+
+.page-copy .speaker-heading:first-child {
+  margin-top: 0;
+}
+
 .page-copy strong {
   font-weight: 600;
 }
