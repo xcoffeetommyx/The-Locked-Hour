@@ -140,25 +140,43 @@ You'd get off work and somehow the day was already over.
 
 ## Page 3
 
+Emily
+
 "Eight hours," Emily said.
+
+Thomas
 
 "Yep."
 
+Emily
+
 "Felt like twelve."
+
+Thomas
 
 "Only because you spent six of them waiting to clock out."
 
 She looked at me like I had personally offended her.
 
+Emily
+
 "I was working."
+
+Thomas
 
 "Sure you were."
 
 She bumped my shoulder with hers.
 
+Emily
+
 "You know what? Next shift, you can deal with all the customers."
 
+Thomas
+
 "I already do."
+
+Emily
 
 "Exactly. You're getting practice."
 
@@ -180,21 +198,39 @@ Sometimes the walk after work felt like the only part of the day that belonged t
 
 ## Page 5
 
+Thomas
+
 "You doing anything tomorrow?" I asked.
+
+Emily
 
 "Sleeping," Emily said.
 
+Thomas
+
 "That's not a plan."
+
+Emily
 
 "It's absolutely a plan."
 
+Thomas
+
 "Until noon?"
+
+Emily
 
 "At least."
 
+Thomas
+
 "I don't think I've ever seen you awake before lunch on your day off."
 
+Emily
+
 "That's because you're always texting me before lunch."
+
+Thomas
 
 "Fair."
 
@@ -238,6 +274,8 @@ She looked cold, but she wasn't shivering.
 
 Emily's voice softened.
 
+Emily
+
 "Sweetie... are you okay?"
 
 The girl looked at her.
@@ -262,9 +300,13 @@ It was like pieces of the sentence had been removed before they reached us.
 
 I looked at Emily.
 
+Thomas
+
 "Did you understand that?"
 
 She shook her head.
+
+Emily
 
 "No."
 
@@ -314,13 +356,19 @@ There was nowhere she could have gone that quickly.
 
 Emily finally spoke.
 
+Emily
+
 "That was weird."
 
 ## Page 11
 
+Thomas
+
 "Maybe she ran," I said.
 
 Emily looked at me.
+
+Emily
 
 "That fast?"
 
@@ -330,11 +378,19 @@ It was a bad explanation.
 
 We both knew it.
 
+Thomas
+
 "Maybe her parents were close by."
+
+Emily
 
 "Thomas."
 
+Thomas
+
 "What?"
+
+Emily
 
 "Did that look like a kid messing around to you?"
 
@@ -360,19 +416,31 @@ When we reached the place where we normally split up, I stopped.
 
 Emily looked over.
 
+Emily
+
 "What?"
+
+Thomas
 
 "Text me when you get home."
 
 She smiled.
 
+Emily
+
 "I always do."
 
+Thomas
+
 "I know."
+
+Emily
 
 "Then why do you keep saying it?"
 
 I shrugged.
+
+Thomas
 
 "Habit."
 
@@ -380,7 +448,11 @@ I shrugged.
 
 She started walking backward for a few steps.
 
+Emily
+
 "Night, Thomas."
+
+Thomas
 
 "Night, Emily."
 
@@ -486,6 +558,8 @@ I laughed once under my breath.
 
 It sounded nervous.
 
+Thomas
+
 "This is a dream."
 
 Saying it out loud helped for exactly three seconds.
@@ -504,6 +578,8 @@ Something moved behind me.
 
 I spun around so fast I nearly slipped.
 
+Emily
+
 "Thomas!"
 
 Emily.
@@ -518,9 +594,13 @@ She ran toward me, stopping just short.
 
 I stared at her.
 
+Thomas
+
 "You remember?"
 
 Her expression changed immediately.
+
+Emily
 
 "So you remember."
 
@@ -536,9 +616,15 @@ How?
 
 Instead, Emily looked around.
 
+Emily
+
 "This isn't where we were," Emily said.
 
+Thomas
+
 "No."
+
+Emily
 
 "It doesn't even..."
 
@@ -546,9 +632,13 @@ She turned in a slow circle.
 
 "...make sense."
 
+Thomas
+
 "It has to be a dream."
 
 She looked back at me.
+
+Emily
 
 "If it's a dream..."
 
@@ -566,15 +656,25 @@ Then silence.
 
 Emily flinched.
 
+Emily
+
 "You heard that?"
 
+Thomas
+
 "Yeah."
+
+Emily
 
 "It sounded..."
 
 She stopped.
 
+Thomas
+
 "What?"
+
+Emily
 
 "I don't know."
 
@@ -594,9 +694,15 @@ Then another.
 
 ## Page 7
 
+Emily
+
 "We should move," Emily said quietly.
 
+Thomas
+
 "Toward the bell?"
+
+Emily
 
 "It's the only thing that sounds... human."
 
@@ -630,23 +736,37 @@ Toward the bell.
 
 As we followed the tracks, something caught Emily's attention.
 
+Emily
+
 "Thomas."
+
+Thomas
 
 "What?"
 
 She pointed at my wrist.
 
+Emily
+
 "You still wearing that watch?" she asked.
 
 I looked down.
+
+Thomas
 
 "Yeah."
 
 She frowned.
 
+Emily
+
 "Good."
 
+Thomas
+
 "Why?"
+
+Emily
 
 "I don't know."
 
@@ -656,9 +776,13 @@ She looked away almost immediately, embarrassed.
 
 I laughed.
 
+Thomas
+
 "That's oddly specific."
 
 She forced a smile.
+
+Emily
 
 "I know."
 
@@ -696,6 +820,8 @@ Often.
 
 Before either of us could get closer—
 
+A Survivor
+
 "Run!"
 
 The voice came from somewhere to our left.
@@ -710,7 +836,11 @@ Another reached for Emily.
 
 "Don't just stand there!"
 
+Thomas
+
 "What's happening?" I shouted.
+
+A Survivor
 
 "No time!"
 
@@ -762,6 +892,8 @@ Everyone else's.
 
 Then someone shouted.
 
+A Voice
+
 "Bar it!"
 
 The room came alive.
@@ -786,6 +918,8 @@ Many times.
 
 ## Page 3
 
+Emily
+
 "Thomas!"
 
 Emily grabbed my sleeve.
@@ -793,6 +927,8 @@ Emily grabbed my sleeve.
 "They're telling us to help."
 
 One of the older men waved us over.
+
+The Old Man
 
 "If you're standing, you're pushing."
 
@@ -803,6 +939,8 @@ I put both hands on the freezing iron beside everyone else.
 It felt smooth from years of use.
 
 ## Page 4
+
+A Voice
 
 "Ready."
 
@@ -846,13 +984,19 @@ It refused to move another inch.
 
 The old man finally let go.
 
+The Old Man
+
 "That's enough."
 
 I looked at him.
 
+Thomas
+
 "...Enough?"
 
 He nodded.
+
+The Old Man
 
 "It won't go any farther."
 
@@ -872,11 +1016,15 @@ Maybe less.
 
 It looked unfinished.
 
+Thomas
+
 "Shouldn't it lock all the way?"
 
 No one answered immediately.
 
 Finally, a woman near the front said quietly,
+
+A Woman
 
 "It hasn't... in a very long time."
 
@@ -894,15 +1042,23 @@ Doors were either locked...
 
 Emily stepped beside me.
 
+Emily
+
 "It really won't move?" Emily asked.
 
 The old man shook his head.
 
+The Old Man
+
 "It never does."
+
+Emily
 
 "You've tried?"
 
 A tired smile crossed his face.
+
+The Old Man
 
 "Every night."
 
@@ -976,9 +1132,15 @@ Moving around the outside of the church.
 
 Emily leaned closer.
 
+Emily
+
 "Thomas..."
 
+Thomas
+
 "I hear it," I said.
+
+Emily
 
 "It sounds like..."
 
@@ -992,6 +1154,8 @@ Circling.
 
 The old man quietly picked up a lantern.
 
+The Old Man
+
 "They're early tonight."
 
 No one asked who "they" were.
@@ -1002,13 +1166,19 @@ I walked toward one of the boarded windows.
 
 A hand caught my arm before I reached it.
 
+The Old Man
+
 "Don't."
 
 The old man again.
 
+Thomas
+
 "Why?"
 
 He looked at the boards.
+
+The Old Man
 
 "Sometimes..."
 
@@ -1053,6 +1223,8 @@ The howls echoed across the snow until I couldn't tell how many surrounded us.
 ## Page 14
 
 Emily spoke so quietly I almost didn't hear her.
+
+Emily
 
 "I don't think those are all wolves."
 
@@ -1108,6 +1280,8 @@ Not because anything was funny.
 
 Because I had never been so happy to wake up.
 
+Thomas
+
 "It was just a dream."
 
 I believed it.
@@ -1133,6 +1307,8 @@ They still felt stiff.
 Almost numb.
 
 I shook my head.
+
+Thomas
 
 "You're overthinking it."
 
@@ -1171,6 +1347,8 @@ Then I laughed again.
 Much quieter this time.
 
 ## Page 4
+
+Thomas
 
 "No."
 
@@ -1250,9 +1428,13 @@ Neither of us spoke.
 
 Finally...
 
+Emily
+
 "You remember."
 
 It wasn't a question.
+
+Thomas
 
 "No," I said automatically.
 
@@ -1264,21 +1446,37 @@ Then I sighed.
 
 ## Page 7
 
+Thomas
+
 "You?"
+
+Emily
 
 "I remember all of it," Emily said.
 
+Thomas
+
 "The church?"
 
+Emily
+
 "Yes."
+
+Thomas
 
 "The wolves?"
 
 Another pause.
 
+Emily
+
 "...Yes."
 
+Thomas
+
 "The people?"
+
+Emily
 
 "I remember them too."
 
@@ -1288,15 +1486,23 @@ Not once.
 
 ## Page 8
 
+Thomas
+
 "I checked my shoes," I said.
 
 Emily was quiet.
+
+Emily
 
 "So did I."
 
 My stomach dropped.
 
+Thomas
+
 "There was mud."
+
+Emily
 
 "There was mud."
 
@@ -1308,11 +1514,19 @@ It wasn't funny anymore.
 
 ## Page 9
 
+Thomas
+
 "I keep trying to remember how we got home," I said.
+
+Emily
 
 "I know."
 
+Thomas
+
 "I can't."
+
+Emily
 
 "I can't either."
 
@@ -1324,7 +1538,11 @@ Then Emily asked something that hadn't occurred to me.
 
 I frowned.
 
+Thomas
+
 "Yeah."
+
+Emily
 
 "No."
 
@@ -1366,17 +1584,27 @@ I was freezing in the snow.
 
 ## Page 11
 
+Emily
+
 "What if..." Emily started.
 
 She stopped herself.
 
+Thomas
+
 "What?"
 
+Emily
+
 "It sounds stupid."
+
+Thomas
 
 "Try me."
 
 Another long pause.
+
+Emily
 
 "What if..."
 
@@ -1394,15 +1622,25 @@ Morning traffic.
 
 Everything looked perfectly ordinary.
 
+Thomas
+
 "It had to be a dream."
+
+Emily
 
 "It doesn't feel like one."
 
+Thomas
+
 "No."
+
+Emily
 
 "It doesn't."
 
 ## Page 12
+
+Emily
 
 "We should stay awake tonight," Emily said.
 
@@ -1412,9 +1650,13 @@ A tired laugh.
 
 "Seriously," she said.
 
+Thomas
+
 "I'm serious too," I told her.
 
 "We don't know that's what caused it."
+
+Emily
 
 "We don't know it didn't."
 
@@ -1424,19 +1666,35 @@ Neither of us liked it.
 
 ## Page 13
 
+Thomas
+
 "I'll make coffee," I said.
+
+Emily
 
 "I already am."
 
+Thomas
+
 "I'll keep texting you."
+
+Emily
 
 "I know."
 
+Thomas
+
 "If one of us starts getting tired..."
+
+Emily
 
 "We call," Emily said.
 
+Thomas
+
 "No matter how late."
+
+Emily
 
 "No matter how late."
 
@@ -1450,9 +1708,15 @@ Neither of us smiled.
 
 Before we hung up, Emily said my name.
 
+Emily
+
 "Thomas."
 
+Thomas
+
 "Yeah?"
+
+Emily
 
 "If we do go back..."
 
@@ -1462,11 +1726,15 @@ I waited.
 
 I swallowed.
 
+Thomas
+
 "I won't."
 
 Another pause.
 
 Then she quietly said,
+
+Emily
 
 "I believe you."
 
@@ -1516,6 +1784,8 @@ Required ending:
 >  
 > Emily whispered,  
 >  
+> Emily  
+>  
 > "We're back."  
 >  
 > I opened my eyes.  
@@ -1556,9 +1826,13 @@ White ground.
 
 I didn't even have to look around.
 
+Thomas
+
 "Emily."
 
 ## Page 2
+
+Emily
 
 "I'm here."
 
@@ -1574,9 +1848,13 @@ Not because we were back.
 
 Because neither of us had arrived alone.
 
+Thomas
+
 "You okay?"
 
 She nodded.
+
+Emily
 
 "As okay as someone can be after waking up in another century."
 
@@ -1604,11 +1882,17 @@ Our footprints were the only fresh ones.
 
 Until Emily stopped.
 
+Emily
+
 "Thomas."
+
+Thomas
 
 "What?"
 
 She pointed down.
+
+Emily
 
 "They're not."
 
@@ -1672,6 +1956,8 @@ He looked directly at me.
 
 Then at Emily.
 
+The Old Man
+
 "There you are."
 
 Not...
@@ -1690,9 +1976,13 @@ Like we'd simply come home late.
 
 ## Page 7
 
+Thomas
+
 "You remember us?"
 
 The old man frowned.
+
+The Old Man
 
 "'Course I do."
 
@@ -1702,9 +1992,13 @@ The old man noticed.
 
 "What?"
 
+Thomas
+
 "You remember yesterday?"
 
 His forehead wrinkled.
+
+The Old Man
 
 "What do you mean yesterday?"
 
@@ -1756,6 +2050,8 @@ I counted three more empty places before I stopped looking.
 
 ## Page 10
 
+Thomas
+
 "Where did they go?"
 
 The question slipped out before I could stop it.
@@ -1767,6 +2063,8 @@ No one looked at me.
 Finally...
 
 The old man answered.
+
+The Old Man
 
 "They didn't make it."
 
@@ -1784,9 +2082,13 @@ Just...
 
 Emily touched my arm.
 
+Emily
+
 "Come here."
 
 She was standing near one of the side walls.
+
+Thomas
 
 "What?"
 
@@ -1814,6 +2116,8 @@ Running almost the entire length of the wall.
 
 ## Page 12
 
+Emily
+
 "Thomas..."
 
 Emily's voice barely carried.
@@ -1832,17 +2136,25 @@ Whoever made them had been counting...
 
 for a very long time.
 
+Thomas
+
 "Days?"
 
 I whispered.
 
 Emily slowly shook her head.
 
+Emily
+
 "I don't think so."
+
+Thomas
 
 "What then?"
 
 She looked at me.
+
+Emily
 
 "I don't know."
 
@@ -1853,6 +2165,8 @@ Emily looked truly frightened.
 ## Page 13
 
 Later that afternoon, one of the survivors carefully pulled back a loose board covering a window.
+
+A Survivor
 
 "Quick."
 
@@ -1892,13 +2206,19 @@ It didn't blink.
 
 The survivor quietly pushed the board back into place.
 
+A Survivor
+
 "You don't want them knowing you're watching."
 
 I looked at him.
 
+Thomas
+
 "Why?"
 
 He shrugged.
+
+A Survivor
 
 "They notice."
 
@@ -1909,6 +2229,8 @@ The church bell rang once.
 Everyone inside stopped what they were doing.
 
 The old man quietly stood.
+
+The Old Man
 
 "Night remembers."
 
@@ -1958,13 +2280,21 @@ As if the thing outside had merely been bad weather.
 
 Emily walked beside me between the pews.
 
+Emily
+
 "They really live here," she said.
 
 I nodded.
 
+Thomas
+
 "I thought they'd be waiting for daylight."
 
+Emily
+
 "They are."
+
+Thomas
 
 "What do you mean?"
 
@@ -2038,31 +2368,49 @@ I never had.
 
 ## Page 6
 
+Emily
+
 "You finally noticed."
 
 Emily's voice was quiet.
 
 I looked at her.
 
+Thomas
+
 "You knew?" I asked.
 
 She nodded.
 
+Emily
+
 "I noticed when we woke up."
+
+Thomas
 
 "You did?"
 
+Emily
+
 "I was waiting."
+
+Thomas
 
 "For what?"
 
 She looked down at my wrist.
 
+Emily
+
 "For you to say something."
+
+Thomas
 
 "Why didn't you?"
 
 She hesitated.
+
+Emily
 
 "I was hoping I was imagining it."
 
@@ -2078,13 +2426,19 @@ It was as if watches simply...
 
 didn't belong here.
 
+Thomas
+
 "I don't understand."
 
 Emily shook her head.
 
+Emily
+
 "Neither do I."
 
 Then I remembered.
+
+Thomas
 
 "There was something else."
 
@@ -2092,9 +2446,13 @@ Then I remembered.
 
 I rolled my sleeve back.
 
+Thomas
+
 "I felt something."
 
 Emily leaned closer.
+
+Emily
 
 "What?"
 
@@ -2148,13 +2506,19 @@ The numbers changed.
 
 Emily stumbled backward.
 
+Emily
+
 "What..."
 
 She looked at my arm again.
 
 "...Thomas..."
 
+Thomas
+
 "I know."
+
+Emily
 
 "No..."
 
@@ -2162,11 +2526,17 @@ She shook her head.
 
 "They just..."
 
+Thomas
+
 "I know."
+
+Emily
 
 "They skipped."
 
 I nodded slowly.
+
+Thomas
 
 "They skipped."
 
@@ -2194,9 +2564,13 @@ It was simply...
 
 part of me.
 
+Thomas
+
 "I don't understand."
 
 Emily whispered,
+
+Emily
 
 "I don't think we're supposed to."
 
@@ -2216,11 +2590,15 @@ It was as though she wasn't there.
 
 Emily grabbed my sleeve.
 
+Emily
+
 "You see her?"
 
 I nodded.
 
 Slowly.
+
+Thomas
 
 "Yeah."
 
@@ -2242,6 +2620,8 @@ Still broken.
 
 Still missing pieces.
 
+The Girl
+
 "...don't..."
 
 "...after..."
@@ -2251,6 +2631,8 @@ Still missing pieces.
 "...locked..."
 
 Emily took one cautious step toward her.
+
+Emily
 
 "Wait!"
 
@@ -2332,17 +2714,27 @@ Emily was carrying folded blankets.
 
 She looked up and smiled when she saw I was awake.
 
+Emily
+
 "Morning."
+
+Thomas
 
 "Morning."
 
 She laughed softly.
 
+Emily
+
 "It feels weird saying that here."
+
+Thomas
 
 "I was just thinking the same thing."
 
 She handed a blanket to the older woman.
+
+Emily
 
 "I figured sitting around wasn't helping anybody."
 
@@ -2350,13 +2742,19 @@ She handed a blanket to the older woman.
 
 The older woman walked over to me holding a small hammer.
 
+The Older Woman
+
 "You mind?"
 
 I took it without thinking.
 
+Thomas
+
 "What needs fixing?"
 
 She pointed toward one of the boarded windows.
+
+The Older Woman
 
 "That one's loose."
 
@@ -2378,9 +2776,13 @@ Cold air slipped through the gap.
 
 As I held it in place, I looked across the church.
 
+Thomas
+
 "They're busy."
 
 Emily nodded.
+
+Emily
 
 "They have routines."
 
@@ -2396,9 +2798,13 @@ did.
 
 I wiped sawdust from my hands.
 
+Thomas
+
 "Do you know any of their names?"
 
 Emily looked surprised.
+
+Emily
 
 "I was literally about to ask you the same thing."
 
@@ -2416,19 +2822,29 @@ The old man was repairing one of the pews.
 
 I walked over.
 
+Thomas
+
 "Can I ask you something?"
 
 He looked up.
+
+The Old Man
 
 "You just did."
 
 I couldn't help smiling.
 
+Thomas
+
 "Fair enough."
 
 He smiled back.
 
+The Old Man
+
 "What did you want to know?"
+
+Thomas
 
 "...What's your name?"
 
@@ -2444,19 +2860,29 @@ Long enough that I wondered if he hadn't heard me.
 
 Finally...
 
+The Old Man
+
 "Samuel."
 
 He said it carefully.
 
 Like he'd taken it down from a dusty shelf.
 
+Thomas
+
 "I'm Thomas," I said.
 
 Samuel nodded.
 
+Samuel
+
 "I know."
 
+Thomas
+
 "You do?"
+
+Samuel
 
 "You told me yesterday."
 
@@ -2468,17 +2894,27 @@ She looked just as unsettled as I felt.
 
 Emily stepped closer.
 
+Emily
+
 "Samuel..."
 
+Samuel
+
 "Mm?"
+
+Emily
 
 "What day is it?" she asked.
 
 Samuel frowned.
 
+Samuel
+
 "...Morning."
 
 Emily smiled politely.
+
+Emily
 
 "No, I mean..."
 
@@ -2489,6 +2925,8 @@ She searched for another way to ask.
 Samuel thought about it.
 
 Then he quietly answered,
+
+Samuel
 
 "Today."
 
@@ -2522,6 +2960,8 @@ He couldn't have been older than eight.
 
 He stared at my forearm.
 
+The Boy
+
 "You got yours."
 
 I followed his eyes.
@@ -2532,13 +2972,19 @@ Quietly changing beneath my skin.
 
 ## Page 12
 
+Thomas
+
 "You've seen this before?" I asked.
 
 He nodded.
 
+The Boy
+
 "Sometimes."
 
 My heart skipped.
+
+Thomas
 
 "Who else?"
 
@@ -2560,6 +3006,8 @@ absence.
 
 Emily quietly walked over beside me.
 
+Emily
+
 "What did he say?"
 
 I didn't answer immediately.
@@ -2577,6 +3025,8 @@ Every lantern.
 Every face.
 
 Then I finally spoke.
+
+Thomas
 
 "I don't think we're the first."
 
@@ -2618,6 +3068,8 @@ Then at me.
 
 Then at Emily.
 
+Samuel
+
 "We'll need every hand."
 
 For the first time...
@@ -2658,21 +3110,31 @@ Coats were pulled over shoulders.
 
 Samuel picked up his lantern.
 
+Samuel
+
 "Come on."
 
 ## Page 2
 
 I followed him toward the front doors.
 
+Thomas
+
 "Where are we going?"
 
 He looked at me like the answer was obvious.
+
+Samuel
 
 "To bring them home."
 
 Emily frowned.
 
+Emily
+
 "...Who?"
+
+Samuel
 
 "The ones who haven't made it back yet."
 
@@ -2702,6 +3164,8 @@ Everyone listened.
 
 Samuel nodded once.
 
+Samuel
+
 "Go."
 
 The church emptied into the snow.
@@ -2726,6 +3190,8 @@ Nobody called loudly.
 
 Only enough to carry a short distance.
 
+The Search Party
+
 "Mary?"
 
 Nothing.
@@ -2738,6 +3204,8 @@ Only wind.
 
 Emily suddenly knelt.
 
+Emily
+
 "Thomas."
 
 Fresh footprints.
@@ -2747,6 +3215,8 @@ Small ones.
 Leading away from the church.
 
 Samuel crouched beside her.
+
+Samuel
 
 "They're recent."
 
@@ -2774,6 +3244,8 @@ Very quietly.
 
 Samuel lifted his own lantern higher.
 
+Samuel
+
 "There!"
 
 An older woman sat against the side of a building, clutching one ankle.
@@ -2786,6 +3258,8 @@ She looked up when she saw us.
 
 Relief washed across her face.
 
+The Older Woman
+
 "I thought..."
 
 She stopped to catch her breath.
@@ -2793,6 +3267,8 @@ She stopped to catch her breath.
 "I couldn't..."
 
 Samuel knelt beside her.
+
+Samuel
 
 "Can you stand?"
 
@@ -2803,6 +3279,8 @@ Winced.
 Shook her head.
 
 Emily was already beside her.
+
+Emily
 
 "We've got you."
 
@@ -2830,9 +3308,13 @@ Listening.
 
 I finally asked,
 
+Thomas
+
 "What are you listening for?"
 
 Samuel answered without looking away.
+
+Samuel
 
 "When they stop making noise."
 
@@ -2849,6 +3331,8 @@ No wind.
 Even our footsteps sounded too loud.
 
 Samuel quietly said,
+
+Samuel
 
 "Faster."
 
@@ -2875,6 +3359,8 @@ Then another.
 Closer.
 
 Emily tightened her grip on the woman.
+
+Emily
 
 "We're almost there."
 
@@ -2908,6 +3394,8 @@ Samuel didn't look at them.
 
 He simply said,
 
+Samuel
+
 "Don't run."
 
 ## Page 12
@@ -2930,6 +3418,8 @@ A man.
 
 Running.
 
+The Runner
+
 "W...wait!"
 
 I turned.
@@ -2942,17 +3432,27 @@ I took one step toward him.
 
 Samuel grabbed my arm.
 
+Samuel
+
 "No."
+
+Thomas
 
 "We can get him," I said.
 
+Samuel
+
 "No."
+
+Thomas
 
 "We're right here!"
 
 Samuel's grip tightened.
 
 His voice stayed calm.
+
+Samuel
 
 "If you go now..."
 
@@ -3003,6 +3503,8 @@ I stood staring at the door.
 Samuel quietly placed one hand on my shoulder.
 
 Without looking at me, he said,
+
+Samuel
 
 "You never get used to it."
 
@@ -3066,21 +3568,33 @@ I found Samuel repairing one of the benches.
 
 He didn't look up when I sat beside him.
 
+Thomas
+
 "What happened to him?" I asked.
 
 Samuel kept sanding the wood.
+
+Samuel
 
 "We'll know today."
 
 I frowned.
 
+Thomas
+
 "What does that mean?"
 
 He finally stopped working.
 
+Samuel
+
 "There are only two possibilities."
 
+Thomas
+
 "What are they?"
+
+Samuel
 
 "He comes back."
 
@@ -3100,9 +3614,13 @@ Neither of us spoke for a while.
 
 Finally, Emily asked,
 
+Emily
+
 "Does that happen often?"
 
 Samuel nodded once.
+
+Samuel
 
 "Often enough."
 
@@ -3144,15 +3662,25 @@ She didn't say anything.
 
 Later that morning, Emily found me near the front doors.
 
+Emily
+
 "I've noticed something," she said.
 
+Thomas
+
 "What?"
+
+Emily
 
 "The memories."
 
 I looked at her.
 
+Thomas
+
 "What about them?"
+
+Emily
 
 "I don't think everyone remembers things the way we do."
 
@@ -3160,21 +3688,35 @@ I looked at her.
 
 She pointed toward the older woman.
 
+Emily
+
 "I thanked her for the blankets."
 
+Thomas
+
 "And?" I asked.
+
+Emily
 
 "She asked me what blankets."
 
 I frowned.
 
+Thomas
+
 "Maybe she forgot."
 
 Emily slowly shook her head.
 
+Emily
+
 "No..."
 
+Thomas
+
 "Then what?"
+
+Emily
 
 "I don't think she remembered yesterday."
 
@@ -3201,6 +3743,8 @@ Like memory itself was breaking apart.
 ## Page 9
 
 Emily suddenly stopped walking.
+
+Emily
 
 "There."
 
@@ -3236,9 +3780,15 @@ Like listening to someone speak through a wall.
 
 Emily whispered,
 
+Emily
+
 "I heard something."
 
+Thomas
+
 "What?"
+
+Emily
 
 "I..."
 
@@ -3292,9 +3842,13 @@ People followed.
 
 Emily looked at me.
 
+Emily
+
 "This feels different."
 
 I nodded.
+
+Thomas
 
 "It does."
 
@@ -3324,6 +3878,8 @@ Nobody else had.
 
 ## Page 14
 
+Thomas
+
 "He's alive."
 
 Nobody moved.
@@ -3350,17 +3906,27 @@ Samuel's face lost what little color it had.
 
 He spoke only three words.
 
+Samuel
+
 "Close the doors."
 
 I looked at him.
+
+Thomas
 
 "What?"
 
 Samuel didn't even look away from the man.
 
+Samuel
+
 "Close the doors."
 
+Thomas
+
 "Samuel..."
+
+Samuel
 
 "Now."
 
@@ -3398,7 +3964,11 @@ I took one step toward the doorway.
 
 Samuel's hand landed on my shoulder.
 
+Samuel
+
 "Stay."
+
+Thomas
 
 "He's alive."
 
@@ -3428,17 +3998,25 @@ I looked at Emily.
 
 She looked just as confused as I felt.
 
+Emily
+
 "He made it," Emily said.
 
 Samuel quietly answered before I could move.
+
+Samuel
 
 "No."
 
 I turned toward him.
 
+Thomas
+
 "What do you mean no?"
 
 Samuel never looked away from the man.
+
+Samuel
 
 "He didn't."
 
@@ -3474,6 +4052,8 @@ Instead...
 
 He quietly said,
 
+The Man
+
 "Thomas."
 
 Every muscle in my body tightened.
@@ -3486,15 +4066,21 @@ I was certain of it.
 
 Samuel's voice remained calm.
 
+Samuel
+
 "Don't answer."
 
 ## Page 6
+
+Thomas
 
 "How does he know my name?"
 
 No one answered.
 
 The man smiled again.
+
+The Man
 
 "Thomas."
 
@@ -3512,17 +4098,27 @@ No emotion.
 
 Emily stepped beside me.
 
+Emily
+
 "Something's wrong."
 
 ## Page 7
+
+Thomas
 
 "What?" I asked.
 
 She never took her eyes off him.
 
+Emily
+
 "Watch."
 
+Thomas
+
 "I am."
+
+Emily
 
 "No..."
 
@@ -3584,6 +4180,8 @@ He took one step backward.
 
 Samuel quietly whispered,
 
+Samuel
+
 "It's here."
 
 ## Page 10
@@ -3631,6 +4229,8 @@ Children were gathered.
 Blankets were pulled away from the doors.
 
 Samuel grabbed the lever.
+
+Samuel
 
 "We're closing."
 
@@ -3704,11 +4304,17 @@ Neither of us spoke for a long time.
 
 Finally, I whispered,
 
+Thomas
+
 "What was that?"
 
 Samuel answered quietly.
 
+Samuel
+
 "It was testing us."
+
+Thomas
 
 "What was?"
 
@@ -3782,9 +4388,15 @@ There wasn't one.
 
 Emily quietly walked over.
 
+Emily
+
 "They're changing faster."
 
+Thomas
+
 "You noticed?"
+
+Emily
 
 "I've been noticing."
 
@@ -3796,6 +4408,8 @@ Emily wasn't looking at me anymore.
 
 She was staring toward the far corner of the church.
 
+Thomas
+
 "What?" I asked.
 
 She didn't answer.
@@ -3804,15 +4418,23 @@ I followed her eyes.
 
 Nothing.
 
+Emily
+
 "Emily?"
+
+Thomas
 
 "I can see her."
 
 My stomach tightened.
 
+Emily
+
 "Who?"
 
 She slowly raised one shaking finger.
+
+Thomas
 
 "There."
 
@@ -3862,6 +4484,8 @@ Then...
 
 A whisper.
 
+The Girl
+
 "So..."
 
 Soft.
@@ -3871,6 +4495,8 @@ Broken.
 "...close..."
 
 Emily looked at me.
+
+Emily
 
 "You heard that?"
 
@@ -3884,6 +4510,8 @@ The words came separately.
 
 Like pieces of different conversations.
 
+The Girl
+
 "...don't..."
 
 "...hour..."
@@ -3894,13 +4522,21 @@ Like pieces of different conversations.
 
 I frowned.
 
+Thomas
+
 "I still can't—"
 
 Emily interrupted.
 
+Emily
+
 "I heard 'let.'"
 
+Thomas
+
 "What?"
+
+Emily
 
 "'Let.'"
 
@@ -3912,11 +4548,17 @@ She nodded.
 
 Again.
 
+The Girl
+
 "...don't..."
 
 Emily whispered,
 
+Emily
+
 "Don't..."
+
+The Girl
 
 "...let..."
 
@@ -3944,17 +4586,25 @@ He wasn't surprised.
 
 He simply looked where we were looking.
 
+Samuel
+
 "You see her."
 
 It wasn't a question.
+
+Thomas
 
 "You do too?" I asked.
 
 He nodded once.
 
+Samuel
+
 "I used to."
 
 Emily turned toward him.
+
+Emily
 
 "Who is she?"
 
@@ -3964,11 +4614,17 @@ For a very long time.
 
 Finally...
 
+Samuel
+
 "I don't remember."
 
 ## Page 9
 
+Thomas
+
 "You don't remember?" I asked.
+
+Samuel
 
 "I used to."
 
@@ -4000,9 +4656,15 @@ She ran her fingers across the wood.
 
 Something stopped her.
 
+Emily
+
 "Thomas."
 
+Thomas
+
 "What?"
+
+Emily
 
 "Come here."
 
@@ -4038,11 +4700,17 @@ At the giant lever.
 
 Emily looked at me.
 
+Emily
+
 "I don't think these are just tallies."
+
+Thomas
 
 "What do you think they are?"
 
 She slowly shook her head.
+
+Emily
 
 "I don't know."
 
@@ -4084,6 +4752,8 @@ She took one hurried step toward us.
 
 Her voice came stronger than ever before.
 
+The Girl
+
 "...after..."
 
 She struggled.
@@ -4096,9 +4766,13 @@ Her hands trembled.
 
 Emily grabbed my arm.
 
+Emily
+
 "Thomas..."
 
 The girl forced the last words out.
+
+The Girl
 
 "...is..."
 
@@ -4121,6 +4795,8 @@ Somehow...
 The space between us had finally closed.
 
 Tears filled her eyes.
+
+The Girl
 
 "Don't..."
 
@@ -4188,9 +4864,13 @@ I still noticed.
 
 Emily noticed too.
 
+Emily
+
 "You alright?"
 
 Samuel looked toward the windows.
+
+Samuel
 
 "I don't like tonight."
 
@@ -4233,6 +4913,8 @@ Nothing.
 Even the wind seemed quieter.
 
 Emily whispered,
+
+Emily
 
 "I don't like this either."
 
@@ -4304,6 +4986,8 @@ gone.
 
 Emily looked at me.
 
+Emily
+
 "I don't understand."
 
 Neither did I.
@@ -4321,6 +5005,8 @@ I listened too.
 Nothing.
 
 Samuel quietly spoke one word.
+
+Samuel
 
 "Run."
 
@@ -4362,7 +5048,11 @@ Snow exploded across the road.
 
 I couldn't see more than a few feet.
 
+Thomas
+
 "Emily!"
+
+Emily
 
 "I'm here!" Emily shouted.
 
@@ -4378,7 +5068,11 @@ Nothing.
 
 ## Page 10
 
+Thomas
+
 "Emily!"
+
+Emily
 
 "I'm okay!" Emily shouted.
 
@@ -4398,7 +5092,11 @@ I spun in circles.
 
 "Thomas!"
 
+Thomas
+
 "I can't see you!" I shouted back.
+
+Emily
 
 "I know!"
 
@@ -4408,19 +5106,33 @@ Someone grabbed my arm.
 
 Samuel.
 
+Samuel
+
 "We have to move."
+
+Thomas
 
 "Emily's still out there," I said.
 
+Samuel
+
 "I know."
+
+Thomas
 
 "We have to find her."
 
 Samuel looked into the white storm.
 
+Samuel
+
 "We can't."
 
+Thomas
+
 "You don't know that."
+
+Samuel
 
 "I do."
 
@@ -4438,13 +5150,21 @@ Samuel practically pushed me through.
 
 I fought him.
 
+Thomas
+
 "No!" I shouted.
 
+Samuel
+
 "Thomas!"
+
+Thomas
 
 "I'm going back!"
 
 Samuel grabbed both my shoulders.
+
+Samuel
 
 "If you leave now..."
 
@@ -4476,6 +5196,8 @@ Through the storm...
 
 I heard her.
 
+Emily
+
 "Thomas!"
 
 Emily.
@@ -4490,11 +5212,15 @@ Toward the door.
 
 Samuel caught my arm.
 
+Samuel
+
 "Don't."
 
 Another voice.
 
 Farther away.
+
+Emily
 
 "Thomas!"
 
@@ -4540,6 +5266,8 @@ Soft.
 
 Almost gentle.
 
+Samuel
+
 "If that's Emily..."
 
 He stopped.
@@ -4563,6 +5291,8 @@ tired.
 Like he'd already watched this happen before.
 
 I heard her again.
+
+Emily
 
 "Thomas..."
 
@@ -4592,6 +5322,8 @@ I caught her before she fell.
 
 She wrapped both arms around me.
 
+Emily
+
 "I thought..."
 
 Her voice shook.
@@ -4601,6 +5333,8 @@ Her voice shook.
 ## Page 4
 
 I held her tighter.
+
+Thomas
 
 "It's okay."
 
@@ -4642,6 +5376,8 @@ Someone handed her a cup.
 
 She whispered,
 
+Emily
+
 "Thank you."
 
 Exactly like Emily would.
@@ -4658,11 +5394,17 @@ She laughed once.
 
 Very quietly.
 
+Emily
+
 "You should've seen your face."
 
 I smiled.
 
+Thomas
+
 "I thought I lost you."
+
+Emily
 
 "You almost did."
 
@@ -4682,6 +5424,8 @@ watching.
 
 Eventually, I walked over.
 
+Thomas
+
 "You were wrong."
 
 Samuel didn't answer.
@@ -4694,6 +5438,8 @@ Nothing.
 
 Samuel finally looked at me.
 
+Samuel
+
 "So did someone else."
 
 ## Page 8
@@ -4704,11 +5450,17 @@ Before I could ask...
 
 Emily spoke.
 
+Emily
+
 "Thomas?"
+
+Thomas
 
 "Yeah?"
 
 She looked toward one of the boarded windows.
+
+Emily
 
 "What time is it?"
 
@@ -4732,13 +5484,21 @@ Longer than she should have.
 
 ## Page 9
 
+Thomas
+
 "You okay?"
 
 She blinked.
 
+Emily
+
 "What?"
 
+Thomas
+
 "You were staring."
+
+Emily
 
 "Oh."
 
@@ -4784,9 +5544,15 @@ Neither of us spoke for a while.
 
 Finally, she whispered,
 
+Emily
+
 "I heard something."
 
+Thomas
+
 "What?"
+
+Emily
 
 "Outside."
 
@@ -4794,9 +5560,13 @@ I listened.
 
 Nothing.
 
+Thomas
+
 "What did you hear?"
 
 She frowned.
+
+Emily
 
 "I don't remember."
 
@@ -4874,6 +5644,8 @@ Too quietly for anyone else to hear.
 
 I leaned closer.
 
+Thomas
+
 "What?"
 
 She looked at me.
@@ -4887,6 +5659,8 @@ Then they did again.
 She smiled.
 
 Very softly.
+
+Emily
 
 "I think..."
 
@@ -4938,15 +5712,23 @@ Not looking outside.
 
 Listening.
 
+Thomas
+
 "You okay?"
 
 She nodded.
 
 A second too late.
 
+Emily
+
 "I heard someone."
 
+Thomas
+
 "There isn't anyone out there."
+
+Emily
 
 "I know."
 
@@ -4960,19 +5742,29 @@ Samuel noticed us watching him.
 
 He quietly walked over.
 
+Samuel
+
 "You didn't sleep."
 
 Neither of us answered.
 
 Finally, I asked,
 
+Thomas
+
 "What happened after I opened the door?"
 
 Samuel looked toward the unfinished lock.
 
+Samuel
+
 "It moved."
 
+Thomas
+
 "I know."
+
+Samuel
 
 "No."
 
@@ -4986,19 +5778,31 @@ Heavy.
 
 ## Page 4
 
+Thomas
+
 "I need you to explain this," I said.
 
 Samuel looked tired.
 
+Samuel
+
 "I can't."
+
+Thomas
 
 "You have to know something."
 
+Samuel
+
 "I know the rules."
+
+Thomas
 
 "Then tell me."
 
 Samuel looked directly at me.
+
+Samuel
 
 "I don't know why they're the rules."
 
@@ -5036,13 +5840,23 @@ The numbers on my arm jumped again.
 
 Emily quietly reached for my hand.
 
+Emily
+
 "Thomas..."
+
+Thomas
 
 "What?" I asked.
 
+Emily
+
 "They're changing faster."
 
+Thomas
+
 "I know."
+
+Emily
 
 "No."
 
@@ -5098,6 +5912,8 @@ She was looking at Emily.
 
 Emily stepped forward.
 
+The Girl
+
 "So you can finally hear me."
 
 The girl's voice was clear.
@@ -5105,6 +5921,8 @@ The girl's voice was clear.
 Perfectly clear.
 
 Neither of us moved.
+
+Emily
 
 "You..."
 
@@ -5126,11 +5944,15 @@ Relieved.
 
 I stepped beside Emily.
 
+Thomas
+
 "Who are you?"
 
 The girl looked at me.
 
 Then she quietly answered,
+
+The Girl
 
 "I don't remember."
 
@@ -5150,13 +5972,19 @@ Not toward me.
 
 Toward Emily.
 
+The Girl
+
 "You're not gone."
 
 Emily closed her eyes.
 
+Emily
+
 "I know."
 
 The girl continued.
+
+The Girl
 
 "But..."
 
@@ -5166,11 +5994,15 @@ She struggled.
 
 Emily looked away.
 
+Emily
+
 "I know."
 
 ## Page 12
 
 I turned toward Emily.
+
+Thomas
 
 "What does that mean?" I asked.
 
@@ -5180,15 +6012,25 @@ Instead...
 
 She quietly said,
 
+Emily
+
 "I've been hearing someone."
+
+Thomas
 
 "Who?"
 
+Emily
+
 "I don't know."
+
+Thomas
 
 "What are they saying?"
 
 She looked frightened.
+
+Emily
 
 "Sometimes..."
 
@@ -5222,6 +6064,8 @@ For the first time...
 
 He asked a question.
 
+Samuel
+
 "What do we do?"
 
 Not to me.
@@ -5245,6 +6089,8 @@ At me.
 At Emily.
 
 Her voice was almost a whisper.
+
+The Girl
 
 "It isn't finished."
 
@@ -5288,6 +6134,8 @@ Were gone.
 
 ## Page 2
 
+Thomas
+
 "Samuel?"
 
 No answer.
@@ -5310,7 +6158,11 @@ Nothing.
 
 ## Page 3
 
+Thomas
+
 "Emily?"
+
+Emily
 
 "I'm here."
 
@@ -5364,11 +6216,17 @@ The sound rolled through the empty building.
 
 Emily closed her eyes.
 
+Emily
+
 "It's ending."
+
+Thomas
 
 "What is?" I asked.
 
 She looked at me.
+
+Emily
 
 "I don't know."
 
@@ -5390,6 +6248,8 @@ She looked around the empty church.
 
 Then back at us.
 
+The Girl
+
 "They're gone."
 
 It wasn't a question.
@@ -5398,15 +6258,23 @@ It was simply true.
 
 ## Page 7
 
+Thomas
+
 "Where did they go?" I asked.
 
 The girl lowered her head.
 
+The Girl
+
 "I don't know."
+
+Thomas
 
 "You don't remember?"
 
 She slowly shook her head.
+
+The Girl
 
 "I remember..."
 
@@ -5470,6 +6338,8 @@ She placed her hands on the lever beside mine.
 
 I looked at her.
 
+Thomas
+
 "You don't have to."
 
 She smiled.
@@ -5477,6 +6347,8 @@ She smiled.
 This time...
 
 It was completely Emily.
+
+Emily
 
 "I know."
 
@@ -5550,6 +6422,8 @@ She looked at Emily.
 
 Then at me.
 
+The Girl
+
 "Thank you."
 
 There were no bright lights.
@@ -5610,6 +6484,8 @@ Perfectly.
 
 Normally.
 
+Emily
+
 "I guess we both made it home."
 
 I looked past her.
@@ -5623,6 +6499,8 @@ A dog barked somewhere down the block.
 An ordinary morning.
 
 I smiled.
+
+Thomas
 
 "I think we did."
 
@@ -5708,6 +6586,8 @@ She never laughed.
 
 She'd just smile and quietly say,
 
+Emily
+
 "It's still on your wrist."
 
 Then I'd look down.
@@ -5788,13 +6668,19 @@ Nothing was unusual.
 
 Emily looked at me.
 
+Emily
+
 "You felt it too?"
 
 I nodded.
 
+Thomas
+
 "Yeah."
 
 She smiled.
+
+Emily
 
 "I thought so."
 
@@ -5804,17 +6690,25 @@ Then we kept walking.
 
 ## Page 7
 
+Emily
+
 "Thomas?"
 
 I looked over.
+
+Thomas
 
 "Yeah?" I said.
 
 She laughed softly.
 
+Emily
+
 "Text me when you get home."
 
 I laughed too.
+
+Thomas
 
 "I will."
 
