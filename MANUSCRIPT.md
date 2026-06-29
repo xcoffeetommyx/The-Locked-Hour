@@ -1754,45 +1754,401 @@ I wasn't looking forward to going to bed.
 
 **World:** normal
 
-## Manuscript direction
+## Page 1
 
-Thomas and Emily actively try to stop the cycle by staying awake. Real-world investigation becomes a core part of the story.
+Work felt unreal the next day.
 
-Required beats:
-- Thomas goes through a long, exhausted workday.
-- He studies strangers and starts noticing familiar echoes from the church.
-- Emily comes over after work.
-- They spread notes, maps, phones, coffee, and energy drinks across the kitchen table.
-- Emily has written down more details than Thomas.
-- They discuss the lock stopping one inch short.
-- They research local history, old churches, winter disasters, missing settlements.
-- They try to stay awake together over a video call.
-- Their natural friendship should carry the chapter.
-- They both fail and fall asleep.
+Not bad.
 
-Required ending:
+Not busy.
 
-> I blinked.  
->  
-> The room was gone.  
->  
-> Snow landed softly on my jacket.  
->  
-> The cold found me before I could even open my eyes.  
->  
-> Somewhere nearby...  
->  
-> Emily whispered,  
->  
-> Emily  
->  
-> "We're back."  
->  
-> I opened my eyes.  
->  
-> This time...  
->  
-> The village was waiting for us.
+Just...
+
+thin.
+
+Like the world had become a set someone had forgotten to finish building.
+
+Customers talked.
+
+Registers beeped.
+
+Doors opened and closed.
+
+Everything sounded normal.
+
+That was the worst part.
+
+Normal had started to feel suspicious.
+
+## Page 2
+
+I kept looking at people too long.
+
+An old man buying batteries had Samuel's eyes.
+
+A woman at the end of an aisle laughed like someone I had heard inside the church.
+
+A child ran past me with a wooden toy in his hand.
+
+Not the same toy.
+
+Not even close.
+
+But close enough that I had to look away.
+
+## Page 3
+
+Emily found me near the back after lunch.
+
+She didn't ask if I was okay.
+
+That was one of the things I liked about her.
+
+She already knew the answer.
+
+"You look terrible," she said.
+
+"Good to see you too."
+
+"I mean worse than usual."
+
+"That helps."
+
+Emily crossed her arms.
+
+"You sleep?"
+
+I looked at her.
+
+"Did you?"
+
+"No."
+
+"Then no."
+
+## Page 4
+
+We agreed to meet at my place after work.
+
+Not because either of us had a plan.
+
+Because doing nothing felt worse.
+
+Emily showed up with a notebook, two energy drinks, and the expression of someone who had decided fear was less useful than preparation.
+
+I opened the door.
+
+She held up the drinks.
+
+"Supplies."
+
+"That's your survival plan?"
+
+"It's a start."
+
+## Page 5
+
+We spread everything across my kitchen table.
+
+Phones.
+
+Chargers.
+
+Coffee.
+
+Her notebook.
+
+A half-finished map I had printed from the internet.
+
+Emily had written down everything she remembered.
+
+Not just the big things.
+
+Everything.
+
+The church doors.
+
+The lever.
+
+The old man.
+
+The woman with the hammer.
+
+The wolves.
+
+The loose board near the window.
+
+## Page 6
+
+"You wrote all this?"
+
+Emily shrugged.
+
+"I didn't want to forget."
+
+I flipped through the pages.
+
+Her handwriting was messier than usual, but careful.
+
+Determined.
+
+"I counted twenty-three people," she said.
+
+"I would've guessed thirty."
+
+"There were twenty-three."
+
+"You sure?"
+
+She pointed at the notebook.
+
+"I counted twice."
+
+## Page 7
+
+I sat back.
+
+"Of course you did."
+
+"What does that mean?"
+
+"Nothing."
+
+"Thomas."
+
+"It means you would count people in a nightmare."
+
+Emily looked offended for half a second.
+
+Then smiled.
+
+"Someone has to be useful."
+
+"I was useful."
+
+"You pushed a door."
+
+"A very important door."
+
+"Badly."
+
+"It was already broken."
+
+## Page 8
+
+The joke died faster than either of us expected.
+
+I drew the lever from memory.
+
+A rough sketch.
+
+Too simple.
+
+Too wrong.
+
+Still...
+
+Looking at it made my stomach tighten.
+
+Emily leaned over the table.
+
+"It never closed."
+
+"I know."
+
+"No."
+
+She tapped the drawing.
+
+"It wasn't broken."
+
+I looked at her.
+
+"How do you know?"
+
+"Because everyone acted like that was normal."
+
+## Page 9
+
+That bothered me more than I wanted to admit.
+
+The lever stopping short should have terrified them.
+
+Instead, they treated it like weather.
+
+Unpleasant.
+
+Expected.
+
+Survivable.
+
+"Good enough," I said.
+
+Emily looked up.
+
+"What?"
+
+"That's what it felt like."
+
+She nodded slowly.
+
+"Yeah."
+
+Neither of us liked the phrase.
+
+## Page 10
+
+We searched for churches first.
+
+Old churches.
+
+Abandoned churches.
+
+Churches with iron doors.
+
+Churches with giant locks.
+
+Then winter disasters.
+
+Missing villages.
+
+Unexplained disappearances.
+
+Snowstorms.
+
+Local legends.
+
+Nothing matched.
+
+Or almost nothing matched.
+
+## Page 11
+
+Emily found a scanned newspaper clipping buried on some archive site.
+
+The page barely loaded.
+
+Most of the text was unreadable.
+
+But one line stood out.
+
+...winter congregation missing...
+
+Then the page refreshed.
+
+Error.
+
+Emily stared at the screen.
+
+"Did you see that?"
+
+"Yeah."
+
+"Tell me you saw that."
+
+"I saw it."
+
+She clicked reload.
+
+Nothing.
+
+The page was gone.
+
+## Page 12
+
+By midnight, we were both pretending not to be tired.
+
+Emily sat on the couch with her legs tucked under her.
+
+I sat on the floor because I thought being uncomfortable would help.
+
+It didn't.
+
+We kept the lights on.
+
+The television played quietly.
+
+Neither of us watched it.
+
+## Page 13
+
+"How tired are you?" I asked.
+
+Emily rubbed one eye.
+
+"Enough to hate you for suggesting this."
+
+"It was your idea."
+
+"I know."
+
+She yawned.
+
+"Still blaming you."
+
+"That's fair."
+
+For a moment, it almost felt normal again.
+
+Two friends.
+
+Too late at night.
+
+Trying not to admit they were scared.
+
+## Page 14
+
+Around three in the morning, the conversation started falling apart.
+
+Words came slower.
+
+Then shorter.
+
+Then not at all.
+
+"Still awake?" I asked.
+
+Emily didn't answer.
+
+I looked over.
+
+Her head had tipped against the back of the couch.
+
+Her eyes were closed.
+
+"Emily."
+
+Nothing.
+
+I reached toward her.
+
+Just to wake her.
+
+Just for a second.
+
+My own eyes closed before I touched her shoulder.
+
+## Page 15
+
+I blinked.
+
+The room was gone.
+
+Snow landed softly on my jacket.
+
+The cold found me before I could even open my eyes.
+
+Somewhere nearby...
+
+Emily whispered,
+
+"We're back."
+
+I opened my eyes.
+
+This time...
+
+The village was waiting for us.
 
 ---
 

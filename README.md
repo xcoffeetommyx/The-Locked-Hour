@@ -16,7 +16,7 @@ Then visit `http://localhost:8080`.
 
 ## Reader features
 
-- 215 pages in manuscript order
+- 229 pages in manuscript order
 - Normal, old-world, mixed, and after visual treatments
 - Previous/next controls, arrow keys, Space, and touch swipe navigation
 - Chapter contents panel
@@ -25,8 +25,6 @@ Then visit `http://localhost:8080`.
 - Three readable text sizes
 - Responsive phone, tablet, and desktop layouts
 - Reduced-motion support
-
-Chapter 5 remains direction-based in the source manuscript. It is included verbatim as a source-text page; the reader does not invent or rewrite story prose.
 
 ## Manuscript workflow
 

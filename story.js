@@ -5,7 +5,7 @@
 const STORY_META = Object.freeze({
   title: "The Locked Hour",
   author: "xCoffeeTommyx",
-  pageCount: 215,
+  pageCount: 229,
 });
 
 const STORY_PAGES = Object.freeze([
@@ -589,8 +589,162 @@ const STORY_PAGES = Object.freeze([
     "world": "normal",
     "pageNumber": 1,
     "isChapterStart": true,
-    "type": "source-note",
-    "text": "Thomas and Emily actively try to stop the cycle by staying awake. Real-world investigation becomes a core part of the story.\n\nRequired beats:\n- Thomas goes through a long, exhausted workday.\n- He studies strangers and starts noticing familiar echoes from the church.\n- Emily comes over after work.\n- They spread notes, maps, phones, coffee, and energy drinks across the kitchen table.\n- Emily has written down more details than Thomas.\n- They discuss the lock stopping one inch short.\n- They research local history, old churches, winter disasters, missing settlements.\n- They try to stay awake together over a video call.\n- Their natural friendship should carry the chapter.\n- They both fail and fall asleep.\n\nRequired ending:\n\n> I blinked.  \n>  \n> The room was gone.  \n>  \n> Snow landed softly on my jacket.  \n>  \n> The cold found me before I could even open my eyes.  \n>  \n> Somewhere nearby...  \n>  \n> Emily whispered,  \n>  \n> Emily  \n>  \n> \"We're back.\"  \n>  \n> I opened my eyes.  \n>  \n> This time...  \n>  \n> The village was waiting for us."
+    "type": "prose",
+    "text": "Work felt unreal the next day.\n\nNot bad.\n\nNot busy.\n\nJust...\n\nthin.\n\nLike the world had become a set someone had forgotten to finish building.\n\nCustomers talked.\n\nRegisters beeped.\n\nDoors opened and closed.\n\nEverything sounded normal.\n\nThat was the worst part.\n\nNormal had started to feel suspicious."
+  },
+  {
+    "id": "ch05-p02",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 2,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "I kept looking at people too long.\n\nAn old man buying batteries had Samuel's eyes.\n\nA woman at the end of an aisle laughed like someone I had heard inside the church.\n\nA child ran past me with a wooden toy in his hand.\n\nNot the same toy.\n\nNot even close.\n\nBut close enough that I had to look away."
+  },
+  {
+    "id": "ch05-p03",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 3,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "Emily found me near the back after lunch.\n\nShe didn't ask if I was okay.\n\nThat was one of the things I liked about her.\n\nShe already knew the answer.\n\n\"You look terrible,\" she said.\n\n\"Good to see you too.\"\n\n\"I mean worse than usual.\"\n\n\"That helps.\"\n\nEmily crossed her arms.\n\n\"You sleep?\"\n\nI looked at her.\n\n\"Did you?\"\n\n\"No.\"\n\n\"Then no.\""
+  },
+  {
+    "id": "ch05-p04",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 4,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "We agreed to meet at my place after work.\n\nNot because either of us had a plan.\n\nBecause doing nothing felt worse.\n\nEmily showed up with a notebook, two energy drinks, and the expression of someone who had decided fear was less useful than preparation.\n\nI opened the door.\n\nShe held up the drinks.\n\n\"Supplies.\"\n\n\"That's your survival plan?\"\n\n\"It's a start.\""
+  },
+  {
+    "id": "ch05-p05",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 5,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "We spread everything across my kitchen table.\n\nPhones.\n\nChargers.\n\nCoffee.\n\nHer notebook.\n\nA half-finished map I had printed from the internet.\n\nEmily had written down everything she remembered.\n\nNot just the big things.\n\nEverything.\n\nThe church doors.\n\nThe lever.\n\nThe old man.\n\nThe woman with the hammer.\n\nThe wolves.\n\nThe loose board near the window."
+  },
+  {
+    "id": "ch05-p06",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 6,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "\"You wrote all this?\"\n\nEmily shrugged.\n\n\"I didn't want to forget.\"\n\nI flipped through the pages.\n\nHer handwriting was messier than usual, but careful.\n\nDetermined.\n\n\"I counted twenty-three people,\" she said.\n\n\"I would've guessed thirty.\"\n\n\"There were twenty-three.\"\n\n\"You sure?\"\n\nShe pointed at the notebook.\n\n\"I counted twice.\""
+  },
+  {
+    "id": "ch05-p07",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 7,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "I sat back.\n\n\"Of course you did.\"\n\n\"What does that mean?\"\n\n\"Nothing.\"\n\n\"Thomas.\"\n\n\"It means you would count people in a nightmare.\"\n\nEmily looked offended for half a second.\n\nThen smiled.\n\n\"Someone has to be useful.\"\n\n\"I was useful.\"\n\n\"You pushed a door.\"\n\n\"A very important door.\"\n\n\"Badly.\"\n\n\"It was already broken.\""
+  },
+  {
+    "id": "ch05-p08",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 8,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "The joke died faster than either of us expected.\n\nI drew the lever from memory.\n\nA rough sketch.\n\nToo simple.\n\nToo wrong.\n\nStill...\n\nLooking at it made my stomach tighten.\n\nEmily leaned over the table.\n\n\"It never closed.\"\n\n\"I know.\"\n\n\"No.\"\n\nShe tapped the drawing.\n\n\"It wasn't broken.\"\n\nI looked at her.\n\n\"How do you know?\"\n\n\"Because everyone acted like that was normal.\""
+  },
+  {
+    "id": "ch05-p09",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 9,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "That bothered me more than I wanted to admit.\n\nThe lever stopping short should have terrified them.\n\nInstead, they treated it like weather.\n\nUnpleasant.\n\nExpected.\n\nSurvivable.\n\n\"Good enough,\" I said.\n\nEmily looked up.\n\n\"What?\"\n\n\"That's what it felt like.\"\n\nShe nodded slowly.\n\n\"Yeah.\"\n\nNeither of us liked the phrase."
+  },
+  {
+    "id": "ch05-p10",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 10,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "We searched for churches first.\n\nOld churches.\n\nAbandoned churches.\n\nChurches with iron doors.\n\nChurches with giant locks.\n\nThen winter disasters.\n\nMissing villages.\n\nUnexplained disappearances.\n\nSnowstorms.\n\nLocal legends.\n\nNothing matched.\n\nOr almost nothing matched."
+  },
+  {
+    "id": "ch05-p11",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 11,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "Emily found a scanned newspaper clipping buried on some archive site.\n\nThe page barely loaded.\n\nMost of the text was unreadable.\n\nBut one line stood out.\n\n...winter congregation missing...\n\nThen the page refreshed.\n\nError.\n\nEmily stared at the screen.\n\n\"Did you see that?\"\n\n\"Yeah.\"\n\n\"Tell me you saw that.\"\n\n\"I saw it.\"\n\nShe clicked reload.\n\nNothing.\n\nThe page was gone."
+  },
+  {
+    "id": "ch05-p12",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 12,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "By midnight, we were both pretending not to be tired.\n\nEmily sat on the couch with her legs tucked under her.\n\nI sat on the floor because I thought being uncomfortable would help.\n\nIt didn't.\n\nWe kept the lights on.\n\nThe television played quietly.\n\nNeither of us watched it."
+  },
+  {
+    "id": "ch05-p13",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 13,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "\"How tired are you?\" I asked.\n\nEmily rubbed one eye.\n\n\"Enough to hate you for suggesting this.\"\n\n\"It was your idea.\"\n\n\"I know.\"\n\nShe yawned.\n\n\"Still blaming you.\"\n\n\"That's fair.\"\n\nFor a moment, it almost felt normal again.\n\nTwo friends.\n\nToo late at night.\n\nTrying not to admit they were scared."
+  },
+  {
+    "id": "ch05-p14",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 14,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "Around three in the morning, the conversation started falling apart.\n\nWords came slower.\n\nThen shorter.\n\nThen not at all.\n\n\"Still awake?\" I asked.\n\nEmily didn't answer.\n\nI looked over.\n\nHer head had tipped against the back of the couch.\n\nHer eyes were closed.\n\n\"Emily.\"\n\nNothing.\n\nI reached toward her.\n\nJust to wake her.\n\nJust for a second.\n\nMy own eyes closed before I touched her shoulder."
+  },
+  {
+    "id": "ch05-p15",
+    "chapter": "Chapter 5",
+    "chapterNumber": 5,
+    "title": "Fighting Sleep",
+    "world": "normal",
+    "pageNumber": 15,
+    "isChapterStart": false,
+    "type": "prose",
+    "text": "I blinked.\n\nThe room was gone.\n\nSnow landed softly on my jacket.\n\nThe cold found me before I could even open my eyes.\n\nSomewhere nearby...\n\nEmily whispered,\n\n\"We're back.\"\n\nI opened my eyes.\n\nThis time...\n\nThe village was waiting for us."
   },
   {
     "id": "ch06-p01",
