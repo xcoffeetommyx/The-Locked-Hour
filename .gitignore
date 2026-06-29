@@ -1,0 +1,6 @@
+# Optional itch.io upload artifact; GitHub Pages serves the root files directly.
+the-locked-hour-itch.zip
+
+# Local operating-system files.
+.DS_Store
+Thumbs.db
