@@ -1806,23 +1806,39 @@ That was one of the things I liked about her.
 
 She already knew the answer.
 
+Emily
+
 "You look terrible," she said.
+
+Thomas
 
 "Good to see you too."
 
+Emily
+
 "I mean worse than usual."
+
+Thomas
 
 "That helps."
 
 Emily crossed her arms.
 
+Emily
+
 "You sleep?"
 
 I looked at her.
 
+Thomas
+
 "Did you?"
 
+Emily
+
 "No."
+
+Thomas
 
 "Then no."
 
@@ -1840,9 +1856,15 @@ I opened the door.
 
 She held up the drinks.
 
+Emily
+
 "Supplies."
 
+Thomas
+
 "That's your survival plan?"
+
+Emily
 
 "It's a start."
 
@@ -1880,9 +1902,13 @@ The loose board near the window.
 
 ## Page 6
 
+Thomas
+
 "You wrote all this?"
 
 Emily shrugged.
+
+Emily
 
 "I didn't want to forget."
 
@@ -1894,13 +1920,21 @@ Determined.
 
 "I counted twenty-three people," she said.
 
+Thomas
+
 "I would've guessed thirty."
 
+Emily
+
 "There were twenty-three."
+
+Thomas
 
 "You sure?"
 
 She pointed at the notebook.
+
+Emily
 
 "I counted twice."
 
@@ -1908,13 +1942,23 @@ She pointed at the notebook.
 
 I sat back.
 
+Thomas
+
 "Of course you did."
+
+Emily
 
 "What does that mean?"
 
+Thomas
+
 "Nothing."
 
+Emily
+
 "Thomas."
+
+Thomas
 
 "It means you would count people in a nightmare."
 
@@ -1922,15 +1966,27 @@ Emily looked offended for half a second.
 
 Then smiled.
 
+Emily
+
 "Someone has to be useful."
+
+Thomas
 
 "I was useful."
 
+Emily
+
 "You pushed a door."
+
+Thomas
 
 "A very important door."
 
+Emily
+
 "Badly."
+
+Thomas
 
 "It was already broken."
 
@@ -1952,9 +2008,15 @@ Looking at it made my stomach tighten.
 
 Emily leaned over the table.
 
+Emily
+
 "It never closed."
 
+Thomas
+
 "I know."
+
+Emily
 
 "No."
 
@@ -1964,7 +2026,11 @@ She tapped the drawing.
 
 I looked at her.
 
+Thomas
+
 "How do you know?"
+
+Emily
 
 "Because everyone acted like that was normal."
 
@@ -1982,15 +2048,23 @@ Expected.
 
 Survivable.
 
+Thomas
+
 "Good enough," I said.
 
 Emily looked up.
 
+Emily
+
 "What?"
+
+Thomas
 
 "That's what it felt like."
 
 She nodded slowly.
+
+Emily
 
 "Yeah."
 
@@ -2040,11 +2114,19 @@ Error.
 
 Emily stared at the screen.
 
+Emily
+
 "Did you see that?"
+
+Thomas
 
 "Yeah."
 
+Emily
+
 "Tell me you saw that."
+
+Thomas
 
 "I saw it."
 
@@ -2072,19 +2154,29 @@ Neither of us watched it.
 
 ## Page 13
 
+Thomas
+
 "How tired are you?" I asked.
 
 Emily rubbed one eye.
 
+Emily
+
 "Enough to hate you for suggesting this."
 
+Thomas
+
 "It was your idea."
+
+Emily
 
 "I know."
 
 She yawned.
 
 "Still blaming you."
+
+Thomas
 
 "That's fair."
 
@@ -2105,6 +2197,8 @@ Words came slower.
 Then shorter.
 
 Then not at all.
+
+Thomas
 
 "Still awake?" I asked.
 
@@ -2141,6 +2235,8 @@ The cold found me before I could even open my eyes.
 Somewhere nearby...
 
 Emily whispered,
+
+Emily
 
 "We're back."
 
